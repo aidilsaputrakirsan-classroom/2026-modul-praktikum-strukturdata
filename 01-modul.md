@@ -418,7 +418,7 @@ def linear_search(arr, target):
 #### Contoh 3: O(log n) - Binary Search
 
 ```mermaid
-flowchart TD
+flowchart LR
     START([🟢 START]) --> INIT[left = 0<br/>right = n - 1]
     INIT --> CHECK{left <= right ?}
     CHECK -->|Tidak| NOTFOUND[/Return -1/]
