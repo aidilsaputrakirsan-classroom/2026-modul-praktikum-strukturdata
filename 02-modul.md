@@ -493,7 +493,7 @@ print(f"Dimensi: {rows}x{cols}")
 #### Flowchart Traversal Matrix
 
 ```mermaid
-flowchart TD
+flowchart LR
     START([🟢 START]) --> INIT[i = 0]
     INIT --> CHECK1{i < jumlah_baris?}
     CHECK1 -->|Tidak| END([🔴 END])
