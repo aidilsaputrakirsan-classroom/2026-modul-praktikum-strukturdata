@@ -180,7 +180,7 @@ print(access(arr, 2))  # Output: 30
 #### Flowchart LINEAR SEARCH
 
 ```mermaid
-flowchart TD
+flowchart LR
     START([🟢 START]) --> INPUT[/Input: array, target/]
     INPUT --> INIT[i = 0]
     INIT --> CHECK{i < length?}
