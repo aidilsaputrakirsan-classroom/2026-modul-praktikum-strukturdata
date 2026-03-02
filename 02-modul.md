@@ -353,7 +353,7 @@ print(arr)      # Output: [10, 20, 30]
 #### B. Delete di Index Tertentu
 
 ```mermaid
-flowchart TD
+flowchart LR
     START([🟢 START]) --> INPUT[/Input: array, index/]
     INPUT --> CHECK{index valid?}
     CHECK -->|Tidak| ERROR[/Output: Error/]
