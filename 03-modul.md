@@ -101,7 +101,7 @@ flowchart TB
     end
     
     subgraph LINKED [Linked List - Memori Tersebar]
-        L0[10|•] -.-> L1[20|•] -.-> L2[30|•] -.-> L3[40|∅]
+        L0["10|•"] -.-> L1["20|•"] -.-> L2["30|•"] -.-> L3["40|∅"]
     end
     
     style ARRAY fill:#E6FFE6
@@ -317,7 +317,7 @@ def insert_at_end(self, data):
 #### Flowchart Insert di Posisi
 
 ```mermaid
-flowchart TD
+flowchart LR
     START([🟢 START]) --> INPUT[/Input: data, position/]
     INPUT --> CHECK_POS{position == 0?}
     CHECK_POS -->|Ya| INSERT_HEAD[Insert di awal]
@@ -443,7 +443,7 @@ def delete_at_beginning(self):
 #### Flowchart Delete di Akhir
 
 ```mermaid
-flowchart TD
+flowchart LR
     START([🟢 START]) --> CHECK1{HEAD == NULL?}
     CHECK1 -->|Ya| ERROR[/Output: Error<br/>List kosong/]
     CHECK1 -->|Tidak| CHECK2{HEAD.next == NULL?}
