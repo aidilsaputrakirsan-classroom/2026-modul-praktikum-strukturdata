@@ -37,15 +37,22 @@
 | 27 | **Mosses Restu Nugroho** | 10251083 | 100 | 100 | **100** | [Lihat Laporan](Evaluasi_10251083_MossesRestuNugroho.md) |
 | 28 | **Muhammad Rasya Al Khalifi** | 10251071 | 100 | 0 | **50** | [Lihat Laporan](Evaluasi_10251071_MuhammadRasyaAlKhalifi.md) |
 | 29 | **Muhammad Rizqi Akbar** | 10251074 | 100 | 100 | **100** | [Lihat Laporan](Evaluasi_10251074_MuhammadRizqiAkbar.md) |
-| 30 | **Muhammad Rizqi Hidayah** | 10251075 | 0 | 0 | **0** | [Lihat Laporan](Evaluasi_10251075_MuhammadRizqiHidayah.md) |
+| 30 | **Muhammad Rizqi Hidayah** | 10251075 | 50 | 50 | **50** | [Lihat Laporan](Evaluasi_10251075_MuhammadRizqiHidayah.md) |
 | 31 | **Noel Natalian Somba** | 10251053 | 100 | 100 | **100** | [Lihat Laporan](Evaluasi_10251053_NoelNatalianSomba.md) |
 | 32 | **Nur Hayyu Nurdin** | 10251095 | 100 | 100 | **100** | [Lihat Laporan](Evaluasi_10251095_NurHayyuNurdin.md) |
 | 33 | **Rifat Sutha Abdillah** | 10251107 | 100 | 100 | **100** | [Lihat Laporan](Evaluasi_10251107_RifatSuthaAbdillah.md) |
 | 34 | **Risna Andriani** | 10251077 | 96 | 100 | **98** | [Lihat Laporan](Evaluasi_10251077_RisnaAndriani.md) |
-| 35 | **Rizzqiii** | Unknown | 0 | 0 | **0** | [Lihat Laporan](Evaluasi_Unknown_Rizzqiii.md) |
-| 36 | **Syahrina Aliyyu Tunggadewi** | 10251056 | 100 | 100 | **100** | [Lihat Laporan](Evaluasi_10251056_SyahrinaAliyyuTunggadewi.md) |
-| 37 | **Muhammad Azriel Al Fadhil** | 10251117 | 100 | 100 | **100** | [Lihat Laporan](Evaluasi_10251117_MuhammadAzrielAlFadhil.md) |
-| 38 | **froshan48** | Unknown | 0 | 0 | **0** | [Lihat Laporan](Evaluasi_Unknown_froshan48.md) |
-| 39 | **ghost** | Unknown | 0 | 0 | **0** | [Lihat Laporan](Evaluasi_Unknown_ghost.md) |
-| 40 | **snowyy26** | Unknown | 0 | 0 | **0** | [Lihat Laporan](Evaluasi_Unknown_snowyy26.md) |
+| 35 | **Syahrina Aliyyu Tunggadewi** | 10251056 | 100 | 100 | **100** | [Lihat Laporan](Evaluasi_10251056_SyahrinaAliyyuTunggadewi.md) |
+| 36 | **Muhammad Azriel Al Fadhil** | 10251117 | 100 | 100 | **100** | [Lihat Laporan](Evaluasi_10251117_MuhammadAzrielAlFadhil.md) |
+| 37 | **snowyy26 (Razi)** | 10251092 | 50 | 50 | **50** | [Lihat Laporan](Evaluasi_Unknown_snowyy26.md) |
+
+---
+
+## 📝 Catatan Khusus Evaluasi
+Beberapa mahasiswa mendapatkan nilai khusus dikarenakan alasan berikut:
+1. **Muhammad Rizqi Hidayah (10251075):** Nilai Maksimum 50 (Telat).
+2. **Muhammad Rasya Al Khalifi (10251071):** Hanya mengerjakan Modul 1 (Nilai 100), namun Modul 2 kosong sama sekali (Nilai 0).
+3. **snowyy26 (Razi Abdullah):** Nilai Maksimum 50 (Telat).
+
+*Catatan: Repositori froshan48, ghost, dan rizzqiii telah dihapus dari daftar evaluasi karena tidak ditemukan data pengerjaan sama sekali.*
 
