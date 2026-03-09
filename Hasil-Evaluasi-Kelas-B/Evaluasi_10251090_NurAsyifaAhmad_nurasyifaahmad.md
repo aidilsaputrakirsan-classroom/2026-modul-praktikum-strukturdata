@@ -1,0 +1,56 @@
+# 📝 Laporan Evaluasi Terperinci - Praktikum Struktur Data
+
+---
+
+## 👤 Data Mahasiswa
+- **Nama:** Nur Asyifa Ahmad
+- **NIM:** 10251090
+- **Kelas:** Struktur Data B
+- **GitHub Username:** `strukturdata-b-nurasyifaahmad`
+
+---
+
+## 🥇 Hasil Evaluasi Modul 1: Pengantar Struktur Data
+
+### 1. Tugas 1: Pengembangan ADT Counter
+- **Pengecekan Kode:**
+  - Fungsi kalkulasi _increment/decrement_ objek counter divalidasi dengan operator `subtract` (limit threshold 0 teratasi), fungsi *add*, serta iterasi kali (*multiply*) tercompile tanpa halangan.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Pengembangan ADT Stack - Aplikasi Reverse String
+- **Pengecekan Kode:**
+  - Metode filter balik (*reverse* kata) dari class Object Stack dapat terisi (_push_) dengan nilai argumen teks kemudian dilooping pencetakan iterabel karakternya menggunakan logic `.pop()`. Berjalan normal.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Kompleksitas Lanjutan
+- **Tabel Analisis Kompleksitas & Jawaban:**
+  - Logic profiler Time Execution digunakan dengan sukses mengukur *running time limit* rekursi, maupun iterasi bersarang *nested loops arrays* sampai array 1000an data menggunakan microsecond.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 1: 100 ✨**
+
+---
+
+## 🥈 Hasil Evaluasi Modul 2: Array
+
+### 1. Tugas 1: Pengembangan MyArray
+- **Pengecekan Kode:**
+  - Algoritma meniadakan nilai statis index array awal dieksekusi benar pada fungsi `delete_front()`. Dilanjut komputasi balikan array _reverse_, *minimum & maximum* index yang tanpa *exceptions*.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Array - Statistik Data
+- **Pengecekan Kode:**
+  - Penambahan perhitungan math *average*, metode reset data kembar di iterasi list, hingga merangkai range serta `second_largest` maximum pada struktur array tunggal divalidasi program Unit test.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Matrix - Operasi Dasar
+- **Pengecekan Kode:**
+  - Pertambahan array 2-Dimensi list Matrix (kolom x row) dirangkai rapi lewat script `add_matrices`, *boolean* pendeteksi index *Symmetric*, dengan iterasi matrix index _Transpose_ normal.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 2: 100 ✨**
+
+---
+### **🏆 NILAI RATA-RATA SEMENTARA: 100.00 🏆**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.* 
