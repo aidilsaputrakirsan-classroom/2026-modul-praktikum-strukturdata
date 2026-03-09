@@ -8,7 +8,7 @@ Dokumen ini adalah standarisasi panduan (skill/workflow) untuk agent dalam melak
 ## 1. Persiapan Evaluasi
 - Pastikan repositori mahasiswa sudah berhasil di-clone (misal menggunakan `gh classroom clone student-repos`).
 - Siapkan direktori laporan hasil evaluasi yang terpisah per kelas (misal: `Hasil-Evaluasi-Kelas-A`, `Hasil-Evaluasi-Kelas-B`).
-- Di dalam direktori tersebut, buat satu file rekapitulasi utama, misal `Laporan_Evaluasi.md`.
+- Di dalam direktori tersebut, buat satu file rekapitulasi utama bernama `README.md`.
 - Lakukan evaluasi secara berurutan, direpresentasikan dalam _checklist_ tugas (berdasarkan NIM terkecil hingga terbesar jika memungkinkan).
 
 ## 2. Proses Pemeriksaan (Per Mahasiswa)
@@ -33,7 +33,7 @@ Untuk setiap mahasiswa, agent harus mereplikasi langkah berikut:
    - Masukkan informasi mahasiswa, hasil review kode fungsional per tugas, hasil uji unit, dan nilai parsial modul.
    - Hitung dan berikan blok **NILAI RATA-RATA SEMENTARA** pada akhir dokumen.
 2. **Update Laporan Keseluruhan:**
-   - Tambahkan baris _table row_ baru di dalam file `Laporan_Evaluasi.md`.
+   - Tambahkan baris _table row_ baru di dalam file `README.md`.
    - Cantumkan: Nomor urut, Nama Lengkap, NIM, Nilai per Modul, Rata-rata, dan _relative link_ yang mengarah secara tepat ke Laporan Individu mahasiswa tersebut.
 
 ## 4. Pelaporan ke User

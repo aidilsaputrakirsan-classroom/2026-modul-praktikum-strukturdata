@@ -8,7 +8,7 @@ File instruksi dan kapabilitas ini memandu saya, AI Assistant, untuk mengevaluas
 ## Langkah Evaluasi untuk Kelas-Kelas Berikutnya (Contoh: Kelas B)
 
 1. **Persiapan Laporan**  
-   - Buat direktori `Hasil-Evaluasi-Kelas-X` yang di dalamnya terpadu satu file inti `Laporan_Evaluasi.md` berisi tabel ringkasan nilai dengan List/Link menuju Laporan Individu tiap mahasiswa secara terpisah.
+   - Buat direktori `Hasil-Evaluasi-Kelas-X` yang di dalamnya terpadu satu file inti `README.md` berisi tabel ringkasan nilai dengan List/Link menuju Laporan Individu tiap mahasiswa secara terpisah.
 
 2. **Membaca Instruksi Dasar dan Modul**  
    - Buka `01-modul.md` atau `02-modul.md` untuk memahami soal Tugas Terstruktur yang diselesaikan mahasiswa.
@@ -29,6 +29,6 @@ File instruksi dan kapabilitas ini memandu saya, AI Assistant, untuk mengevaluas
    - Untuk setiap mahasiswa yang dievaluasi, buat file markdown bernama `Evaluasi_NIM_NamaLengkap.md`. 
    - Di dalamnya, tulislah hasil *code review* dengan ringkas dan terperinci untuk Tugas masing-masing (seperti "Penggunaan *list swap/if-else statement* yang brilian", dll) dan cantumkan nilai per modul.
    - Hitung nilai rata-rata sementara dan bubuhkan di profil Laporan.
-   - Tambahkan *hyperlink* rujukan di daftar nama ke dalam `Laporan_Evaluasi.md`.
+   - Tambahkan *hyperlink* rujukan di daftar nama ke dalam `README.md`.
 
 *Pendekatan ini berpegang teguh pada integritas analisis manual AI dan mencegah skor buatan otomatis yang tidak bisa diverifikasi silang dengan logika algoritma orisinil tiap mahasiswa.*

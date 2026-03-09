@@ -1,4 +1,4 @@
-# 📊 Laporan Evaluasi Praktikum Struktur Data (Kelas A) - Modul 1 & 2
+﻿# Laporan Evaluasi Praktikum Struktur Data (Kelas A) - Modul 1 & 2
 
 > **Catatan:** Laporan ini diperbarui secara manual setiap kali asisten selesai memeriksa dan menjalankan *test case* satu per satu sesuai urutan NIM.
 
@@ -6,7 +6,7 @@
 
 ## 📋 Rekapitulasi Nilai Mahasiswa
 
-| No | 👤 Nama Lengkap | 🆔 NIM | 🟢 Modul 1 | 🔵 Modul 2 | 🌟 Nilai Rata-rata Sementara | 📑 Detail Evaluasi |
+| No | Nama Lengkap | NIM | Modul 1 | Modul 2 | Nilai Rata-rata Sementara | Detail Evaluasi |
 |---:|:---|:---|:---:|:---:|:---:|:---|
 | 1 | **Rendy** | 10231081 | 100 | 100 | **100** | [Lihat Laporan](Evaluasi_10231081_NorEndGate.md) |
 | 2 | **Dina Gracella Apnel Lengkong** | 10251002 | 100 | 100 | **100** | [Lihat Laporan](Evaluasi_10251002_DinaGracellaApnelLengkong.md) |
@@ -48,3 +48,4 @@
 | 38 | **froshan48** | Unknown | 0 | 0 | **0** | [Lihat Laporan](Evaluasi_Unknown_froshan48.md) |
 | 39 | **ghost** | Unknown | 0 | 0 | **0** | [Lihat Laporan](Evaluasi_Unknown_ghost.md) |
 | 40 | **snowyy26** | Unknown | 0 | 0 | **0** | [Lihat Laporan](Evaluasi_Unknown_snowyy26.md) |
+
