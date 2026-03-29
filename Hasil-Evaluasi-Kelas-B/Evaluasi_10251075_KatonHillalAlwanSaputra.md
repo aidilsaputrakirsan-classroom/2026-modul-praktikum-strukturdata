@@ -40,6 +40,24 @@
 **✨ NILAI MODUL 2: 0 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA SEMENTARA: 50.00 🏆**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.* 
+## 🥉 Hasil Evaluasi Modul 3: Single Linked List
+
+- **Pengecekan Kode:** Folder `Minggu 3` ditemukan dalam repositori, namun hanya berisi file kode praktikum: `kode3.1.py`, `kode3.2.py`, `kode3.3.py`, dan file kosong `Katon`. **Tidak ada file Tugas 1, Tugas 2, maupun Tugas 3 untuk Modul 3 (pengembangan LinkedList, Polynomial, Music Playlist).** File kode praktikum yang ada hanya berisi implementasi dasar `LinkedList` dari modul praktikum, tanpa method tambahan (`reverse`, `find_min`, `find_max`, `remove_value`, `to_list`) yang diminta. ⚠️
+- **Hasil Testing Terminal:** **TIDAK ADA SUBMISSION TUGAS** ❌ (0%)
+
+**✨ NILAI MODUL 3: 0 ✨**
+
+---
+
+## 🏅 Hasil Evaluasi Modul 4: Double & Circular Linked List
+
+- **Pengecekan Kode:** Repositori diperiksa secara menyeluruh. Folder `Minggu 4` **tidak ada** dalam repositori mahasiswa. Folder `minggu 2` diperiksa dan hanya berisi `Tugas 1/2/3_10251075` (Modul 2), `katon` (file kosong), dan `kode2.1.py`-`kode2.3.py`. **Tidak ada submission Modul 4 (Double & Circular Linked List) sama sekali.** ⚠️
+- **Hasil Testing Terminal:** **TIDAK ADA SUBMISSION** ❌ (0%)
+
+**✨ NILAI MODUL 4: 0 ✨**
+
+---
+### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 25.00 🏆**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

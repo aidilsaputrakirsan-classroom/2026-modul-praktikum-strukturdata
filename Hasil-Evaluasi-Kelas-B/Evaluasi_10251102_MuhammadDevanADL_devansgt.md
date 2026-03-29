@@ -40,6 +40,48 @@
 **✨ NILAI MODUL 2: 0 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA SEMENTARA: 50.00 🏆**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.* 
+## 🥉 Hasil Evaluasi Modul 3: Single Linked List
+
+- **Pengecekan Kode:** Tidak ditemukan folder atau file submission terkait Modul 3 di repositori mahasiswa ini. Folder `devan punya` hanya berisi file Modul 1/2 praktikum.
+- **Hasil Testing Terminal:** **TIDAK ADA SUBMISSION** ❌
+
+### 1. Tugas 1: Pengembangan LinkedList
+- **Pengecekan Kode:** Tidak ada file.
+- **Hasil Testing Terminal:** **FAILED** ❌
+
+### 2. Tugas 2: Aplikasi Linked List - Polynomial
+- **Pengecekan Kode:** Tidak ada file.
+- **Hasil Testing Terminal:** **FAILED** ❌
+
+### 3. Tugas 3: Aplikasi Linked List - Music Playlist
+- **Pengecekan Kode:** Tidak ada file.
+- **Hasil Testing Terminal:** **FAILED** ❌
+
+**✨ NILAI MODUL 3: 0 ✨**
+
+---
+
+## 🏅 Hasil Evaluasi Modul 4: Double & Circular Linked List
+
+- **Pengecekan Kode:** Tidak ditemukan folder atau file submission terkait Modul 4 di repositori mahasiswa ini.
+- **Hasil Testing Terminal:** **TIDAK ADA SUBMISSION** ❌
+
+### 1. Tugas 1: Pengembangan Double Linked List
+- **Pengecekan Kode:** Tidak ada file.
+- **Hasil Testing Terminal:** **FAILED** ❌
+
+### 2. Tugas 2: Aplikasi DLL - Text Editor Undo/Redo
+- **Pengecekan Kode:** Tidak ada file.
+- **Hasil Testing Terminal:** **FAILED** ❌
+
+### 3. Tugas 3: Aplikasi CLL - Round Robin Scheduler
+- **Pengecekan Kode:** Tidak ada file.
+- **Hasil Testing Terminal:** **FAILED** ❌
+
+**✨ NILAI MODUL 4: 0 ✨**
+
+---
+### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 25.00 🏆**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

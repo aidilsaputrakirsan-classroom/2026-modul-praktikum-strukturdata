@@ -40,6 +40,24 @@
 **✨ NILAI MODUL 2: 0 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA SEMENTARA: 50.00 🏆**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.* 
+## 🥉 Hasil Evaluasi Modul 3: Single Linked List
+
+- **Pengecekan Kode:** Repositori telah diperiksa. **Tidak ada folder atau file pengerjaan untuk Modul 3**. Folder yang tersedia hanya `minggu 1`, `minggu2`, dan file lain. ⚠️
+- **Hasil Testing Terminal:** **FAILED** ❌ (0%) - Tidak ada submission
+
+**✨ NILAI MODUL 3: 0 ✨**
+
+---
+
+## 🏅 Hasil Evaluasi Modul 4: Double & Circular Linked List
+
+- **Pengecekan Kode:** Repositori telah diperiksa. **Tidak ada folder atau file pengerjaan untuk Modul 4**. Tidak ada folder Minggu 3 maupun Minggu 4 dalam repositori. ⚠️
+- **Hasil Testing Terminal:** **FAILED** ❌ (0%) - Tidak ada submission
+
+**✨ NILAI MODUL 4: 0 ✨**
+
+---
+### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 25.00 🏆**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

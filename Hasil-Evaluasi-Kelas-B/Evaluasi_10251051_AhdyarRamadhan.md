@@ -51,6 +51,24 @@
 **✨ NILAI MODUL 2: 100 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA SEMENTARA: 100.00 🏆**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.* 
+## 🥉 Hasil Evaluasi Modul 3: Single Linked List
+
+- **Pengecekan Kode:** Repositori diperiksa secara menyeluruh. Folder submission (`strukturdata-b-AhdyarRamadhan`) hanya memiliki `Minggu1`, `Minggu1Strukdat`, `Minggu2`, dan file `Tugas1/2/3` di root yang merupakan tugas Modul 1. **Tidak ada folder `Minggu3` atau file tugas Modul 3 (Single Linked List) sama sekali.** ⚠️
+- **Hasil Testing Terminal:** **TIDAK ADA SUBMISSION** ❌ (0%)
+
+**✨ NILAI MODUL 3: 0 ✨**
+
+---
+
+## 🏅 Hasil Evaluasi Modul 4: Double & Circular Linked List
+
+- **Pengecekan Kode:** Repositori diperiksa secara menyeluruh. **Tidak ada folder `Minggu4` atau file tugas Modul 4 (Double & Circular Linked List) sama sekali.** ⚠️
+- **Hasil Testing Terminal:** **TIDAK ADA SUBMISSION** ❌ (0%)
+
+**✨ NILAI MODUL 4: 0 ✨**
+
+---
+### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 50.00 🏆**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

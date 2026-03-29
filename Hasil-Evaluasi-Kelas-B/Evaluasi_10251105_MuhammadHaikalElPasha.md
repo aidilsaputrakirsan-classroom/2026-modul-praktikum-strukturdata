@@ -54,6 +54,42 @@
 *(Dibulatkan menjadi 87)*
 
 ---
-### **🏆 NILAI RATA-RATA SEMENTARA: 93.50 🏆**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.* 
+## 🥉 Hasil Evaluasi Modul 3: Single Linked List
+
+### 1. Tugas 1: Pengembangan LinkedList
+- **Pengecekan Kode:** Semua method baru (`reverse`, `find_min`, `find_max`, `remove_value`, `to_list`) diimplementasikan dengan benar. Struktur kode rapi dan mengikuti pola yang sama dengan modul praktikum.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Linked List - Polynomial
+- **Pengecekan Kode:** Implementasi `Polynomial` dengan semua method yang diperlukan berjalan benar. `add_term` menyimpan term terurut dari pangkat tertinggi ke terendah dan menggabungkan koefisien jika pangkat sama.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Linked List - Music Playlist
+- **Pengecekan Kode:** Class `Playlist` diimplementasikan lengkap dengan semua method yang diminta. Format display menggunakan `format_duration` untuk konversi detik ke mm:ss.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 3: 100 ✨**
+
+---
+
+## 🏅 Hasil Evaluasi Modul 4: Double & Circular Linked List
+
+### 1. Tugas 1: Pengembangan Double Linked List
+- **Pengecekan Kode:** Semua method baru (`reverse`, `find_min`, `find_max`, `swap_nodes`, `is_palindrome`, `to_list`) diimplementasikan dengan benar. Implementasi identik dengan referensi dan lulus semua test case.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi DLL - Text Editor Undo/Redo
+- **Pengecekan Kode:** Class `TextEditor` diimplementasikan dengan benar termasuk fitur branching (menghapus redo history saat mengetik teks baru setelah undo). Semua test case lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi CLL - Round Robin Scheduler
+- **Pengecekan Kode:** Class `RoundRobinScheduler` diimplementasikan dengan benar. Output timeline eksekusi sesuai ekspektasi. Statistik total waktu juga benar (12 unit).
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 4: 100 ✨**
+
+---
+### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 96.75 🏆**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

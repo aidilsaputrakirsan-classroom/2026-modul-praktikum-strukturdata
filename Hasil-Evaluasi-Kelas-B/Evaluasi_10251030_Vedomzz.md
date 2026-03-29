@@ -51,6 +51,42 @@
 **✨ NILAI MODUL 2: 100 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA SEMENTARA: 100.00 🏆**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.* 
+## 🥉 Hasil Evaluasi Modul 3: Single Linked List
+
+### 1. Tugas 1: Pengembangan LinkedList
+- **Pengecekan Kode:** Implementasi `reverse()`, `find_min()`, `find_max()`, `remove_value()`, dan `to_list()` sudah benar. Seluruh method dari praktikum juga diimplementasikan lengkap (insert, delete, search, get, count, clear, get_head, get_tail). Logika tiga-pointer untuk reverse benar.
+- **Hasil Testing Terminal:** **PASSED** ✅
+
+### 2. Tugas 2: Aplikasi Linked List - Polynomial
+- **Pengecekan Kode:** `add_term` mengurutkan berdasarkan pangkat secara benar dan menangani penggabungan koefisien sama pangkat. `display` memformat polinom dengan tampilan lebih bersih (tanpa `x^0`, `x^1`). `add_polynomials` menggunakan merge-style loop yang efisien.
+- **Hasil Testing Terminal:** **PASSED** ✅
+
+### 3. Tugas 3: Aplikasi Linked List - Music Playlist
+- **Pengecekan Kode:** Semua method diimplementasikan dengan benar. Minor: method `display` tidak mencetak baris "Total: n songs, duration" (variabel dihitung tapi tidak diprint). Namun semua assert test cases lolos karena pengujian tidak memeriksa output display secara langsung.
+- **Hasil Testing Terminal:** **PASSED** ✅
+
+**✨ NILAI MODUL 3: 100 ✨**
+
+---
+
+## 🏅 Hasil Evaluasi Modul 4: Double & Circular Linked List
+
+### 1. Tugas 1: Pengembangan Double Linked List
+- **Pengecekan Kode:** Semua method DLL diimplementasikan dengan benar: `reverse()` menukar prev/next in-place lalu swap head/tail; `find_min/max()` benar; `swap_nodes()` hanya tukar data (sesuai spesifikasi); `is_palindrome()` menggunakan dua pointer dari kedua ujung dengan kondisi terminasi yang tepat.
+- **Hasil Testing Terminal:** **PASSED** ✅
+
+### 2. Tugas 2: Aplikasi DLL - Text Editor Undo/Redo
+- **Pengecekan Kode:** `type_text` menghapus redo history dengan `current.next = None` sebelum buat node baru. `undo/redo` menggeser pointer current ke prev/next. Branching test lolos karena setelah undo lalu type_text baru, redo hilang.
+- **Hasil Testing Terminal:** **PASSED** ✅
+
+### 3. Tugas 3: Aplikasi CLL - Round Robin Scheduler
+- **Pengecekan Kode:** Terdapat bug kritis pada `execute_one_cycle`: baris `return None` ditempatkan di luar kondisi (`if not self.head`) namun semua kode eksekusi setelahnya berada di dalam blok `if`, sehingga ketika antrian tidak kosong, fungsi selalu return None tanpa menjalankan proses apapun. Hal ini menyebabkan `run()` masuk infinite loop karena `head` tidak pernah diubah.
+- **Hasil Testing Terminal:** **FAILED** ❌ (infinite loop)
+
+**✨ NILAI MODUL 4: 90 ✨**
+
+---
+### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 97.50 🏆**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

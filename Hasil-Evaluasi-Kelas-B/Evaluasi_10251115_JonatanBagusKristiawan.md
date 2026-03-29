@@ -51,6 +51,42 @@
 **✨ NILAI MODUL 2: 100 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA SEMENTARA: 100.00 🏆**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.* 
+## 🥉 Hasil Evaluasi Modul 3: Single Linked List
+
+### 1. Tugas 1: Pengembangan LinkedList
+- **Pengecekan Kode:** Implementasi sangat lengkap dengan semua method dasar praktikum. `reverse()`, `find_min()`, `find_max()`, `remove_value()`, dan `to_list()` diimplementasikan dengan benar menggunakan pola traverse standar. Test case identik dengan soal semuanya terpenuhi.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Linked List - Polynomial
+- **Pengecekan Kode:** Implementasi `Polynomial` lengkap. `add_term()` menjaga urutan pangkat dan menggabungkan koefisien menggunakan pendekatan merge sort-style dengan `current1`/`current2`. `evaluate()`, `degree()`, dan `add_polynomials()` benar. Display menggunakan format berbeda (`"3x^2"`, `"2x"`, `"5"`) — bersih dan valid. Semua assertion lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Linked List - Music Playlist
+- **Pengecekan Kode:** Implementasi `Playlist` lengkap sesuai spesifikasi soal. `add_song()`, `remove_song()`, `play()`, `next_song()`, `current_song()`, `total_duration()`, `song_count()`, `display()`, dan `search_by_artist()` semuanya benar. `format_duration()` helper tersedia. Semua test case lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 3: 100 ✨**
+
+---
+
+## 🏅 Hasil Evaluasi Modul 4: Double & Circular Linked List
+
+### 1. Tugas 1: Pengembangan Double Linked List
+- **Pengecekan Kode:** Ada duplikasi definisi `class DNode` (dua kali) di file — Python hanya menggunakan definisi terakhir, tidak menyebabkan error. `reverse()` menggunakan pendekatan berbeda: menyimpan `next_node`, lalu set `current.next = prev_node` dan `current.prev = next_node`, kemudian advance via `next_node`. Setelah loop, swap `head`/`tail`. Logika ini benar. `find_min()`, `find_max()`, `swap_nodes()`, `is_palindrome()`, `to_list()` semuanya benar. Semua test case lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi DLL - Text Editor Undo/Redo
+- **Pengecekan Kode:** Implementasi `TextEditor` benar secara fungsional. `type_text()` menggunakan loop `while current.next is not None: current.next = current.next.next` untuk menghapus semua node setelah current — pendekatan ini benar karena `current` tidak bergeser, tiap iterasi mempersingkat chain. Setelah loop, disambungkan ke `new_node`. `undo()`, `redo()`, branching semuanya benar. Semua test case lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi CLL - Round Robin Scheduler
+- **Pengecekan Kode:** Terdapat bug kritis pada `execute_one_cycle()`: ketika proses **belum selesai** (remaining > 0), tidak ada penggeseran `self.head = self.head.next`. Akibatnya `run()` akan **infinite loop** pada proses pertama yang belum selesai, karena proses yang sama terus-menerus dieksekusi tanpa berganti ke proses berikutnya. Logika CLL round-robin yang benar mengharuskan head digeser ke proses berikutnya setelah tiap cycle. `get_statistics()` hanya mengembalikan `total_time`.
+- **Hasil Testing Terminal:** **FAILED** ❌ (infinite loop — head tidak diadvance untuk proses yang belum selesai)
+
+**✨ NILAI MODUL 4: 80 ✨**
+
+---
+### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 95.00 🏆**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

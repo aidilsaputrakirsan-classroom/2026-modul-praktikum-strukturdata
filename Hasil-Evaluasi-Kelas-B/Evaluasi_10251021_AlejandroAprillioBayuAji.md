@@ -51,6 +51,42 @@
 **✨ NILAI MODUL 2: 100 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA SEMENTARA: 100.00 🏆**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.* 
+## 🥉 Hasil Evaluasi Modul 3: Single Linked List
+
+### 1. Tugas 1: Pengembangan LinkedList
+- **Pengecekan Kode:** Implementasi `reverse()`, `find_min()`, `find_max()`, `remove_value()`, dan `to_list()` benar dan efisien. Logika reverse menggunakan tiga pointer standar. `remove_value` menangani edge case head dan node tidak ditemukan.
+- **Hasil Testing Terminal:** **PASSED** ✅
+
+### 2. Tugas 2: Aplikasi Linked List - Polynomial
+- **Pengecekan Kode:** `add_term` mengurutkan suku dari pangkat tertinggi, menggabungkan koefisien jika eksponen sama. `display` memformat polinom secara dinamis (menghilangkan koefisien 1, tidak menampilkan `^1` dan `^0`). `add_polynomials` menggunakan while loop merge yang tepat.
+- **Hasil Testing Terminal:** **PASSED** ✅
+
+### 3. Tugas 3: Aplikasi Linked List - Music Playlist
+- **Pengecekan Kode:** Semua method playlist diimplementasikan lengkap dan benar. `next_song` memeriksa apakah current tidak None sebelum berpindah. `display` mencetak total durasi.
+- **Hasil Testing Terminal:** **PASSED** ✅
+
+**✨ NILAI MODUL 3: 100 ✨**
+
+---
+
+## 🏅 Hasil Evaluasi Modul 4: Double & Circular Linked List
+
+### 1. Tugas 1: Pengembangan Double Linked List
+- **Pengecekan Kode:** Logika DLL (reverse, find_min/max, swap_nodes, is_palindrome, to_list) semuanya benar. Namun terdapat baris `from prakpemstruk.kode3_1_... import Node` yang merujuk modul tidak terpasang, sehingga file gagal dijalankan langsung (`ModuleNotFoundError`). Setelah import dihapus, semua test lolos.
+- **Hasil Testing Terminal:** **FAILED** ❌ (ModuleNotFoundError - import tidak valid, namun logika benar)
+
+### 2. Tugas 2: Aplikasi DLL - Text Editor Undo/Redo
+- **Pengecekan Kode:** `type_text` menghapus redo history dengan while loop sebelum membuat node baru. `undo/redo` benar. `show_history` tidak diimplementasikan (pass), namun tidak mempengaruhi hasil test assert.
+- **Hasil Testing Terminal:** **PASSED** ✅
+
+### 3. Tugas 3: Aplikasi CLL - Round Robin Scheduler
+- **Pengecekan Kode:** `remove_process` hanya menangani kasus single-node (langsung set head=None); untuk kasus multi-node jika yang dihapus bukan head, tidak ada logika penghapusan. `execute_one_cycle` tidak mengembalikan `result` (tidak ada `return result`). `run()` mencetak "All processes completed!" di dalam loop setiap iterasi. Akibatnya scheduler tidak berfungsi dengan benar dan masuk infinite loop.
+- **Hasil Testing Terminal:** **FAILED** ❌ (infinite loop akibat remove_process tidak lengkap)
+
+**✨ NILAI MODUL 4: 80 ✨**
+
+---
+### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 95.00 🏆**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

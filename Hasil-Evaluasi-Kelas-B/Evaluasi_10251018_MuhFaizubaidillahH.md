@@ -51,6 +51,42 @@
 **✨ NILAI MODUL 2: 100 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA SEMENTARA: 100.00 🏆**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.* 
+## 🥉 Hasil Evaluasi Modul 3: Single Linked List
+
+### 1. Tugas 1: Pengembangan LinkedList
+- **Pengecekan Kode:** Implementasi lengkap dan benar. `reverse()`, `find_min()`, `find_max()` semuanya menggunakan pola traverse yang tepat. `remove_value()` menangani kasus head dan non-head via pointer `prev`. `to_list()` benar. Ada variabel tak terpakai `Rev = None` di `find_min()` dan `find_max()` (sisa dari copy template), namun tidak mempengaruhi fungsionalitas. Semua test case lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Linked List - Polynomial
+- **Pengecekan Kode:** Implementasi `add_term()` menangani penyisipan terurut dan penggabungan koefisien dengan benar. `add_polynomials()` menggunakan pendekatan merge dua list yang sudah terurut — efisien dan benar. `degree()` dan `evaluate()` benar. `display()` memformat output dengan notasi berbeda (`"3x^2"` untuk exp>1, `"2x"` untuk exp=1, `"5"` untuk exp=0) yang sedikit berbeda dari expected output soal tapi hasil kalkulasinya tepat.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Linked List - Music Playlist
+- **Pengecekan Kode:** Implementasi lengkap sesuai spesifikasi soal. `add_song()`, `remove_song()`, `play()`, `next_song()`, `current_song()`, `total_duration()`, `song_count()`, `display()`, dan `search_by_artist()` semuanya diimplementasikan dengan benar. Semua test case dengan 4 lagu Queen/Eagles/Led Zeppelin lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 3: 100 ✨**
+
+---
+
+## 🏅 Hasil Evaluasi Modul 4: Double & Circular Linked List
+
+### 1. Tugas 1: Pengembangan Double Linked List
+- **Pengecekan Kode:** Implementasi DLL sangat lengkap dengan semua method praktikum disertakan. `reverse()` menggunakan Python swap `current.prev, current.next = current.next, current.prev` lalu maju via `current.prev` — benar. `find_min()` mulai dari `head.next` setelah inisialisasi dari `head.data` — benar. `swap_nodes()` hanya tukar data. `is_palindrome()` menggunakan pointer kiri-kanan. Semua test case DLL lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi DLL - Text Editor Undo/Redo
+- **Pengecekan Kode:** Implementasi `TextEditor` benar. `type_text()` memutus history redo dengan mengatur `current.next.prev = None` lalu `current.next = None`, kemudian menyambungkan node baru. `undo()` dan `redo()` bergerak mundur/maju dengan return `True/False`. Branching setelah undo tertangani dengan benar. Semua test case lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi CLL - Round Robin Scheduler
+- **Pengecekan Kode:** Terdapat bug serius pada `execute_one_cycle()`: fungsi melakukan `return result` pada baris 106 SEBELUM blok `if process.remaining_time <= 0` di baris 112-117. Seluruh logika penghapusan proses dan penggeseran head menjadi **dead code** (tidak pernah dieksekusi). Akibatnya, `run()` akan mengalami **infinite loop** karena proses tidak pernah dihapus dari antrian. `run()` juga memanggil `self.remove_process(self.head)` secara terpisah yang akan menghapus proses yang salah.
+- **Hasil Testing Terminal:** **FAILED** ❌ (infinite loop karena dead code setelah return)
+
+**✨ NILAI MODUL 4: 80 ✨**
+
+---
+### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 95.00 🏆**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*
