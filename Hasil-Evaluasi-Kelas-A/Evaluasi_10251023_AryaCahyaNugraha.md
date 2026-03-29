@@ -50,7 +50,50 @@
 
 **NILAI MODUL 2: 100**
 
----
-### **NILAI RATA-RATA SEMENTARA: 100.00 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+---
+
+## Hasil Evaluasi Modul 3: Single Linked List
+
+### 1. Tugas 1: Implementasi Single Linked List
+- **Pengecekan Kode:**
+  - `reverse()`, `find_min()`, `find_max()`, `remove_value()`, dan `to_list()` terimplementasi dengan benar dan berjalan sesuai test cases. File berisi duplikasi kode (Node dan LinkedList didefinisikan berulang kali karena penggabungan beberapa file Praktikum), namun Python menggunakan definisi kelas terakhir yang valid.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Polynomial
+- **Pengecekan Kode:**
+  - **Tidak sesuai requirement:** File "Tugas Terstruktur 2" yang dikumpulkan berisi kode Praktikum 3.2 (Insert/Delete di Posisi), bukan Aplikasi Polynomial. Mahasiswa mengumpulkan file Praktikum sebagai Tugas Terstruktur.
+- **Hasil Testing:** **FAILED** ❌ (Bukan implementasi Polynomial — file salah)
+
+### 3. Tugas 3: Aplikasi Music Playlist
+- **Pengecekan Kode:**
+  - **Tidak sesuai requirement:** File "Tugas Terstruktur 3" yang dikumpulkan berisi kode Praktikum 3.3 (Operasi Tambahan), bukan Aplikasi Music Playlist. Mahasiswa mengumpulkan file Praktikum sebagai Tugas Terstruktur.
+- **Hasil Testing:** **FAILED** ❌ (Bukan implementasi Music Playlist — file salah)
+
+**NILAI MODUL 3: 60**
+
+---
+
+## Hasil Evaluasi Modul 4: Double Linked List & Circular Linked List
+
+### 1. Tugas 1: Implementasi Double Linked List
+- **Pengecekan Kode:**
+  - **Tidak ada Tugas Terstruktur:** Folder minggu 4 hanya berisi file Praktikum 4.1 (DLL), 4.2 (Circular LL), dan 4.3 (Insert/Delete DLL). Tidak ditemukan file Tugas Terstruktur yang mengimplementasikan `reverse()`, `find_min()`, `find_max()`, `swap_nodes()`, dan `is_palindrome()`.
+- **Hasil Testing:** **FAILED** ❌ (Tidak ada submission Tugas Terstruktur)
+
+### 2. Tugas 2: Aplikasi Text Editor Undo/Redo
+- **Pengecekan Kode:**
+  - Tidak ada submission.
+- **Hasil Testing:** **FAILED** ❌ (Tidak ada submission)
+
+### 3. Tugas 3: Aplikasi Round Robin Scheduler
+- **Pengecekan Kode:**
+  - Tidak ada submission.
+- **Hasil Testing:** **FAILED** ❌ (Tidak ada submission)
+
+**NILAI MODUL 4: 0**
+
+---
+### **NILAI RATA-RATA SEMENTARA: 65.00 🌟**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*

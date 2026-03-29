@@ -50,7 +50,50 @@
 
 **NILAI MODUL 2: 100**
 
----
-### **NILAI RATA-RATA SEMENTARA: 100.00 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+---
+
+## Hasil Evaluasi Modul 3: Single Linked List
+
+### 1. Tugas 1: Implementasi Single Linked List
+- **Pengecekan Kode:**
+  - `reverse()`, `find_min()`, `find_max()`, `remove_value()`, dan `to_list()` terimplementasi dengan tepat dan terstruktur. Error handling menggunakan `raise ValueError/IndexError` sudah sesuai. Kode bersih tanpa duplikasi.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Polynomial
+- **Pengecekan Kode:**
+  - Implementasi `Polynomial` menggunakan linked list berurutan eksponen menurun. `add_term()` menangani penggabungan term dengan eksponen sama. `evaluate()` menghitung nilai polynomial dengan benar. `add_polynomials()` melakukan merge dengan tepat.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Music Playlist
+- **Pengecekan Kode:**
+  - Semua operasi playlist lengkap dan berfungsi. `search_by_artist()`, `total_duration()`, `song_count()` diimplementasikan secara benar. Navigasi lagu menggunakan pointer `current` yang dikelola dengan tepat.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 3: 100**
+
+---
+
+## Hasil Evaluasi Modul 4: Double Linked List & Circular Linked List
+
+### 1. Tugas 1: Implementasi Double Linked List
+- **Pengecekan Kode:**
+  - `reverse()` membalik pointer in-place dengan benar. `find_min()`, `find_max()`, `swap_nodes()`, dan `is_palindrome()` berfungsi sesuai spesifikasi.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Text Editor Undo/Redo
+- **Pengecekan Kode:**
+  - `TextEditor` mengelola state teks menggunakan DLL. Semua operasi (`type_text`, `append_text`, `undo`, `redo`, `can_undo`, `can_redo`, `show_history`) berfungsi dengan benar termasuk branching.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Round Robin Scheduler
+- **Pengecekan Kode:**
+  - **Bug Moderat:** Terdapat bug pada `execute_one_cycle()` — setelah `remove_process(process)` menghapus proses yang selesai dan otomatis meng-update `self.head` ke node berikutnya, kode kemudian kembali mengeksekusi `self.head = self.head.next` pada baris 113-114, menyebabkan head maju dua langkah dan melewatkan satu proses. Akibatnya urutan eksekusi setelah Process B selesai menjadi tidak sesuai ekspektasi (Process A selesai sebelum Process C). Total waktu 12 tetap benar namun urutan completion berbeda dari standar Round Robin.
+- **Hasil Testing:** **FAILED** ❌ (Bug logika rotasi head setelah proses selesai — urutan completion salah)
+
+**NILAI MODUL 4: 90**
+
+---
+### **NILAI RATA-RATA SEMENTARA: 97.50 🌟**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*

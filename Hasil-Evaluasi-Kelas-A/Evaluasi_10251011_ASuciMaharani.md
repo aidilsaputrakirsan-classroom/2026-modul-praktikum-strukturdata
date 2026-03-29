@@ -51,6 +51,49 @@
 **NILAI MODUL 2: 100**
 
 ---
+
+## Hasil Evaluasi Modul 3: Single Linked List
+
+### 1. Tugas 1: Implementasi Single Linked List
+- **Pengecekan Kode:**
+  - Terdapat duplikasi `__init__` (baris 248 mendefinisikan ulang `__init__` di dalam class), namun Python menggunakan definisi terakhir dan semua method yang relevan tetap berfungsi karena method baru (reverse, find_min, dll) berada di bawah blok duplikasi tersebut.
+  - `reverse()`, `find_min()`, `find_max()`, `remove_value()`, dan `to_list()` semuanya diimplementasikan dengan benar dan lulus semua test assertions.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Polynomial
+- **Pengecekan Kode:**
+  - Implementasi `Polynomial` lengkap dengan `add_term()` yang menjaga urutan pangkat dan menangani merge koefisien. `evaluate()`, `degree()`, dan `add_polynomials()` semuanya benar. Display menggunakan format `3x^2 + 2x^1 + 5x^0`.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Music Playlist
+- **Pengecekan Kode:**
+  - Semua fitur playlist diimplementasikan dengan lengkap dan benar. `add_song()`, `remove_song()`, `play()`, `next_song()`, `current_song()`, `total_duration()`, `song_count()`, `display()`, `search_by_artist()` semuanya berfungsi dengan baik.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 3: 100**
+
+---
+
+## Hasil Evaluasi Modul 4: Double Linked List & Circular Linked List
+
+### 1. Tugas 1: Implementasi Double Linked List
+- **Pengecekan Kode:**
+  - `reverse()` diimplementasikan dengan baik (swap prev/next + swap head/tail secara eksplisit). `find_min()`, `find_max()` menggunakan traversal O(n). `swap_nodes()` menukar data berdasarkan posisi. `is_palindrome()` menggunakan kondisi `while left != right and left.prev != right` yang lebih aman.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Text Editor Undo/Redo
+- **Pengecekan Kode:**
+  - Implementasi clean dan sederhana. `type_text()` menghapus redo history dengan `self.current.next = None`. `undo()`/`redo()` berfungsi dengan benar. `show_history()` menandai state aktif dengan ` <== current`.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Round Robin Scheduler
+- **Pengecekan Kode:**
+  - Implementasi CLL Round Robin Scheduler lengkap dan benar. `add_process()`, `remove_process()` (menangani semua kasus termasuk head), `execute_one_cycle()`, dan `run()` semuanya berjalan dengan tepat menghasilkan timeline yang benar.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 4: 100**
+
+---
 ### **NILAI RATA-RATA SEMENTARA: 100 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*

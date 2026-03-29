@@ -57,6 +57,51 @@
 **NILAI MODUL 2: 100**
 
 ---
-### **NILAI RATA-RATA SEMENTARA: 100 (SANGAT BAIK) 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+## Hasil Evaluasi Modul 3: Single Linked List
+
+### 1. Tugas 1: Implementasi Single Linked List
+- **Pengecekan Kode:**
+  - Method `reverse()`, `find_min()`, `find_max()`, `remove_value()`, dan `to_list()` semuanya diimplementasikan dengan benar menggunakan `None` sebagai sentinel (berbeda dengan Praktikum yang menggunakan class Node sebagai sentinel, Tugas sudah diperbaiki ke standar).
+  - Semua method dari praktikum (insert_at_position, delete_at_position, get, count, clear, get_head, get_tail) diimplementasikan dengan lengkap dan benar.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Polynomial
+- **Pengecekan Kode:**
+  - `add_term()` menyimpan term terurut dari pangkat tertinggi ke terendah dan menggabungkan koefisien saat pangkat sama. `evaluate()` dan `degree()` benar. `add_polynomials()` berfungsi dengan tepat.
+  - Display menampilkan format `3x^2 + 2x^1 + 5x^0` (format konsisten menyertakan semua eksponen).
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Music Playlist
+- **Pengecekan Kode:**
+  - Semua fitur playlist diimplementasikan: `add_song()`, `remove_song()`, `play()`, `next_song()`, `current_song()`, `total_duration()`, `song_count()`, `display()`, `search_by_artist()` semuanya berfungsi dengan benar.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 3: 100**
+
+---
+
+## Hasil Evaluasi Modul 4: Double Linked List & Circular Linked List
+
+### 1. Tugas 1: Implementasi Double Linked List
+- **Pengecekan Kode:**
+  - Terdapat duplikasi definisi `__init__` dalam class (dua blok `__init__` dan dua blok method dasar), namun Python menggunakan definisi terakhir sehingga tidak menyebabkan error. Method `reverse()`, `find_min()`, `find_max()`, `swap_nodes()`, `is_palindrome()`, `to_list()` semuanya diimplementasikan dengan benar.
+  - Semua test assertions berhasil dipenuhi.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Text Editor Undo/Redo
+- **Pengecekan Kode:**
+  - `type_text()` menghapus forward history (branching) dengan benar. `undo()`/`redo()` memindahkan pointer current. `show_history()` menampilkan history dengan penanda `^current` langsung di samping state aktif.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Round Robin Scheduler
+- **Pengecekan Kode:**
+  - Implementasi CLL untuk scheduler Round Robin berjalan dengan benar. `add_process()` mempertahankan struktur circular. `remove_process()` menangani semua kasus (satu node, head, tengah). `execute_one_cycle()` dan `run()` menghasilkan timeline yang tepat.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 4: 100**
+
+---
+### **NILAI RATA-RATA SEMENTARA: 100 🌟**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*

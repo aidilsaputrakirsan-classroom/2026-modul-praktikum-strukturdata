@@ -50,7 +50,50 @@
 
 **NILAI MODUL 2: 100**
 
----
-### **NILAI RATA-RATA SEMENTARA: 100.00 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+---
+
+## Hasil Evaluasi Modul 3: Single Linked List
+
+### 1. Tugas 1: Implementasi Single Linked List
+- **Pengecekan Kode:**
+  - Tidak ada submission untuk Modul 3. Repository mahasiswa kosong (tidak terdapat folder minggu 3 maupun file tugas apapun).
+- **Hasil Testing:** **FAILED** ❌ (Tidak ada submission)
+
+### 2. Tugas 2: Aplikasi Polynomial
+- **Pengecekan Kode:**
+  - Tidak ada submission.
+- **Hasil Testing:** **FAILED** ❌ (Tidak ada submission)
+
+### 3. Tugas 3: Aplikasi Music Playlist
+- **Pengecekan Kode:**
+  - Tidak ada submission.
+- **Hasil Testing:** **FAILED** ❌ (Tidak ada submission)
+
+**NILAI MODUL 3: 0**
+
+---
+
+## Hasil Evaluasi Modul 4: Double Linked List & Circular Linked List
+
+### 1. Tugas 1: Implementasi Double Linked List
+- **Pengecekan Kode:**
+  - Tidak ada submission untuk Modul 4. Repository mahasiswa kosong (tidak terdapat folder minggu 4 maupun file tugas apapun).
+- **Hasil Testing:** **FAILED** ❌ (Tidak ada submission)
+
+### 2. Tugas 2: Aplikasi Text Editor Undo/Redo
+- **Pengecekan Kode:**
+  - Tidak ada submission.
+- **Hasil Testing:** **FAILED** ❌ (Tidak ada submission)
+
+### 3. Tugas 3: Aplikasi Round Robin Scheduler
+- **Pengecekan Kode:**
+  - Tidak ada submission.
+- **Hasil Testing:** **FAILED** ❌ (Tidak ada submission)
+
+**NILAI MODUL 4: 0**
+
+---
+### **NILAI RATA-RATA SEMENTARA: 50.00 🌟**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*

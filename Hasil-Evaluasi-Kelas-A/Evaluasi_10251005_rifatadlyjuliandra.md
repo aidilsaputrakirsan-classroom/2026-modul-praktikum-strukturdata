@@ -52,6 +52,51 @@
 **NILAI MODUL 2: 100**
 
 ---
-### **NILAI RATA-RATA SEMENTARA: 100 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+## Hasil Evaluasi Modul 3: Single Linked List
+
+### 1. Tugas 1: Implementasi Single Linked List
+- **Pengecekan Kode:**
+  - Implementasi method `reverse()`, `find_min()`, `find_max()`, `remove_value()`, dan `to_list()` secara logika sudah benar. Namun, file **terpotong/tidak lengkap**: bagian test section hanya berisi komentar `# Test to` tanpa assertion apapun (file berakhir di baris 135).
+  - Saat dijalankan, program hanya menampilkan output `display()` dan berakhir tanpa error, namun juga tanpa validasi assertion.
+- **Hasil Testing:** **PARTIAL** ⚠️ (90%) — Implementasi benar secara logika, namun test tidak lengkap
+
+### 2. Tugas 2: Aplikasi Polynomial
+- **Pengecekan Kode:**
+  - Implementasi `Polynomial`, `add_term()`, `display()`, `evaluate()`, `degree()`, dan `add_polynomials()` secara logika sudah benar. Test section **terpotong** di baris 150 — assertion untuk `evaluate(1)==19` dan pesan PASSED tidak ada.
+  - Saat dijalankan, degree dan evaluate berhasil divalidasi sebagian (`degree PASSED`, `evaluate PASSED`), namun test untuk penjumlahan polynomial tidak memiliki assertion akhir.
+- **Hasil Testing:** **PARTIAL** ⚠️ (90%) — Implementasi benar, test tidak lengkap sepenuhnya
+
+### 3. Tugas 3: Aplikasi Music Playlist
+- **Pengecekan Kode:**
+  - File memiliki **SyntaxError**: method `search_by_artist()` terpotong di baris 135 dengan kurung yang tidak ditutup (`result.append(current.title` — kurung `(` tidak pernah ditutup).
+  - Saat dijalankan: `SyntaxError: '(' was never closed` — program tidak dapat dieksekusi sama sekali.
+- **Hasil Testing:** **FAILED** ❌ (0%) — SyntaxError, file tidak lengkap/terpotong
+
+**NILAI MODUL 3: 60**
+
+---
+
+## Hasil Evaluasi Modul 4: Double Linked List & Circular Linked List
+
+### 1. Tugas 1: Implementasi Double Linked List
+- **Pengecekan Kode:**
+  - Semua method baru (`reverse()`, `find_min()`, `find_max()`, `swap_nodes()`, `is_palindrome()`, `to_list()`) diimplementasikan dengan benar dan lengkap. Tidak ada method praktikum yang menyebabkan konflik.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Text Editor Undo/Redo
+- **Pengecekan Kode:**
+  - `type_text()` menghapus forward history dengan benar (iterasi node untuk cleanup memory). `undo()`/`redo()` berfungsi dengan baik. `show_history()` menampilkan history dengan posisi current.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Round Robin Scheduler
+- **Pengecekan Kode:**
+  - Implementasi CLL Round Robin Scheduler lengkap dan benar. `execute_one_cycle()` mencetak langsung saat eksekusi (berbeda dari yang lain tapi fungsional). Timeline yang dihasilkan tepat sesuai ekspektasi.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 4: 100**
+
+---
+### **NILAI RATA-RATA SEMENTARA: 90 🌟**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
