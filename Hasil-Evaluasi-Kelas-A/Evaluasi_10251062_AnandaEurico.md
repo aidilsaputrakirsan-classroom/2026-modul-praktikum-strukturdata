@@ -51,6 +51,48 @@
 **NILAI MODUL 2: 100**
 
 ---
-### **NILAI RATA-RATA SEMENTARA: 100.00 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+## Hasil Evaluasi Modul 3: Single Linked List
+
+### 1. Tugas 1: Implementasi Single Linked List
+- **Pengecekan Kode:**
+  - Semua method wajib (reverse, find_min, find_max, remove_value, to_list) diimplementasikan dengan benar. Logika reverse menggunakan iterasi tiga pointer yang tepat. find_min/find_max dengan traversal O(n). remove_value menangani semua kasus dengan benar.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Polinomial
+- **Pengecekan Kode:**
+  - Polynomial diimplementasikan menggunakan linked list terurut. add_term menangani insert terurut dan penggabungan koefisien pada pangkat sama. display menggunakan format `3x^2 + 2x + 5` (tanpa eksponen untuk x^1 dan x^0). evaluate dan add_polynomials berfungsi dengan benar.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Music Playlist
+- **Pengecekan Kode:**
+  - Playlist dengan SongNode lengkap. Semua method diimplementasikan dengan benar termasuk add_song, remove_song, play, next_song, current_song, total_duration, song_count, display, dan search_by_artist. Format display menggunakan separator 30 karakter '='.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 3: 100**
+
+---
+
+## Hasil Evaluasi Modul 4: Double Linked List & Circular Linked List
+
+### 1. Tugas 1: Implementasi Double Linked List
+- **Pengecekan Kode:**
+  - DLL diimplementasikan lengkap dengan head dan tail. reverse, find_min, find_max, swap_nodes, is_palindrome semuanya diimplementasikan dengan benar. is_palindrome menggunakan two-pointer approach yang tepat dengan loop termination yang benar.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Text Editor Undo/Redo
+- **Pengecekan Kode:**
+  - TextEditor menggunakan DLL dengan StateNode. Semua fungsi (type_text, append_text, undo, redo, get_text, can_undo, can_redo, show_history) berfungsi dengan benar. Branching saat pengetikan setelah undo ditangani dengan tepat.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Round Robin Scheduler
+- **Pengecekan Kode:**
+  - RoundRobinScheduler diimplementasikan menggunakan CLL. Terdapat bug pada method execute_one_cycle: setelah mengeksekusi quantum untuk proses yang belum selesai, `self.head` tidak diperbarui ke proses berikutnya (tidak ada `self.head = self.head.next`). Akibatnya scheduler tidak melakukan rotasi antar proses dan memproses setiap proses sampai selesai secara berurutan, bukan round-robin.
+- **Hasil Testing:** **FAILED** ❌ - Scheduler tidak melakukan rotasi antar proses (sequential processing bukan round-robin). Output menunjukkan Process A selesai terlebih dahulu, lalu B, lalu C.
+
+**NILAI MODUL 4: 80**
+
+---
+### **NILAI RATA-RATA SEMENTARA: 95.00 🌟**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*

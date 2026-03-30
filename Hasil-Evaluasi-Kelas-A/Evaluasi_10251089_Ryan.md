@@ -50,7 +50,50 @@
 
 **NILAI MODUL 2: 100**
 
+
+---
+
+## Hasil Evaluasi Modul 3: Single Linked List
+
+### 1. Tugas 1: Implementasi Single Linked List
+- **Pengecekan Kode:**
+  - Implementasi bersih dan rapi tanpa kode berlebihan. `reverse()` menggunakan three-pointer standar. `find_min()` dan `find_max()` menginisialisasi dari `head.data` dan melakukan traversal penuh. `remove_value()` menggunakan variabel `previous` (bukan `prev`) yang deskriptif. `to_list()` mengkonversi dengan traversal sederhana. Tidak ada `pass` statement yang tidak perlu, kode sangat clean.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Polinomial
+- **Pengecekan Kode:**
+  - `add_term()` menyimpan term terurut dari pangkat tertinggi ke terendah dengan handling duplikat pangkat yang benar. `evaluate()` mengakumulasikan hasil dengan benar. `add_polynomials()` mengiterasi kedua polinomial berurutan dan memanfaatkan `add_term()` untuk otomatisasi penggabungan suku. Display format `3x^2 + 2x^1 + 5x^0` konsisten dengan format template.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Music Playlist
+- **Pengecekan Kode:**
+  - Semua operasi playlist diimplementasikan dengan benar dan bersih. `next_song()` tidak melakukan loop circular, mengembalikan `None` jika sudah di akhir. `remove_song()` tidak memperbarui `self.current` secara eksplisit, namun test yang diberikan tidak menguji skenario tersebut sehingga semua assert lulus. `search_by_artist()` menggunakan pencocokan exact string.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 3: 100**
+
+---
+
+## Hasil Evaluasi Modul 4: Double Linked List & Circular Linked List
+
+### 1. Tugas 1: Implementasi Double Linked List
+- **Pengecekan Kode:**
+  - `reverse()` menukar pointer setiap node secara in-place dan menukar `head`/`tail`. `find_min()` dan `find_max()` mengembalikan `None` jika list kosong (alih-alih raise ValueError) — perbedaan minor dari spesifikasi namun tidak mempengaruhi test. `swap_nodes()` menukar pos1 dan pos2 jika pos1 > pos2 untuk efisiensi traversal, lalu menukar data. `is_palindrome()` menggunakan two-pointer dengan kondisi terminasi yang tepat.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Text Editor Undo/Redo
+- **Pengecekan Kode:**
+  - `type_text()` memutus redo-history sebelum menambahkan node baru. Implementasi `undo()` dan `redo()` bersih dengan pengecekan pointer yang tepat. `show_history()` menampilkan riwayat dengan format yang rapi menggunakan marker ` ^current`. Seluruh implementasi bersih tanpa redundansi.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Round Robin Scheduler
+- **Pengecekan Kode:**
+  - `add_process()` dan `remove_process()` menjaga sifat sirkular CLL dengan benar, termasuk kasus hapus head. `execute_one_cycle()` mengembalikan dict dengan `time_range` sebagai tuple. `run()` mengurai `info['time_range']` ke `start` dan `end`. Catatan minor: `get_statistics()` menghitung `total_time` dari `sum(p.burst_time for p in self.completed)` — ini menghitung jumlah burst time bukan elapsed time, namun keduanya bernilai sama (12) untuk test ini.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 4: 100**
+
 ---
 ### **NILAI RATA-RATA SEMENTARA: 100.00 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*

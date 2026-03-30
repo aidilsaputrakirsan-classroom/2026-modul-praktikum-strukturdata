@@ -51,6 +51,48 @@
 **NILAI MODUL 2: 100**
 
 ---
-### **NILAI RATA-RATA SEMENTARA: 100.00 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+## Hasil Evaluasi Modul 3: Single Linked List
+
+### 1. Tugas 1: Implementasi Single Linked List
+- **Pengecekan Kode:**
+  - Implementasi `reverse()`, `find_min()`, `find_max()`, `remove_value()`, dan `to_list()` semuanya benar dan lengkap. Kelas ini juga dilengkapi dengan method tambahan seperti `insert_at_position()`, `delete_at_position()`, `get()`, `count()`, `clear()`, `get_head()`, dan `get_tail()` — melebihi persyaratan minimum.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Polinomial
+- **Pengecekan Kode:**
+  - `TermNode` menyimpan coefficient dan exponent. `add_term()` menjaga urutan dari pangkat tertinggi ke terendah dengan penggabungan koefisien jika pangkat sudah ada. `evaluate()` dan `degree()` diimplementasi dengan benar. Format tampilan menggunakan `x` (tanpa pangkat eksplisit untuk exp=1) yang lebih rapi.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Music Playlist
+- **Pengecekan Kode:**
+  - Seluruh operasi playlist diimplementasikan lengkap: `song_count()`, `total_duration()`, `play()`, `next_song()`, `search_by_artist()`, dan `remove_song()`. Semua test case berhasil dengan output yang bersih.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 3: 100**
+
+---
+
+## Hasil Evaluasi Modul 4: Double Linked List & Circular Linked List
+
+### 1. Tugas 1: Implementasi Double Linked List
+- **Pengecekan Kode:**
+  - `DoublyLinkedList` menggunakan `DNode` dengan pointer `prev` dan `next`. Method baru `reverse()`, `find_min()`, `find_max()`, `swap_nodes()`, dan `is_palindrome()` diimplementasikan dengan benar dan terstruktur baik.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Text Editor Undo/Redo
+- **Pengecekan Kode:**
+  - `TextEditor` berbasis DLL dengan manajemen history yang baik. `type_text()`, `append_text()`, `undo()`, `redo()`, dan branching semuanya berfungsi benar. Display history menampilkan state dengan format `(current)` pada posisi aktif.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Round Robin Scheduler
+- **Pengecekan Kode:**
+  - `RoundRobinScheduler` menggunakan Circular Linked List. Struktur CLL dan `add_process()` diimplementasi dengan benar. Namun, method `run()` tidak melakukan perpindahan proses (tidak ada `self.head = self.head.next`) setelah setiap quantum — akibatnya scheduler mengeksekusi proses secara sekuensial (A selesai dulu, baru B, lalu C) alih-alih interleaving Round Robin yang seharusnya. Total waktu eksekusi (12) tetap benar sehingga test assert lolos, namun perilaku Round Robin tidak ter-implementasi dengan benar.
+- **Hasil Testing:** **PASSED** ✅ (test lolos) — namun terdapat bug logika Round Robin (proses tidak berotasi antar quantum)
+
+**NILAI MODUL 4: 80**
+
+---
+### **NILAI RATA-RATA SEMENTARA: 95.00 🌟**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*

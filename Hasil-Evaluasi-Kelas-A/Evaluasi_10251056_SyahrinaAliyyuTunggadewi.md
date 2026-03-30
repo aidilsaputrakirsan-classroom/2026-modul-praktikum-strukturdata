@@ -51,6 +51,48 @@
 **NILAI MODUL 2: 100**
 
 ---
-### **NILAI RATA-RATA SEMENTARA: 100.00 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+## Hasil Evaluasi Modul 3: Single Linked List
+
+### 1. Tugas 1: Implementasi Single Linked List
+- **Pengecekan Kode:**
+  - Semua method wajib (reverse, find_min, find_max, remove_value, to_list) diimplementasikan dengan benar. Algoritma reverse menggunakan tiga pointer (prev, current, next_node) yang efisien O(n). find_min/find_max menggunakan traversal linear dengan tracking nilai min/max. remove_value menangani kasus head maupun tengah/akhir dengan tepat.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Polinomial
+- **Pengecekan Kode:**
+  - Kelas Polynomial menggunakan linked list terurut dari pangkat tertinggi ke terendah. Method add_term menangani penggabungan koefisien pada pangkat yang sama. evaluate dan degree diimplementasikan dengan benar. add_polynomials membangun polynomial baru dari dua polynomial input.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Music Playlist
+- **Pengecekan Kode:**
+  - Kelas Playlist dengan SongNode lengkap. Method add_song, remove_song, play, next_song, current_song, total_duration, song_count, display, dan search_by_artist diimplementasikan dengan benar dan berfungsi baik. search_by_artist menggunakan case-insensitive comparison.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 3: 100**
+
+---
+
+## Hasil Evaluasi Modul 4: Double Linked List & Circular Linked List
+
+### 1. Tugas 1: Implementasi Double Linked List
+- **Pengecekan Kode:**
+  - Implementasi DLL lengkap dengan head dan tail. Method reverse, find_min, find_max, swap_nodes diimplementasikan dengan benar. Namun terdapat bug kritis pada method is_palindrome: baris `left = left.next` dan `right = right.prev` berada di luar while loop (indentasi salah), menyebabkan pointer tidak pernah diperbarui dan program masuk infinite loop saat method dipanggil.
+- **Hasil Testing:** **FAILED** ❌ - is_palindrome menyebabkan infinite loop (timeout), program terhenti paksa setelah 10 detik.
+
+### 2. Tugas 2: Aplikasi Text Editor Undo/Redo
+- **Pengecekan Kode:**
+  - Implementasi TextEditor menggunakan DLL dengan StateNode. Method type_text, append_text, undo, redo, get_text, can_undo, can_redo, dan show_history semuanya berfungsi dengan benar. Branching (menghapus history redo saat mengetik setelah undo) ditangani dengan tepat.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Round Robin Scheduler
+- **Pengecekan Kode:**
+  - Implementasi RoundRobinScheduler menggunakan Circular Linked List. add_process, remove_process, execute_one_cycle, run, display_queue, dan get_statistics diimplementasikan dengan benar. Eksekusi rotasi proses berjalan sesuai algoritma Round Robin.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 4: 90**
+
+---
+### **NILAI RATA-RATA SEMENTARA: 97.50 🌟**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*

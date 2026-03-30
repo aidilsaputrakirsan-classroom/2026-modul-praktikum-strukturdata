@@ -52,7 +52,50 @@
 
 **NILAI MODUL 2: 100**
 
----
-### **NILAI RATA-RATA SEMENTARA: 98.00 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+---
+
+## Hasil Evaluasi Modul 3: Single Linked List
+
+### 1. Tugas 1: Implementasi Single Linked List
+- **Pengecekan Kode:**
+  - Implementasi `reverse()` menggunakan three-pointer (`prev`, `current`, `next_node`) yang benar dan efisien. `find_min()` dan `find_max()` memulai dari `head.next` setelah inisialisasi dari `head.data`. `remove_value()` menangani semua kasus dengan menggunakan variabel `prev` pointer. `to_list()` mengkonversi linked list ke Python list dengan traversal bersih. Catatan minor: `insert_at_position()` menggunakan `ImportError` alih-alih `IndexError` untuk validasi posisi, namun tidak mempengaruhi test cases yang diberikan.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Polinomial
+- **Pengecekan Kode:**
+  - `add_term()` mengabaikan koefisien nol di awal dan menyimpan term terurut dari pangkat tertinggi ke terendah. Penanganan duplikat pangkat menambahkan koefisien secara langsung pada node yang ada. `evaluate()` menghitung nilai dengan iterasi penuh. `add_polynomials()` mengiterasi kedua polinomial dan memanfaatkan `add_term()` untuk penggabungan otomatis. Format display menggunakan `3x^2 + 2x^1 + 5x^0` konsisten.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Music Playlist
+- **Pengecekan Kode:**
+  - `add_song()` dan `remove_song()` diimplementasikan dengan benar menggunakan traversal linked list. `next_song()` mengembalikan `None` jika sudah di akhir (tanpa loop circular). `remove_song()` menangani pembaruan `self.current` jika lagu yang dihapus sedang diputar. `search_by_artist()` melakukan pencocokan exact string (case-sensitive). `display()` dan `format_duration()` menampilkan informasi playlist dengan rapi.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 3: 100**
+
+---
+
+## Hasil Evaluasi Modul 4: Double Linked List & Circular Linked List
+
+### 1. Tugas 1: Implementasi Double Linked List
+- **Pengecekan Kode:**
+  - `reverse()` menukar pointer `prev` dan `next` setiap node secara in-place menggunakan variabel `temp`, lalu menukar `head` dan `tail` di akhir. `find_min()` dan `find_max()` melakukan traversal dengan inisialisasi dari `head.data`. `swap_nodes()` memvalidasi batas posisi dengan `n = self.size()` sebelum menukar data. `is_palindrome()` membandingkan dari kedua ujung menggunakan kondisi terminasi `left != right and left.prev != right`.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Text Editor Undo/Redo
+- **Pengecekan Kode:**
+  - Implementasi `type_text()` memotong redo-history dengan benar sebelum menambahkan node baru. `undo()` dan `redo()` bernavigasi melalui pointer DLL. `append_text()` menggabungkan teks saat ini dengan teks baru sebelum memanggil `type_text()`. `show_history()` menampilkan riwayat dengan marker `^current` langsung setelah teks node saat ini.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Round Robin Scheduler
+- **Pengecekan Kode:**
+  - `add_process()` menjaga sifat sirkular CLL dengan benar. `remove_process()` menangani kasus single-node, hapus head (dengan mencari tail terlebih dahulu), dan hapus non-head. `execute_one_cycle()` mengembalikan tuple `(start_time, end_time, result_dict)` yang diurai oleh `run()`. Output timeline A(5)+B(3)+C(4) dengan quantum=2 menghasilkan total waktu 12 sesuai ekspektasi.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 4: 100**
+
+---
+### **NILAI RATA-RATA SEMENTARA: 99.00 🌟**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*

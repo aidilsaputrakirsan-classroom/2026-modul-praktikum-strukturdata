@@ -51,6 +51,48 @@
 **NILAI MODUL 2: 96**
 
 ---
-### **NILAI RATA-RATA SEMENTARA: 98.00 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+## Hasil Evaluasi Modul 3: Single Linked List
+
+### 1. Tugas 1: Implementasi Single Linked List
+- **Pengecekan Kode:**
+  - `reverse()`, `find_min()`, `find_max()`, `remove_value()`, dan `to_list()` diimplementasikan dengan benar. Semua assert test berhasil dilalui dengan baik.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Polinomial
+- **Pengecekan Kode:**
+  - `add_polynomials()` menggunakan copy-and-add, namun `add_term()` tidak menggabungkan koefisien saat pangkat sudah ada dalam hasil intermediate. Output menampilkan `3x^2 + 2x^2 + 6x + 8` alih-alih `5x^2 + 6x + 8` — bug minor display pada penggabungan koefisien. Test `evaluate(1)` tetap lulus secara numerik.
+- **Hasil Testing:** **PASSED** ✅ (90%) — Test numerik lulus namun representasi polinomial hasil penjumlahan tidak dimerge dengan benar.
+
+### 3. Tugas 3: Aplikasi Music Playlist
+- **Pengecekan Kode:**
+  - Semua operasi playlist (`add_song`, `remove_song`, `play`, `next_song`, `current_song`, `total_duration`, `song_count`, `search_by_artist`) berjalan dengan benar secara fungsional. Tidak menggunakan assert-based test (hanya print demo), namun output menampilkan hasil yang sesuai ekspektasi.
+- **Hasil Testing:** **PASSED** ✅ (90%) — Fungsional benar namun tidak menggunakan assert statements untuk validasi otomatis.
+
+**NILAI MODUL 3: 90**
+
+---
+
+## Hasil Evaluasi Modul 4: Double Linked List & Circular Linked List
+
+### 1. Tugas 1: Implementasi Double Linked List
+- **Pengecekan Kode:**
+  - Semua method DLL (`reverse`, `find_min`, `find_max`, `swap_nodes`, `is_palindrome`, `to_list`) benar. `reverse()` menggunakan teknik tukar pointer yang tepat. Semua assert test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Text Editor Undo/Redo
+- **Pengecekan Kode:**
+  - Semua operasi text editor berjalan dengan benar. `type_text()`, `append_text()`, `undo()`, `redo()`, dan branching semuanya lulus. `show_history()` menampilkan history dengan marker `^current`.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Round Robin Scheduler
+- **Pengecekan Kode:**
+  - Terdapat **bug kritis pada `remove_process`**: setelah proses selesai (remaining=0), node tidak benar-benar dihapus dari circular list sehingga proses yang sudah "selesai" tetap ada di antrian. Ini menyebabkan **infinite loop** — program terus mencetak `"Time 12-12: Process B/C/A completed"` tanpa batas waktu. Eksekusi dihentikan paksa oleh timeout 10 detik.
+- **Hasil Testing:** **FAILED** ❌ — Infinite loop akibat bug pada remove_process: proses yang sudah selesai tidak dihapus dari circular list dengan benar. TIMEOUT.
+
+**NILAI MODUL 4: 70**
+
+---
+### **NILAI RATA-RATA SEMENTARA: 89.00 🌟**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*

@@ -51,6 +51,48 @@
 **NILAI MODUL 2: 100**
 
 ---
+
+## Hasil Evaluasi Modul 3: Single Linked List
+
+### 1. Tugas 1: Implementasi Single Linked List
+- **Pengecekan Kode:**
+  - Implementasi `reverse()` menggunakan tiga pointer (prev, current, next_node) secara in-place dengan benar. `find_min()` dan `find_max()` melakukan iterasi O(n) dengan inisialisasi dari head. `remove_value()` menangani kasus head dan tengah list. `to_list()` berjalan mulus. Seluruh method baru ditulis bersih dan terdokumentasi dengan baik.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Polinomial
+- **Pengecekan Kode:**
+  - `add_term()` menangani penyisipan terurut (pangkat tertinggi ke terendah) dan penggabungan koefisien duplikat dengan benar. `evaluate()` menghitung nilai polinomial secara akurat. `add_polynomials()` menghasilkan polinomial hasil penjumlahan yang tepat: `5x^2 + 6x^1 + 8x^0`.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Music Playlist
+- **Pengecekan Kode:**
+  - Semua operasi playlist (`add_song`, `remove_song`, `play`, `next_song`, `current_song`, `total_duration`, `song_count`, `search_by_artist`) diimplementasikan dengan tepat menggunakan Single Linked List. `remove_song` juga memperbarui pointer `current` jika lagu yang dihapus sedang diputar.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 3: 100**
+
+---
+
+## Hasil Evaluasi Modul 4: Double Linked List & Circular Linked List
+
+### 1. Tugas 1: Implementasi Double Linked List
+- **Pengecekan Kode:**
+  - `reverse()` menukar pointer `prev` dan `next` setiap node secara in-place lalu menukar `head` dan `tail`. `find_min()` dan `find_max()` bekerja dengan benar. `swap_nodes()` menukar data antar dua posisi. `is_palindrome()` menggunakan dua pointer dari head dan tail yang bergerak ke tengah secara efisien.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Text Editor Undo/Redo
+- **Pengecekan Kode:**
+  - `type_text()` memotong cabang redo yang ada (`self.current.next = None`) sebelum membuat node baru, menangani branching dengan benar. `undo()` dan `redo()` berjalan sesuai ekspektasi. `show_history()` menampilkan posisi `^current` secara akurat.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Round Robin Scheduler
+- **Pengecekan Kode:**
+  - `add_process()` membangun circular linked list dengan benar. `execute_one_cycle()` melakukan rotasi head setelah eksekusi atau menghapus proses yang selesai. Output timeline sesuai ekspektasi Round Robin dengan quantum=2: Process A → B → C → A → B(selesai) → C(selesai) → A(selesai). Total waktu eksekusi 12 unit.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 4: 100**
+
+---
 ### **NILAI RATA-RATA SEMENTARA: 100.00 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*

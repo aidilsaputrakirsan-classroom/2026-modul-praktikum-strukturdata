@@ -51,6 +51,48 @@
 **NILAI MODUL 2: 100**
 
 ---
-### **NILAI RATA-RATA SEMENTARA: 100.00 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+## Hasil Evaluasi Modul 3: Single Linked List
+
+### 1. Tugas 1: Implementasi Single Linked List
+- **Pengecekan Kode:**
+  - `reverse()`, `find_min()`, `find_max()`, `remove_value()`, dan `to_list()` diimplementasikan dengan benar dan bersih. Semua assert test lulus dengan baik.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Polinomial
+- **Pengecekan Kode:**
+  - `add_polynomials()` menggunakan copy-and-add, namun ada bug minor: koefisien dengan pangkat sama tidak digabung dalam hasil (`3x^2 + 2x^2` alih-alih `5x^2`). Test numerik `evaluate(1)` tetap lulus karena hasilnya sama (19). Bug hanya pada representasi display.
+- **Hasil Testing:** **PASSED** ✅ (90%) — Test lulus namun terdapat bug display: koefisien pangkat sama tidak digabung pada fungsi `add_polynomials`.
+
+### 3. Tugas 3: Aplikasi Music Playlist
+- **Pengecekan Kode:**
+  - Semua operasi playlist berjalan benar dengan Single Linked List. `add_song`, `remove_song`, `play`, `next_song`, `current_song`, `total_duration`, `song_count`, `search_by_artist` semua diimplementasikan dan divalidasi dengan assert.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 3: 95**
+
+---
+
+## Hasil Evaluasi Modul 4: Double Linked List & Circular Linked List
+
+### 1. Tugas 1: Implementasi Double Linked List
+- **Pengecekan Kode:**
+  - Seluruh method DLL (`reverse`, `find_min`, `find_max`, `swap_nodes`, `is_palindrome`, `to_list`) diimplementasikan dengan benar. `reverse()` menukar pointer prev/next per node dan memperbarui head/tail. Semua assert test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Text Editor Undo/Redo
+- **Pengecekan Kode:**
+  - Semua operasi text editor (`type_text`, `append_text`, `undo`, `redo`, branching) berjalan benar. `show_history()` menampilkan history dengan label `(current)` di akhir entri yang aktif. Semua assert test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Round Robin Scheduler
+- **Pengecekan Kode:**
+  - Terdapat **bug pada logika rotasi**: scheduler mengeksekusi Process A secara berturut-turut hingga selesai, kemudian B, kemudian C — bukan pola Round Robin bergantian per quantum. Output menunjukkan `A→A→A(selesai)→B→B(selesai)→C→C(selesai)` alih-alih `A→B→C→A→B(selesai)→C(selesai)→A(selesai)`. `head` tidak dirotasi setelah tiap quantum — proses tidak berpindah ke antrian berikutnya setelah dieksekusi.
+- **Hasil Testing:** **FAILED** ❌ — Round Robin tidak berjalan bergantian: proses dieksekusi sequential bukan circular per quantum.
+
+**NILAI MODUL 4: 85**
+
+---
+### **NILAI RATA-RATA SEMENTARA: 95.00 🌟**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*

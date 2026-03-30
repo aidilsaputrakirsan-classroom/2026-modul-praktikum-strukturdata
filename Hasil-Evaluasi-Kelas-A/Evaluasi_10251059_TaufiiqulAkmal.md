@@ -51,6 +51,48 @@
 **NILAI MODUL 2: 100**
 
 ---
+
+## Hasil Evaluasi Modul 3: Single Linked List
+
+### 1. Tugas 1: Implementasi Single Linked List
+- **Pengecekan Kode:**
+  - Semua method wajib (reverse, find_min, find_max, remove_value, to_list) diimplementasikan dengan benar dan lengkap. Reverse menggunakan iterasi tiga pointer yang efisien. find_min/find_max dengan traversal O(n). remove_value menangani semua kasus (head, tengah, tidak ditemukan) dengan benar.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Polinomial
+- **Pengecekan Kode:**
+  - Kelas Polynomial diimplementasikan dengan baik menggunakan linked list terurut. add_term menangani insert terurut dan penggabungan koefisien duplikat. evaluate menggunakan traversal dengan perkalian pangkat. add_polynomials membangun polynomial hasil penjumlahan dengan benar.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Music Playlist
+- **Pengecekan Kode:**
+  - Kelas Playlist dengan SongNode lengkap. Semua method (add_song, remove_song, play, next_song, current_song, total_duration, song_count, display, search_by_artist) diimplementasikan dengan benar. search_by_artist menggunakan exact case match yang konsisten dengan test case.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 3: 100**
+
+---
+
+## Hasil Evaluasi Modul 4: Double Linked List & Circular Linked List
+
+### 1. Tugas 1: Implementasi Double Linked List
+- **Pengecekan Kode:**
+  - DLL dengan head dan tail diimplementasikan lengkap. reverse menggunakan swap pointer prev/next setiap node secara efisien lalu swap head/tail. find_min, find_max, swap_nodes (tukar data), is_palindrome (two-pointer dari head dan tail) semuanya benar. is_palindrome menggunakan kondisi left != right dan left.prev != right untuk terminasi tengah.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Text Editor Undo/Redo
+- **Pengecekan Kode:**
+  - TextEditor menggunakan DLL dengan StateNode. type_text menghapus future history sebelum menambah state baru (branching). undo/redo bergerak mundur/maju dengan benar. can_undo/can_redo memeriksa pointer prev/next. show_history menampilkan seluruh chain dari head dengan marker current yang ditempel pada node saat ini.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Round Robin Scheduler
+- **Pengecekan Kode:**
+  - RoundRobinScheduler menggunakan Circular Linked List. add_process membangun CLL dengan benar. execute_one_cycle mengeksekusi quantum, memindahkan head ke next untuk rotasi, dan menghapus proses yang selesai. run menghasilkan timeline eksekusi yang tepat sesuai algoritma Round Robin.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 4: 100**
+
+---
 ### **NILAI RATA-RATA SEMENTARA: 100.00 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*

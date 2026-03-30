@@ -51,6 +51,50 @@
 **NILAI MODUL 2: 100**
 
 ---
-### **NILAI RATA-RATA SEMENTARA: 100.00 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 dan Modul 2, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+## Hasil Evaluasi Modul 3: Single Linked List
+
+### 1. Tugas 1: Implementasi Single Linked List
+- **Pengecekan Kode:**
+  - Implementasi `reverse()`, `find_min()`, `find_max()`, `remove_value()`, dan `to_list()` semuanya benar dan lengkap. Validasi posisi pada `insert_at_position()` dan `delete_at_position()` menggunakan pola `if current is None` yang lebih robust dibanding pengecekan `size()` berulang.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Polinomial
+- **Pengecekan Kode:**
+  - `Polynomial` menggunakan `TermNode`. Terdapat bug pada `add_term()`: saat menambahkan term dengan pangkat sama ke head (e.g., 2x^2 ke existing 3x^2), kondisi `self.head.exponent < exponent` bernilai False, lalu masuk else — namun `current` dimulai dari head dan pengecekan `current.next.exponent == exponent` melewati perbandingan dengan head itu sendiri, sehingga term baru ditambahkan sebagai node terpisah. Akibatnya `P1 + P2` ditampilkan sebagai `3x^2 + 2x^2 + 6x + 8` (bukan `5x^2 + 6x + 8`). Test `evaluate(1) == 19` tetap lolos karena nilai numeriknya benar (3+2+6+8=19), namun representasi display polynomial tidak akurat.
+- **Hasil Testing:** **PASSED** ✅ (test lolos) — namun terdapat bug display pada penjumlahan term dengan pangkat sama di head
+
+**NILAI TUGAS 2 MODUL 3: 90** (minor display bug pada add_polynomials)
+
+### 3. Tugas 3: Aplikasi Music Playlist
+- **Pengecekan Kode:**
+  - Semua operasi playlist diimplementasikan lengkap dan benar: `song_count()`, `total_duration()`, `play()`, `next_song()`, `search_by_artist()`, dan `remove_song()`. Format display menggunakan separator panjang 30 karakter yang konsisten.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 3: 90**
+
+---
+
+## Hasil Evaluasi Modul 4: Double Linked List & Circular Linked List
+
+### 1. Tugas 1: Implementasi Double Linked List
+- **Pengecekan Kode:**
+  - `DoublyLinkedList` menggunakan `DNode`. Method `reverse()`, `find_min()`, `find_max()`, `swap_nodes()`, dan `is_palindrome()` diimplementasikan dengan benar. Output display menggunakan spasi sebelum `DLL:` (minor cosmetic), tidak memengaruhi fungsionalitas.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Text Editor Undo/Redo
+- **Pengecekan Kode:**
+  - `TextEditor` berbasis DLL berfungsi dengan baik. `type_text()`, `append_text()`, `undo()`, `redo()`, dan branching semuanya benar. Display history tidak ditampilkan (tidak ada kode di bagian display, hanya ada di test case terpisah), namun semua assert test lolos.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Round Robin Scheduler
+- **Pengecekan Kode:**
+  - `RoundRobinScheduler` menggunakan Circular Linked List. `add_process()`, `remove_process()`, dan `execute_one_cycle()` diimplementasi dengan benar — termasuk perpindahan `self.head = self.head.next` setelah setiap quantum. Timeline interleaving Round Robin benar. Namun `display_queue()` tidak memiliki logika tampilan (hanya menangani kasus kosong tanpa menampilkan proses yang ada), sehingga output "Initial Queue:" tidak menampilkan isi antrian.
+- **Hasil Testing:** **PASSED** ✅ (test lolos) — namun `display_queue()` tidak menampilkan isi antrian (minor bug)
+
+**NILAI MODUL 4: 90**
+
+---
+### **NILAI RATA-RATA SEMENTARA: 95.00 🌟**
+
+*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
