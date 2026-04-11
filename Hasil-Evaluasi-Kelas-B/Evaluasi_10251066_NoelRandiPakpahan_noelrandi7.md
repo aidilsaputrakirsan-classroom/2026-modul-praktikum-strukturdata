@@ -87,6 +87,42 @@
 **✨ NILAI MODUL 4: 50 ✨** *(pengumpulan terlambat)*
 
 ---
-### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 87.50 🏆**
+
+## 🥇 Hasil Evaluasi Modul 5: Stack
+
+### 1. Tugas 1: Pengembangan Stack
+- **Pengecekan Kode:** Stack dengan `get_min/max`, `to_list`, `copy`, `reverse`, `clear` diimplementasikan benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Konversi dan Evaluasi Ekspresi
+- **Pengecekan Kode:** Infix to postfix dengan right-associativity `^` benar. Evaluate postfix dan full calculation lulus semua.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Stack - Browser History
+- **Pengecekan Kode:** BrowserHistory dengan 2 stack, visit/back/forward benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 5: 100 ✨**
+
+---
+
+## 🥈 Hasil Evaluasi Modul 6: Queue
+
+### 1. Tugas 1: Priority Queue
+- **Pengecekan Kode:** PriorityQueue dengan enqueue/dequeue/peek dan FIFO prioritas sama benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Deque dan Palindrome
+- **Pengecekan Kode:** Deque add/remove/peek benar. `is_palindrome()` mengembalikan boolean benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Pengecekan Kode:** Simulasi berjalan, avg waiting time positif (0.30 menit), semua customers terlayani.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 6: 100 ✨**
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-6): 91.67 🏆**
 
 *Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

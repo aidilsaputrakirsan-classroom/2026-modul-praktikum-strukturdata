@@ -87,6 +87,33 @@
 **✨ NILAI MODUL 4: 80 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 92.50 🏆**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*
+## 🥇 Hasil Evaluasi Modul 5: Stack
+
+### 1. Tugas 1: Pengembangan Stack
+- **Pengecekan Kode:** Stack dengan `get_min/max`, `to_list`, `copy`, `reverse`, `clear` diimplementasikan benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Konversi dan Evaluasi Ekspresi
+- **Pengecekan Kode:** Infix to postfix dengan right-associativity `^` benar. Full calculation lulus semua.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Stack - Browser History
+- **Pengecekan Kode:** BrowserHistory dengan 2 stack, visit/back/forward benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 5: 100 ✨**
+
+---
+
+## 🥈 Hasil Evaluasi Modul 6: Queue
+
+- **Pengecekan Kode:** Repositori diperiksa, **tidak ada file tugas untuk Modul 6**. ⚠️
+- **Hasil Testing Terminal:** **FAILED** ❌ (0%)
+
+**✨ NILAI MODUL 6: 0 ✨**
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-6): 78.33 🏆**
+
+*Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

@@ -87,6 +87,42 @@
 **✨ NILAI MODUL 4: 100 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 100.00 🏆**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*
+## 🥇 Hasil Evaluasi Modul 5: Stack
+
+### 1. Tugas 1: Pengembangan Stack
+- **Pengecekan Kode:** Stack dengan `get_min/max`, `to_list`, `copy`, `reverse`, `clear` diimplementasikan benar. Edge case ValueError pada stack kosong juga ditangani.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Konversi dan Evaluasi Ekspresi
+- **Pengecekan Kode:** Infix to postfix dengan right-associativity `^` benar. Test case tambahan seperti `(5+3)*2^2` dan `10-3^2` juga lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Stack - Browser History
+- **Pengecekan Kode:** BrowserHistory dengan 2 stack, visit/back/forward benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 5: 100 ✨**
+
+---
+
+## 🥈 Hasil Evaluasi Modul 6: Queue
+
+### 1. Tugas 1: Priority Queue
+- **Pengecekan Kode:** PriorityQueue dengan enqueue/dequeue/peek dan FIFO prioritas sama benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Deque dan Palindrome
+- **Pengecekan Kode:** Deque add/remove/peek benar. Test palindrome diperluas dengan "kasur rusak" dan "ibu ratna antar ubi", semua benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Pengecekan Kode:** Simulasi berjalan namun **avg waiting time = -7.15 menit (negatif)**, menandakan logika perhitungan waktu tunggu tidak benar.
+- **Hasil Testing Terminal:** **FAILED** ❌ (0% — avg waiting time negatif)
+
+**✨ NILAI MODUL 6: 67 ✨** *((100+100+0)/3)*
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-6): 94.50 🏆**
+
+*Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

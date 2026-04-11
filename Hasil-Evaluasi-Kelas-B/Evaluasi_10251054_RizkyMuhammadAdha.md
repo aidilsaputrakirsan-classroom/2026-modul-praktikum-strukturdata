@@ -86,7 +86,29 @@
 
 **✨ NILAI MODUL 4: 100 ✨**
 
----
-### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 97.50 🏆**
+## 🔢 Hasil Evaluasi Modul 5: Stack
 
-*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*
+### 1. Tugas 1: Pengembangan Stack
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Infix → Postfix + Evaluasi Ekspresi
+- **Pengecekan Kode:** Right-associativity `^`: `A^B^C` → `A B C ^ ^` ✅.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Browser History
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 5: 100 ✨**
+
+---
+## 🔢 Hasil Evaluasi Modul 6: Queue
+
+- **Pengecekan Kode:** Tidak ada submission Modul 6 saat evaluasi dilakukan.
+
+**✨ NILAI MODUL 6: 0 ✨**
+
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-6): 81.67 🏆**
+
+*Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

@@ -55,36 +55,36 @@
 ## 🥉 Hasil Evaluasi Modul 3: Single Linked List
 
 ### 1. Tugas 1: Pengembangan LinkedList
-- **Pengecekan Kode:** Folder `minggu3` hanya berisi `Pratikum3Kode1.py`, `Pratikum3Kode2.py`, `Pratikum3Kode3.py`, dan sebuah file bernama `minggu3` (bukan subfolder). Tidak ditemukan file tugas terstruktur (tugas1, tugas2, tugas3). Tidak ada tugas yang dikumpulkan.
-- **Hasil Testing Terminal:** **FAILED** ❌ (hanya file praktikum, tidak ada tugas)
+- **Pengecekan Kode:** Semua method baru (`reverse()`, `find_min()`, `find_max()`, `remove_value()`, `to_list()`) diimplementasikan dengan benar. Semua test lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
 
 ### 2. Tugas 2: Aplikasi Linked List - Polynomial
-- **Pengecekan Kode:** Tidak ada submission tugas 2.
-- **Hasil Testing Terminal:** **FAILED** ❌ (tidak ada file)
+- **Pengecekan Kode:** `Polynomial`, `add_term`, `evaluate`, `degree`, `add_polynomials` benar. Semua test lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
 
 ### 3. Tugas 3: Aplikasi Linked List - Music Playlist
-- **Pengecekan Kode:** *(Pengumpulan terlambat)* Implementasi `Playlist` dan `SongNode` lengkap. `total_duration()`, `display()`, navigasi benar. Semua test lulus.
-- **Hasil Testing Terminal:** **PASSED** ✅ (50% — terlambat, maks 50)
+- **Pengecekan Kode:** Implementasi `Playlist` dan `SongNode` lengkap. `total_duration()`, `display()`, navigasi benar. Semua test lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
 
-**✨ NILAI MODUL 3: 50 ✨** *(pengumpulan terlambat)*
+**✨ NILAI MODUL 3: 100 ✨**
 
 ---
 
 ## 🏅 Hasil Evaluasi Modul 4: Double & Circular Linked List
 
 ### 1. Tugas 1: Pengembangan Double Linked List
-- **Pengecekan Kode:** *(Pengumpulan terlambat)* DLL dengan `reverse()`, `is_palindrome()` benar. Semua test lulus.
-- **Hasil Testing Terminal:** **PASSED** ✅ (50% — terlambat, maks 50)
+- **Pengecekan Kode:** DLL dengan `reverse()`, `is_palindrome()` benar. Semua test lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
 
 ### 2. Tugas 2: Aplikasi DLL - Text Editor Undo/Redo
-- **Pengecekan Kode:** *(Pengumpulan terlambat)* Text editor branching, undo/redo benar. Semua test lulus.
-- **Hasil Testing Terminal:** **PASSED** ✅ (50% — terlambat, maks 50)
+- **Pengecekan Kode:** Text editor branching, undo/redo benar. Semua test lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
 
 ### 3. Tugas 3: Aplikasi CLL - Round Robin Scheduler
-- **Pengecekan Kode:** *(Pengumpulan terlambat)* Round Robin bergantian per quantum benar (A→B→C→A→...), total execution time 12 benar.
-- **Hasil Testing Terminal:** **PASSED** ✅ (50% — terlambat, maks 50)
+- **Pengecekan Kode:** Round Robin bergantian per quantum benar (A→B→C→A→...), total execution time 12 benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
 
-**✨ NILAI MODUL 4: 50 ✨** *(pengumpulan terlambat)*
+**✨ NILAI MODUL 4: 100 ✨**
 
 ---
 
@@ -120,6 +120,6 @@
 **✨ NILAI MODUL 6: 100 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA (Modul 1-6): 83.33 🏆**
+### **🏆 NILAI RATA-RATA (Modul 1-6): 100.00 🏆**
 
 *Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

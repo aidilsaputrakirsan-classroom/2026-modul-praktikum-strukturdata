@@ -87,6 +87,46 @@
 **✨ NILAI MODUL 4: 80 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 95.00 🏆**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*
+## 🥇 Hasil Evaluasi Modul 5: Stack
+
+> Catatan: semua file dikumpulkan tanpa ekstensi `.py` (-15 per tugas).
+
+### 1. Tugas 1: Pengembangan Stack
+- **Pengecekan Kode:** Stack dengan `get_min/max`, `to_list`, `copy`, `reverse`, `clear` benar. File tanpa ekstensi `.py`.
+- **Hasil Testing Terminal:** **PASSED** ✅ (85% — dikurangi 15 karena tidak ada ekstensi `.py`)
+
+### 2. Tugas 2: Konversi dan Evaluasi Ekspresi
+- **Pengecekan Kode:** Infix to postfix dengan right-associativity `^` benar. Full calculation lulus semua. File tanpa ekstensi `.py`.
+- **Hasil Testing Terminal:** **PASSED** ✅ (85% — dikurangi 15 karena tidak ada ekstensi `.py`)
+
+### 3. Tugas 3: Aplikasi Stack - Browser History
+- **Pengecekan Kode:** BrowserHistory dengan 2 stack, visit/back/forward benar. File tanpa ekstensi `.py`.
+- **Hasil Testing Terminal:** **PASSED** ✅ (85% — dikurangi 15 karena tidak ada ekstensi `.py`)
+
+**✨ NILAI MODUL 5: 85 ✨** *((85+85+85)/3)*
+
+---
+
+## 🥈 Hasil Evaluasi Modul 6: Queue
+
+> Catatan: semua file dikumpulkan tanpa ekstensi `.py` (-15 per tugas).
+
+### 1. Tugas 1: Priority Queue
+- **Pengecekan Kode:** PriorityQueue dengan enqueue/dequeue/peek dan FIFO prioritas sama benar. File tanpa `.py`.
+- **Hasil Testing Terminal:** **PASSED** ✅ (85%)
+
+### 2. Tugas 2: Deque dan Palindrome
+- **Pengecekan Kode:** Deque add/remove/peek benar. `is_palindrome()` benar. File tanpa `.py`.
+- **Hasil Testing Terminal:** **PASSED** ✅ (85%)
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Pengecekan Kode:** Simulasi 20 customers, 3 tellers. Avg waiting time 0.30 menit (positif). File tanpa `.py`.
+- **Hasil Testing Terminal:** **PASSED** ✅ (85%)
+
+**✨ NILAI MODUL 6: 85 ✨** *((85+85+85)/3)*
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-6): 91.67 🏆**
+
+*Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

@@ -89,6 +89,42 @@
 *(Semua file Modul 4 merupakan file praktikum yang salah dikumpulkan sebagai tugas; tidak ada satupun yang mengimplementasikan tugas yang diminta)*
 
 ---
-### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 80.00 🏆**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*
+## 🥇 Hasil Evaluasi Modul 5: Stack
+
+### 1. Tugas 1: Pengembangan Stack
+- **Pengecekan Kode:** File berisi implementasi **Array Stack** (`TEST ARRAY STACK`) — merupakan kode praktikum M5 Kode 5.1, bukan tugas pengembangan Stack dengan method `get_min/max`, `to_list`, `copy`, `reverse`, `clear`.
+- **Hasil Testing Terminal:** **FAILED** ❌ (0% — konten praktikum, bukan tugas)
+
+### 2. Tugas 2: Konversi dan Evaluasi Ekspresi
+- **Pengecekan Kode:** File berisi implementasi **Linked Stack** (`TEST LINKED STACK`) — merupakan kode praktikum M5 Kode 5.2, bukan konversi infix-to-postfix.
+- **Hasil Testing Terminal:** **FAILED** ❌ (0% — konten praktikum, bukan tugas)
+
+### 3. Tugas 3: Aplikasi Stack - Browser History
+- **Pengecekan Kode:** File berisi **Balanced Parentheses** checker, bukan Browser History. Konten tidak sesuai template tugas yang ditetapkan.
+- **Hasil Testing Terminal:** **FAILED** ❌ (0% — konten salah, bukan Browser History)
+
+**✨ NILAI MODUL 5: 0 ✨**
+
+---
+
+## 🥈 Hasil Evaluasi Modul 6: Queue
+
+### 1. Tugas 1: Priority Queue
+- **Pengecekan Kode:** PriorityQueue dengan enqueue/dequeue/peek dan FIFO prioritas sama benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Deque dan Palindrome
+- **Pengecekan Kode:** Deque add/remove/peek benar. `is_palindrome()` benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Pengecekan Kode:** Simulasi 20 customers, 3 tellers. Avg waiting time 0.30 menit (positif), semua customers terlayani.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 6: 100 ✨**
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-6): 70.00 🏆**
+
+*Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

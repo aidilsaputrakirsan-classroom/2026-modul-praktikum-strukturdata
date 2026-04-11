@@ -68,7 +68,21 @@
 
 **✨ NILAI MODUL 4: 0 ✨**
 
----
-### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 50.00 🏆**
+## 🔢 Hasil Evaluasi Modul 5: Stack
 
-*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*
+- **Pengecekan Kode:** Tidak ada submission Modul 5 saat evaluasi dilakukan.
+
+**✨ NILAI MODUL 5: 0 ✨**
+
+---
+## 🔢 Hasil Evaluasi Modul 6: Queue
+
+- **Pengecekan Kode:** Tidak ada submission Modul 6 saat evaluasi dilakukan.
+
+**✨ NILAI MODUL 6: 0 ✨**
+
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-6): 33.33 🏆**
+
+*Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*
