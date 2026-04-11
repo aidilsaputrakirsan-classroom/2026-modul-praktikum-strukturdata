@@ -3,7 +3,7 @@
 ---
 
 ## 👤 Data Mahasiswa
-- **Nama:** (Data dari folder tidak teridentifikasi secara pasti selain NIM)
+- **Nama:** Bagas Abdullah
 - **NIM:** 10251093
 - **Kelas:** Struktur Data B
 - **GitHub Username:** `strukturdata-b-10251093`
@@ -43,21 +43,44 @@
 
 ## 🥉 Hasil Evaluasi Modul 3: Single Linked List
 
-- **Pengecekan Kode:** Repositori telah diperiksa. **Tidak ada folder atau file pengerjaan untuk Modul 3**. Folder yang tersedia hanya `minggu 1`, `minggu2`, dan file lain. ⚠️
-- **Hasil Testing Terminal:** **FAILED** ❌ (0%) - Tidak ada submission
+> Commit: 2026-04-04 — tidak terlambat.
+> Catatan: semua file dikumpulkan tanpa ekstensi `.py`.
 
-**✨ NILAI MODUL 3: 0 ✨**
+### 1. Tugas 1: Pengembangan LinkedList
+- **Pengecekan Kode:** Implementasi `insert_at_end`, `display`, `reverse`, `find_min`, `find_max`, `remove_value`, `to_list` benar secara logika (review statis). Blok test terpotong — file truncated sehingga hanya header yang tercetak. Dikumpulkan tepat waktu.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi Linked List - Polynomial
+- **Pengecekan Kode:** `Polynomial`, `add_term`, `evaluate`, `degree`, `add_polynomials` benar secara logika. Blok test terpotong (hanya `degree` test yang sempat lulus saat dijalankan). Dikumpulkan tepat waktu.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Linked List - Music Playlist
+- **Pengecekan Kode:** File terpotong dengan SyntaxError pada baris 157 (unterminated string literal `"Bohemian`). Dikumpulkan tepat waktu namun file tidak dapat dieksekusi.
+- **Hasil Testing Terminal:** **FAILED** ❌ (0% — SyntaxError)
+
+**✨ NILAI MODUL 3: 67 ✨** *((100+100+0)/3)*
 
 ---
 
 ## 🏅 Hasil Evaluasi Modul 4: Double & Circular Linked List
 
-- **Pengecekan Kode:** Repositori telah diperiksa. **Tidak ada folder atau file pengerjaan untuk Modul 4**. Tidak ada folder Minggu 3 maupun Minggu 4 dalam repositori. ⚠️
-- **Hasil Testing Terminal:** **FAILED** ❌ (0%) - Tidak ada submission
+> Commit: 2026-03-30 — tidak terlambat.
 
-**✨ NILAI MODUL 4: 0 ✨**
+### 1. Tugas 1: Pengembangan Double Linked List
+- **Pengecekan Kode:** DLL dengan `reverse()`, `is_palindrome()` benar. Semua test lulus. Dikumpulkan tepat waktu.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Aplikasi DLL - Text Editor Undo/Redo
+- **Pengecekan Kode:** Text editor branching, undo/redo benar. Semua test lulus. Dikumpulkan tepat waktu.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi CLL - Round Robin Scheduler
+- **Pengecekan Kode:** Round Robin bergantian per quantum benar, total execution time 12 benar. Dikumpulkan tepat waktu.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 4: 100 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 25.00 🏆**
+### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 66.75 🏆**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*
+*Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

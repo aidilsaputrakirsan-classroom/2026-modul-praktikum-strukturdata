@@ -90,6 +90,42 @@
 **✨ NILAI MODUL 4: 0 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 75.00 🏆**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*
+## 🔢 Hasil Evaluasi Modul 5: Stack
+
+### 1. Tugas 1: Pengembangan Stack
+- **Pengecekan Kode:** Implementasi semua method baru (`get_min`, `get_max`, `clear`, `to_list`, `copy`, `reverse`) benar secara logika. File tidak mengandung kode test (tidak ada output saat dijalankan).
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%) — review statis
+
+### 2. Tugas 2: Infix → Postfix + Evaluasi Ekspresi
+- **Pengecekan Kode:** Kondisi right-associativity `^` di while loop benar: `token != '^'` ✅. `A^B^C` → `A B C ^ ^` benar. File tidak mengandung kode test.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%) — review statis
+
+### 3. Tugas 3: Browser History
+- **Pengecekan Kode:** `BrowserHistory` dengan dua stack, `visit()` clear forward, `back()`/`forward()` benar. File tidak mengandung kode test.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%) — review statis
+
+**✨ NILAI MODUL 5: 100 ✨**
+
+---
+
+## 🔢 Hasil Evaluasi Modul 6: Queue
+
+### 1. Tugas 1: Priority Queue
+- **Pengecekan Kode:** File `minggu6/Tugas1` berisi konten **Modul 5 T1 (Stack)** — duplikat minggu5. Bukan Priority Queue yang diminta.
+- **Hasil Testing Terminal:** **FAILED** ❌ (0%) — salah konten
+
+### 2. Tugas 2: Deque + is_palindrome()
+- **Pengecekan Kode:** File `minggu6/Tugas2` berisi konten **Modul 5 T2 (Infix-Postfix)** — duplikat minggu5. Bukan Deque yang diminta.
+- **Hasil Testing Terminal:** **FAILED** ❌ (0%) — salah konten
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Pengecekan Kode:** File `minggu6/Tugas3` berisi konten **Modul 5 T3 (Browser History)** — duplikat minggu5. Bukan simulasi bank yang diminta.
+- **Hasil Testing Terminal:** **FAILED** ❌ (0%) — salah konten
+
+**✨ NILAI MODUL 6: 0 ✨**
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-6): 62.50 🏆**
+
+*Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

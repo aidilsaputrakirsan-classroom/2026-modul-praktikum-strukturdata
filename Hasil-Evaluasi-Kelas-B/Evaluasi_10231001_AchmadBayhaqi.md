@@ -87,6 +87,42 @@
 **✨ NILAI MODUL 4: 100 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 100.00 🏆**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*
+## 🔢 Hasil Evaluasi Modul 5: Stack
+
+### 1. Tugas 1: Pengembangan Stack (get_min, get_max, clear, to_list, copy, reverse)
+- **Pengecekan Kode:** Semua method baru diimplementasikan dengan benar. `get_min()`/`get_max()` men-traverse stack, `to_list()` mengonversi ke list, `copy()` membuat salinan, `reverse()` membalik urutan, `clear()` mengosongkan stack.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Infix → Postfix + Evaluasi Ekspresi
+- **Pengecekan Kode:** Konversi infix-to-postfix benar termasuk right-associativity `^`: `A^B^C` → `A B C ^ ^` ✅. Evaluasi postfix benar untuk semua operator termasuk pangkat.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Browser History (dua stack)
+- **Pengecekan Kode:** `BrowserHistory` menggunakan dua stack (back/forward). `visit()` membersihkan forward stack. `back()`/`forward()` memindahkan halaman antar stack dengan benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 5: 100 ✨**
+
+---
+
+## 🔢 Hasil Evaluasi Modul 6: Queue
+
+### 1. Tugas 1: Priority Queue
+- **Pengecekan Kode:** `dequeue()` mengeluarkan item dengan prioritas tertinggi. Penanganan prioritas sama benar. `peek()` tidak mengubah isi antrian.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Deque + is_palindrome()
+- **Pengecekan Kode:** Operasi `add_front`, `add_rear`, `remove_front`, `remove_rear` benar. `is_palindrome()` mengembalikan `True`/`False` dengan benar untuk semua kasus termasuk string kosong dan satu karakter.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Pengecekan Kode:** 20 customer, 3 teller, avg waiting time positif (0.30 menit) — logika `service_start_time` benar (tidak negatif). Statistik lengkap.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 6: 100 ✨**
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-6): 100.00 🏆**
+
+*Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

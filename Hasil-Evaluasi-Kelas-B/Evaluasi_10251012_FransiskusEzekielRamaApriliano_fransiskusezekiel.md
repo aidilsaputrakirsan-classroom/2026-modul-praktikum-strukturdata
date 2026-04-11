@@ -63,30 +63,63 @@
 - **Hasil Testing Terminal:** **FAILED** ❌ (tidak ada file)
 
 ### 3. Tugas 3: Aplikasi Linked List - Music Playlist
-- **Pengecekan Kode:** Tidak ada submission tugas 3.
-- **Hasil Testing Terminal:** **FAILED** ❌ (tidak ada file)
+- **Pengecekan Kode:** *(Pengumpulan terlambat)* Implementasi `Playlist` dan `SongNode` lengkap. `total_duration()`, `display()`, navigasi benar. Semua test lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (50% — terlambat, maks 50)
 
-**✨ NILAI MODUL 3: 0 ✨**
+**✨ NILAI MODUL 3: 50 ✨** *(pengumpulan terlambat)*
 
 ---
 
 ## 🏅 Hasil Evaluasi Modul 4: Double & Circular Linked List
 
 ### 1. Tugas 1: Pengembangan Double Linked List
-- **Pengecekan Kode:** Folder `minggu4` tidak ditemukan di repositori lokal. Tidak ada submission modul 4.
-- **Hasil Testing Terminal:** **FAILED** ❌ (tidak ada file)
+- **Pengecekan Kode:** *(Pengumpulan terlambat)* DLL dengan `reverse()`, `is_palindrome()` benar. Semua test lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (50% — terlambat, maks 50)
 
 ### 2. Tugas 2: Aplikasi DLL - Text Editor Undo/Redo
-- **Pengecekan Kode:** Tidak ada submission.
-- **Hasil Testing Terminal:** **FAILED** ❌ (tidak ada file)
+- **Pengecekan Kode:** *(Pengumpulan terlambat)* Text editor branching, undo/redo benar. Semua test lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (50% — terlambat, maks 50)
 
 ### 3. Tugas 3: Aplikasi CLL - Round Robin Scheduler
-- **Pengecekan Kode:** Tidak ada submission.
-- **Hasil Testing Terminal:** **FAILED** ❌ (tidak ada file)
+- **Pengecekan Kode:** *(Pengumpulan terlambat)* Round Robin bergantian per quantum benar (A→B→C→A→...), total execution time 12 benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (50% — terlambat, maks 50)
 
-**✨ NILAI MODUL 4: 0 ✨**
+**✨ NILAI MODUL 4: 50 ✨** *(pengumpulan terlambat)*
 
 ---
-### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 50.00 🏆**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*
+## 🔢 Hasil Evaluasi Modul 5: Stack
+
+### 1. Tugas 1: Pengembangan Stack
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Infix → Postfix + Evaluasi Ekspresi
+- **Pengecekan Kode:** Right-associativity `^`: `A^B^C` → `A B C ^ ^` ✅.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Browser History
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 5: 100 ✨**
+
+---
+
+## 🔢 Hasil Evaluasi Modul 6: Queue
+
+### 1. Tugas 1: Priority Queue
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Deque + is_palindrome()
+- **Pengecekan Kode:** Deque benar, `is_palindrome()` mengembalikan `True`/`False` dengan benar untuk semua kasus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Pengecekan Kode:** 20 customer, 3 teller, avg waiting time 0.30 menit (positif, logika benar).
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 6: 100 ✨**
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-6): 83.33 🏆**
+
+*Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

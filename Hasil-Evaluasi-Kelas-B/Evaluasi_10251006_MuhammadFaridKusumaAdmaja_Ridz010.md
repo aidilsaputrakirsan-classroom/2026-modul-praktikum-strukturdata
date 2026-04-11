@@ -87,6 +87,39 @@
 **✨ NILAI MODUL 4: 100 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 97.50 🏆**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*
+## 🔢 Hasil Evaluasi Modul 5: Stack
+
+### 1. Tugas 1: Pengembangan Stack
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Infix → Postfix + Evaluasi Ekspresi
+- **Pengecekan Kode:** Bug right-associativity `^`: `A^B^C` → `A B ^ C ^` (expected `A B C ^ ^`) ❌. Operator `^` tidak diperlakukan sebagai right-associative di while loop.
+- **Hasil Testing Terminal:** **PARTIAL** ⚠️ (90%)
+
+### 3. Tugas 3: Browser History
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 5: 97 ✨**
+
+---
+
+## 🔢 Hasil Evaluasi Modul 6: Queue
+
+### 1. Tugas 1: Priority Queue
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Deque + is_palindrome()
+- **Pengecekan Kode:** Deque berfungsi benar, namun `is_palindrome()` tidak memiliki `return True/False` — selalu mengembalikan `None` untuk semua input.
+- **Hasil Testing Terminal:** **PARTIAL** ⚠️ (50%)
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Pengecekan Kode:** Avg waiting time positif (0.30 menit), 20 customer dilayani semua. Logika benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 6: 83 ✨**
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-6): 91.83 🏆**
+
+*Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

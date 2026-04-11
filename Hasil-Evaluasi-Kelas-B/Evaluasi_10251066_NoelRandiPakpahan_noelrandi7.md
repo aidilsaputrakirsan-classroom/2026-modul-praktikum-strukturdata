@@ -73,20 +73,20 @@
 ## 🏅 Hasil Evaluasi Modul 4: Double & Circular Linked List
 
 ### 1. Tugas 1: Pengembangan Double Linked List
-- **Pengecekan Kode:** Tidak ada submission Modul 4 (tidak ditemukan folder `minggu4` maupun `minggu 4` di repository).
-- **Hasil Testing Terminal:** **FAILED** ❌ (Tidak ada submission)
+- **Pengecekan Kode:** *(Pengumpulan terlambat)* DLL dengan `reverse()`, `is_palindrome()` benar. Semua test lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (50% — terlambat, maks 50)
 
 ### 2. Tugas 2: Aplikasi DLL - Text Editor Undo/Redo
-- **Pengecekan Kode:** Tidak ada submission.
-- **Hasil Testing Terminal:** **FAILED** ❌ (Tidak ada submission)
+- **Pengecekan Kode:** *(Pengumpulan terlambat)* Text editor branching, undo/redo benar. Semua test lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (50% — terlambat, maks 50)
 
 ### 3. Tugas 3: Aplikasi CLL - Round Robin Scheduler
-- **Pengecekan Kode:** Tidak ada submission.
-- **Hasil Testing Terminal:** **FAILED** ❌ (Tidak ada submission)
+- **Pengecekan Kode:** *(Pengumpulan terlambat)* Round Robin bergantian per quantum benar, total execution time 12 benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (50% — terlambat, maks 50)
 
-**✨ NILAI MODUL 4: 0 ✨**
+**✨ NILAI MODUL 4: 50 ✨** *(pengumpulan terlambat)*
 
 ---
-### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 75.00 🏆**
+### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 87.50 🏆**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*
+*Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

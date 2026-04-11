@@ -87,6 +87,39 @@
 **✨ NILAI MODUL 4: 100 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA SEMENTARA (Modul 1-4): 100.00 🏆**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1, 2, 3, dan 4, dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*
+## 🔢 Hasil Evaluasi Modul 5: Stack
+
+### 1. Tugas 1: Pengembangan Stack
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Infix → Postfix + Evaluasi Ekspresi
+- **Pengecekan Kode:** Right-associativity `^`: `A^B^C` → `A B C ^ ^` ✅. Semua test case lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Browser History
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 5: 100 ✨**
+
+---
+
+## 🔢 Hasil Evaluasi Modul 6: Queue
+
+### 1. Tugas 1: Priority Queue
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Deque + is_palindrome()
+- **Pengecekan Kode:** File yang dikumpulkan adalah file **praktikum** (`PRAKTIKUM 6.2: Implementasi Circular Queue`) — bukan implementasi Deque + `is_palindrome()` yang diminta. Konten tidak sesuai tugas.
+- **Hasil Testing Terminal:** **FAILED** ❌ (0%) — salah konten
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Pengecekan Kode:** File yang dikumpulkan adalah file **praktikum** (`PRAKTIKUM 6.3: Implementasi Queue dengan Linked List`) — bukan simulasi antrian bank 20 customer 3 teller. Konten tidak sesuai tugas.
+- **Hasil Testing Terminal:** **FAILED** ❌ (0%) — salah konten
+
+**✨ NILAI MODUL 6: 33 ✨**
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-6): 88.83 🏆**
+
+*Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*
