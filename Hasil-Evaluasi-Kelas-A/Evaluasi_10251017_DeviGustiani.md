@@ -95,6 +95,55 @@
 **NILAI MODUL 4: 100**
 
 ---
-### **NILAI RATA-RATA SEMENTARA: 95.00 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+## Hasil Evaluasi Modul 5: Stack
+
+> ⚠️ **Catatan Format:** File Modul 5 dikumpulkan **tanpa ekstensi `.py`** (`Tugas 5.1`, `Tugas 5.2`, `Tugas 5.3`). Meskipun konten Python valid dan dapat dieksekusi, format pengumpulan tidak sesuai ketentuan. **Pengurangan nilai 15 poin diterapkan.**
+
+### 1. Tugas 1: Pengembangan Stack dengan Method Baru
+- **Pengecekan Kode:** Semua method baru benar, semua test lulus.
+- **Hasil Testing:** **PASSED** ✅
+
+### 2. Tugas 2: Konversi dan Evaluasi Ekspresi
+- **Pengecekan Kode:** `infix_to_postfix()` benar termasuk right-associativity `^`. Semua test lulus.
+- **Hasil Testing:** **PASSED** ✅
+
+### 3. Tugas 3: Aplikasi Browser History
+- **Pengecekan Kode:** Browser history benar.
+- **Hasil Testing:** **PASSED** ✅
+
+**NILAI MODUL 5: 85** *(100 - 15 penalti format file tanpa `.py`)*
+
+---
+
+## Hasil Evaluasi Modul 6: Queue
+
+> ⚠️ **Catatan Format:** File Modul 6 juga dikumpulkan **tanpa ekstensi `.py`** (`Tugas 6.1`, `Tugas 6.2`, `Tugas 6.3`). Pengurangan nilai 15 poin diterapkan.
+
+### 1. Tugas 1: Implementasi Priority Queue
+- **Pengecekan Kode:** Priority Queue benar, semua test lulus.
+- **Hasil Testing:** **PASSED** ✅
+
+### 2. Tugas 2: Implementasi Deque + Palindrome
+- **Pengecekan Kode:** Deque dan palindrome benar, semua 7 test palindrome lulus.
+- **Hasil Testing:** **PASSED** ✅
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Pengecekan Kode:** Simulasi benar, statistik akurat.
+- **Hasil Testing:** **PASSED** ✅
+
+**NILAI MODUL 6: 85** *(100 - 15 penalti format file tanpa `.py`)*
+
+---
+
+### **NILAI RATA-RATA SEMENTARA: 95 🌟**
+
+| Modul | Nilai |
+|-------|-------|
+| Modul 1 | 100 |
+| Modul 2 | 80 |
+| Modul 3 | 100 |
+| Modul 4 | 100 |
+| Modul 5 | 85 |
+| Modul 6 | 85 |
+| **Rata-rata** | **92** |

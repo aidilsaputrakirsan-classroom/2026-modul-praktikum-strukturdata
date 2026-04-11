@@ -93,6 +93,51 @@
 **NILAI MODUL 4: 90**
 
 ---
-### **NILAI RATA-RATA SEMENTARA: 97.50 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+## Hasil Evaluasi Modul 5: Stack
+
+### 1. Tugas 1: Pengembangan Stack dengan Method Baru
+- **Pengecekan Kode:** Semua method baru (`get_min`, `get_max`, `clear`, `to_list`, `copy`, `reverse`) diimplementasikan dengan benar. Semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Konversi dan Evaluasi Ekspresi
+- **Pengecekan Kode:** `infix_to_postfix()` benar termasuk right-associativity `^`. `evaluate_postfix()` dan `calculate()` juga benar. Semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Browser History
+- **Pengecekan Kode:** `BrowserHistory` menggunakan dua stack (`back_stack`, `forward_stack`). `visit()`, `back()`, `forward()`, dan `current_page()` diimplementasikan dengan benar.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 5: 100**
+
+---
+
+## Hasil Evaluasi Modul 6: Queue
+
+### 1. Tugas 1: Implementasi Priority Queue
+- **Pengecekan Kode:** `PriorityQueue` diimplementasikan dengan benar. Enqueue mempertahankan urutan prioritas. FIFO untuk prioritas sama terjaga. Semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Implementasi Deque + Palindrome
+- **Pengecekan Kode:** `Deque` dengan `add_front`, `add_rear`, `remove_front`, `remove_rear` benar. `is_palindrome()` menggunakan Deque lokal dengan benar. Semua 7 test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Pengecekan Kode:** 20 customers, 3 tellers, avg wait 0.30 menit — statistik akurat dan benar. Semua customer terlayani.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 6: 100**
+
+---
+
+### **NILAI RATA-RATA SEMENTARA: 98 🌟**
+
+| Modul | Nilai |
+|-------|-------|
+| Modul 1 | 100 |
+| Modul 2 | 100 |
+| Modul 3 | 100 |
+| Modul 4 | 90 |
+| Modul 5 | 100 |
+| Modul 6 | 100 |
+| **Rata-rata** | **98** |

@@ -101,6 +101,73 @@
 **NILAI MODUL 4: 100**
 
 ---
-### **NILAI RATA-RATA SEMENTARA: 100 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+## Hasil Evaluasi Modul 5: Stack
+
+### 1. Tugas 1: Pengembangan Stack dengan Method Baru
+- **Pengecekan Kode:**
+  - `get_min()` dan `get_max()` menggunakan `min(self.items)` / `max(self.items)` — efisien dan benar O(n).
+  - `clear()` mengeset `self.items = []` — bersih dan benar.
+  - `to_list()` mengembalikan `list(self.items)` — copy yang benar (bottom→top).
+  - `copy()` membuat Stack baru dengan elemen yang sama — independent copy terbukti lulus test.
+  - `reverse()` menggunakan auxiliary stack (pop semua ke temp stack, pop kembali) — logika benar.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Konversi dan Evaluasi Ekspresi
+- **Pengecekan Kode:**
+  - Fungsi `infix_to_postfix()`, `evaluate_postfix()`, dan `calculate()` seluruhnya dibiarkan sebagai `pass` tanpa implementasi apapun.
+  - Semua 16 test case menghasilkan `None`.
+- **Hasil Testing:** **GAGAL** ❌ (0%) — tidak diimplementasikan
+
+### 3. Tugas 3: Aplikasi Browser History
+- **Pengecekan Kode:**
+  - `BrowserHistory` menggunakan dua Stack (`back_stack`, `forward_stack`). Logika `visit()` → push current ke back_stack lalu clear forward_stack sudah benar.
+  - `back()` dan `forward()` memindahkan halaman antar stack secara tepat.
+  - `can_go_back()` dan `can_go_forward()` mengembalikan boolean berdasarkan keadaan stack.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 5: 67** *(T1:100 + T2:0 + T3:100) / 3 ≈ 67*
+
+---
+
+## Hasil Evaluasi Modul 6: Queue
+
+### 1. Tugas 1: Implementasi Priority Queue
+- **Pengecekan Kode:**
+  - `PriorityQueue` menyimpan elemen sebagai list of tuples `(priority, item)` terurut descending.
+  - `enqueue()` melakukan insertion sort berdasarkan prioritas — FIFO untuk prioritas sama terjaga.
+  - `dequeue()` mengembalikan item (bukan tuple) dari posisi pertama.
+  - `display()` menampilkan format `PriorityQueue: [(p, item), ...]`.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Implementasi Deque + Palindrome
+- **Pengecekan Kode:**
+  - `Deque` menggunakan list Python. `add_front()` pakai `insert(0, item)`, `add_rear()` pakai `append()`.
+  - `remove_front()` dan `remove_rear()` benar dengan penanganan empty check.
+  - `is_palindrome()` menggunakan Deque — semua 7 test case lulus termasuk string kosong.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Pengecekan Kode:**
+  - `BankSimulation` dengan 3 teller melayani 20 customers secara lengkap.
+  - Statistik: rata-rata waktu tunggu 0.30 menit, semua customer terlayani.
+  - Logika assignment teller (mencari teller available) berjalan benar.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 6: 100**
+
+---
+
+### **NILAI RATA-RATA SEMENTARA: 94 🌟**
+
+| Modul | Nilai |
+|-------|-------|
+| Modul 1 | 100 |
+| Modul 2 | 100 |
+| Modul 3 | 100 |
+| Modul 4 | 100 |
+| Modul 5 | 67 |
+| Modul 6 | 100 |
+| **Rata-rata** | **94** |
+
+*Catatan: Modul 5 Tugas 2 (Konversi Infix→Postfix) tidak diimplementasikan sama sekali.*

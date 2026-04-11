@@ -97,6 +97,53 @@
 **NILAI MODUL 4: 100**
 
 ---
-### **NILAI RATA-RATA SEMENTARA: 90 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+## Hasil Evaluasi Modul 5: Stack
+
+### 1. Tugas 1: Pengembangan Stack dengan Method Baru
+- **Pengecekan Kode:** `get_min()`, `get_max()`, `clear()`, `to_list()`, `copy()`, `reverse()` semuanya terimplementasi dan benar.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Konversi dan Evaluasi Ekspresi
+- **Pengecekan Kode:**
+  - `infix_to_postfix()` diimplementasikan dengan benar menggunakan stack — termasuk right-associativity untuk operator `^`.
+  - `evaluate_postfix()` dan `calculate()` benar, seluruh test case lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Browser History
+- **Pengecekan Kode:** Implementasi dua stack untuk back/forward. Semua operasi benar.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 5: 100**
+
+---
+
+## Hasil Evaluasi Modul 6: Queue
+
+### 1. Tugas 1: Implementasi Priority Queue
+- **Pengecekan Kode:** List terurut descending, insertion sort, FIFO untuk prioritas sama. Semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Implementasi Deque + Palindrome
+- **Pengecekan Kode:** Deque semua operasi benar. Palindrome checker menggunakan Deque lokal — semua 7 test case lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Pengecekan Kode:** Simulasi 20 customers, 3 tellers — semua terlayani. Statistik akurat.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 6: 100**
+
+---
+
+### **NILAI RATA-RATA SEMENTARA: 97 🌟**
+
+| Modul | Nilai |
+|-------|-------|
+| Modul 1 | 100 |
+| Modul 2 | 100 |
+| Modul 3 | 100 |
+| Modul 4 | 60 |
+| Modul 5 | 100 |
+| Modul 6 | 100 |
+| **Rata-rata** | **93** |

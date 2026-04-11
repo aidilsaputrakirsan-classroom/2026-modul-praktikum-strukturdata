@@ -93,6 +93,51 @@
 **NILAI MODUL 4: 80**
 
 ---
-### **NILAI RATA-RATA SEMENTARA: 95.00 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+## Hasil Evaluasi Modul 5: Stack
+
+### 1. Tugas 1: Pengembangan Stack dengan Method Baru
+- **Pengecekan Kode:** Semua method baru (`get_min`, `get_max`, `clear`, `to_list`, `copy`, `reverse`) diimplementasikan dengan benar. Semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Konversi dan Evaluasi Ekspresi
+- **Pengecekan Kode:** `infix_to_postfix()` benar termasuk right-associativity `^`. `evaluate_postfix()` dan `calculate()` benar. Semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Browser History
+- **Pengecekan Kode:** `BrowserHistory` menggunakan dua stack. `visit()`, `back()`, `forward()`, dan `current_page()` benar. Semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 5: 100**
+
+---
+
+## Hasil Evaluasi Modul 6: Queue
+
+### 1. Tugas 1: Implementasi Priority Queue
+- **Pengecekan Kode:** `PriorityQueue` benar dengan urutan prioritas yang tepat. Semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Implementasi Deque + Palindrome
+- **Pengecekan Kode:** `Deque` benar. `is_palindrome()` menggunakan Deque lokal dengan benar. Semua 7 test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Pengecekan Kode:** Semua 20 customers terlayani, namun rata-rata waktu tunggu negatif (-6.15 menit) — bug logika pada perhitungan `waiting_time`. Nilai `service_start_time` dihitung sebelum pelanggan tiba, menyebabkan selisih negatif.
+- **Hasil Testing:** **BUG LOGIKA** ⚠️ (60%)
+
+**NILAI MODUL 6: 87** *(T1:100 + T2:100 + T3:60) / 3 ≈ 87*
+
+---
+
+### **NILAI RATA-RATA SEMENTARA: 95 🌟**
+
+| Modul | Nilai |
+|-------|-------|
+| Modul 1 | 100 |
+| Modul 2 | 100 |
+| Modul 3 | 100 |
+| Modul 4 | 80 |
+| Modul 5 | 100 |
+| Modul 6 | 87 |
+| **Rata-rata** | **95** |

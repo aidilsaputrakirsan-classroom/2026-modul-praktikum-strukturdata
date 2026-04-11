@@ -93,6 +93,40 @@
 **NILAI MODUL 4: 100**
 
 ---
-### **NILAI RATA-RATA SEMENTARA: 92.50 🌟**
+## Hasil Evaluasi Modul 5: Stack
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+> ❌ **Tidak ada file Tugas Modul 5** saat evaluasi dilakukan (per April 2026). Folder "Praktikum & Tugas 5" hanya berisi file Praktikum (5.1, 5.2, 5.3), tidak ada file Tugas.
+
+**NILAI MODUL 5: 0** *(tidak ada file Tugas)*
+
+---
+
+## Hasil Evaluasi Modul 6: Queue
+
+### 1. Tugas 1: Implementasi Priority Queue
+- **Pengecekan Kode:** `PriorityQueue` benar, urutan prioritas terjaga. Semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Implementasi Deque + Palindrome
+- **Pengecekan Kode:** `Deque` dan `is_palindrome()` benar. Semua 7 test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Pengecekan Kode:** 20 customers, 3 tellers, avg wait 0.30 menit — statistik benar.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 6: 100**
+
+---
+
+### **NILAI RATA-RATA SEMENTARA: 78 🌟**
+
+| Modul | Nilai |
+|-------|-------|
+| Modul 1 | 100 |
+| Modul 2 | 100 |
+| Modul 3 | 70 |
+| Modul 4 | 100 |
+| Modul 5 | 0 |
+| Modul 6 | 100 |
+| **Rata-rata** | **78** |

@@ -94,6 +94,53 @@
 **NILAI MODUL 4: 100**
 
 ---
-### **NILAI RATA-RATA SEMENTARA: 100.00 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+## Hasil Evaluasi Modul 5: Stack
+
+### 1. Tugas 1: Pengembangan Stack dengan Method Baru
+- **Pengecekan Kode:** Semua method baru benar, semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Konversi dan Evaluasi Ekspresi
+- **Pengecekan Kode:** `infix_to_postfix()` sebagian besar benar, tetapi **right-associativity operator `^` tidak ditangani** — `'A ^ B ^ C'` → `'A B ^ C ^'`. Evaluasi postfix dan calculate benar.
+- **Hasil Testing:** **HAMPIR LULUS** ⚠️ (90%) — 1 dari 6 infix test gagal
+
+### 3. Tugas 3: Aplikasi Browser History
+- **Pengecekan Kode:** Browser history benar, semua assertions lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 5: 97** *(T1:100 + T2:90 + T3:100) / 3 ≈ 97*
+
+---
+
+## Hasil Evaluasi Modul 6: Queue
+
+### 1. Tugas 1: Implementasi Priority Queue
+- **Pengecekan Kode:** Priority Queue benar, semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Implementasi Deque + Palindrome
+- **Pengecekan Kode:** Deque benar. Palindrome checker — semua 7 test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Pengecekan Kode:**
+  - **Bug kritis:** Hanya 1 dari 20 customer yang terlayani (`Customers served: 1`). Kemungkinan bug pada loop simulasi yang keluar terlalu awal atau pada kondisi pengecekan teller availability.
+  - Simulasi tidak crash tapi hasilnya tidak valid.
+- **Hasil Testing:** **BUG MAYOR** ❌ (30%) — hanya 1/20 customers terlayani
+
+**NILAI MODUL 6: 76** *(T1:100 + T2:100 + T3:30) / 3 ≈ 77*
+
+---
+
+### **NILAI RATA-RATA SEMENTARA: 96 🌟**
+
+| Modul | Nilai |
+|-------|-------|
+| Modul 1 | 100 |
+| Modul 2 | 100 |
+| Modul 3 | 100 |
+| Modul 4 | 100 |
+| Modul 5 | 97 |
+| Modul 6 | 77 |
+| **Rata-rata** | **96** |

@@ -77,23 +77,65 @@
 ## Hasil Evaluasi Modul 4: Double Linked List & Circular Linked List
 
 ### 1. Tugas 1: Implementasi Double Linked List
-- **Pengecekan Kode:**
-  - **Tidak ada Tugas Terstruktur:** Folder minggu 4 hanya berisi file Praktikum 4.1 (DLL), 4.2 (Circular LL), dan 4.3 (Insert/Delete DLL). Tidak ditemukan file Tugas Terstruktur yang mengimplementasikan `reverse()`, `find_min()`, `find_max()`, `swap_nodes()`, dan `is_palindrome()`.
-- **Hasil Testing:** **FAILED** ❌ (Tidak ada submission Tugas Terstruktur)
+- **Pengecekan Kode:** Semua method DLL (`reverse`, `find_min`, `find_max`, `swap_nodes`, `is_palindrome`, `to_list`) diimplementasikan dengan benar. Semua assert test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
 
 ### 2. Tugas 2: Aplikasi Text Editor Undo/Redo
-- **Pengecekan Kode:**
-  - Tidak ada submission.
-- **Hasil Testing:** **FAILED** ❌ (Tidak ada submission)
+- **Pengecekan Kode:** `type_text`, `append_text`, `undo`, `redo`, dan branching semua berjalan benar. `show_history()` menampilkan posisi `^current` dengan tepat.
+- **Hasil Testing:** **PASSED** ✅ (100%)
 
 ### 3. Tugas 3: Aplikasi Round Robin Scheduler
-- **Pengecekan Kode:**
-  - Tidak ada submission.
-- **Hasil Testing:** **FAILED** ❌ (Tidak ada submission)
+- **Pengecekan Kode:** Logika rotasi Round Robin **benar** — proses bergantian per quantum (A→B→C→A→B selesai→C selesai→A selesai). Namun setelah semua proses selesai, program tidak berhenti — infinite loop `"Time 12-12: Process X completed"` karena `remove_process` tidak menghapus node dari circular list dengan benar.
+- **Hasil Testing:** **INFINITE LOOP** ⚠️ (50%) — Rotasi benar, tapi terminasi gagal.
 
-**NILAI MODUL 4: 0**
+**NILAI MODUL 4: 83** *(T1:100 + T2:100 + T3:50) / 3 ≈ 83*
 
 ---
-### **NILAI RATA-RATA SEMENTARA: 65.00 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+## Hasil Evaluasi Modul 5: Stack
+
+### 1. Tugas 1: Pengembangan Stack dengan Method Baru
+- **Pengecekan Kode:** Semua method benar, semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Konversi dan Evaluasi Ekspresi
+- **Pengecekan Kode:** `infix_to_postfix()` benar termasuk right-associativity `^`. Semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Browser History
+- **Pengecekan Kode:** Browser history benar.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 5: 100**
+
+---
+
+## Hasil Evaluasi Modul 6: Queue
+
+### 1. Tugas 1: Implementasi Priority Queue
+- **Pengecekan Kode:** Priority Queue benar, semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Implementasi Deque + Palindrome
+- **Pengecekan Kode:** Deque dan palindrome benar, semua 7 test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Pengecekan Kode:** Simulasi benar, statistik akurat.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 6: 100**
+
+---
+
+### **NILAI RATA-RATA: 91 🌟**
+
+| Modul | Nilai |
+|-------|-------|
+| Modul 1 | 100 |
+| Modul 2 | 100 |
+| Modul 3 | 60 |
+| Modul 4 | 83 |
+| Modul 5 | 100 |
+| Modul 6 | 100 |
+| **Rata-rata** | **91** |

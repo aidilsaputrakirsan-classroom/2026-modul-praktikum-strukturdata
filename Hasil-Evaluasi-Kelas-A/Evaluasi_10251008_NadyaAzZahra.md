@@ -97,6 +97,57 @@
 **NILAI MODUL 4: 67**
 
 ---
-### **NILAI RATA-RATA SEMENTARA: 84 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+## Hasil Evaluasi Modul 5: Stack
+
+### 1. Tugas 1: Pengembangan Stack dengan Method Baru
+- **Pengecekan Kode:** Semua method (`get_min`, `get_max`, `clear`, `to_list`, `copy`, `reverse`) diimplementasikan dan benar.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Konversi dan Evaluasi Ekspresi
+- **Pengecekan Kode:**
+  - `infix_to_postfix()` sebagian besar benar (5/6 test case), namun **right-associativity operator `^` tidak ditangani** — `'A ^ B ^ C'` menghasilkan `'A B ^ C ^'` bukan `'A B C ^ ^'`.
+  - `evaluate_postfix()` dan `calculate()` benar untuk semua test case numerik.
+- **Hasil Testing:** **HAMPIR LULUS** ⚠️ (90%) — 1 dari 6 infix test gagal
+
+### 3. Tugas 3: Aplikasi Browser History
+- **Pengecekan Kode:** Semua operasi browser history berjalan benar.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 5: 97** *(T1:100 + T2:90 + T3:100) / 3 ≈ 97*
+
+---
+
+## Hasil Evaluasi Modul 6: Queue
+
+### 1. Tugas 1: Implementasi Priority Queue
+- **Pengecekan Kode:** Priority Queue benar, FIFO untuk prioritas sama terjaga.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Implementasi Deque + Palindrome
+- **Pengecekan Kode:**
+  - Operasi Deque (`add_front`, `add_rear`, `remove_front`, `remove_rear`, `peek_front`, `peek_rear`) semua benar — 5 test utama lulus.
+  - `is_palindrome()` **bug kritis**: menggunakan variabel `dq` global (dari `__main__`) bukan membuat Deque lokal. Saat dipanggil dalam test, `dq` sudah berisi sisa data `[5, 10]` dari test sebelumnya → semua palindrome check salah (selalu False).
+- **Hasil Testing:** **GAGAL SEBAGIAN** ⚠️ (70%) — Deque OK, palindrome broken
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Pengecekan Kode:**
+  - Semua 20 customers terlayani, tapi **rata-rata waktu tunggu negatif (-6.15 menit)** menunjukkan bug logika pada perhitungan `start_service_time` atau akumulasi statistik.
+  - Simulasi berjalan (tidak crash) tapi hasil statistik tidak valid.
+- **Hasil Testing:** **BUG LOGIKA** ⚠️ (60%) — simulasi jalan tapi statistik salah
+
+**NILAI MODUL 6: 77** *(T1:100 + T2:70 + T3:60) / 3 ≈ 77*
+
+---
+
+### **NILAI RATA-RATA SEMENTARA: 87 🌟**
+
+| Modul | Nilai |
+|-------|-------|
+| Modul 1 | 100 |
+| Modul 2 | 100 |
+| Modul 3 | 67 |
+| Modul 4 | 67 |
+| Modul 5 | 97 |
+| Modul 6 | 77 |
+| **Rata-rata** | **85** |

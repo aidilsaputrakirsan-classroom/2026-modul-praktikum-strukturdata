@@ -93,6 +93,51 @@
 **NILAI MODUL 4: 100**
 
 ---
-### **NILAI RATA-RATA SEMENTARA: 100.00 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+## Hasil Evaluasi Modul 5: Stack
+
+### 1. Tugas 1: Pengembangan Stack dengan Method Baru
+- **Pengecekan Kode:** Semua method baru (`get_min`, `get_max`, `clear`, `to_list`, `copy`, `reverse`) diimplementasikan dengan benar. Semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Konversi dan Evaluasi Ekspresi
+- **Pengecekan Kode:** `infix_to_postfix()` **tidak menangani right-associativity `^`** — `2^3^2` menghasilkan `23^2^` (left-assoc) bukan `232^^` (right-assoc). Selain itu, `back_stack` pada `BrowserHistory` tidak digunakan dengan benar untuk menampilkan halaman terakhir saat `back()`. Test `^` gagal.
+- **Hasil Testing:** **HAMPIR LULUS** ⚠️ (80%)
+
+### 3. Tugas 3: Aplikasi Browser History
+- **Pengecekan Kode:** `BrowserHistory` menggunakan dua stack. Logika dasar `visit()`, `back()`, `forward()` benar. Semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 5: 93** *(T1:100 + T2:80 + T3:100) / 3 ≈ 93*
+
+---
+
+## Hasil Evaluasi Modul 6: Queue
+
+### 1. Tugas 1: Implementasi Priority Queue
+- **Pengecekan Kode:** `PriorityQueue` diimplementasikan dengan benar. Enqueue mempertahankan urutan prioritas. Semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Implementasi Deque + Palindrome
+- **Pengecekan Kode:** `Deque` benar. Namun `is_palindrome()` tidak mengembalikan nilai apapun (return `None`) — fungsi melakukan pengecekan namun tidak ada statement `return True/False`. Akibatnya semua pemanggilan `is_palindrome()` mengembalikan `None` bukan boolean.
+- **Hasil Testing:** **FAILED** ❌ — `is_palindrome()` selalu return `None` (50%)
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Pengecekan Kode:** Semua 20 customers terlayani, namun rata-rata waktu tunggu negatif — bug logika pada perhitungan `waiting_time`. `service_start_time` dihitung sebelum customer tiba sehingga menghasilkan selisih negatif.
+- **Hasil Testing:** **BUG LOGIKA** ⚠️ (60%)
+
+**NILAI MODUL 6: 70** *(T1:100 + T2:50 + T3:60) / 3 ≈ 70*
+
+---
+
+### **NILAI RATA-RATA SEMENTARA: 94 🌟**
+
+| Modul | Nilai |
+|-------|-------|
+| Modul 1 | 100 |
+| Modul 2 | 100 |
+| Modul 3 | 100 |
+| Modul 4 | 100 |
+| Modul 5 | 93 |
+| Modul 6 | 70 |
+| **Rata-rata** | **94** |

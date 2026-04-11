@@ -93,6 +93,50 @@
 **NILAI MODUL 4: 100**
 
 ---
-### **NILAI RATA-RATA SEMENTARA: 100.00 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+## Hasil Evaluasi Modul 5: Stack
+
+### 1. Tugas 1: Pengembangan Stack dengan Method Baru
+- **Pengecekan Kode:** Semua method baru (`get_min`, `get_max`, `clear`, `to_list`, `copy`, `reverse`) diimplementasikan dengan benar. Semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Konversi dan Evaluasi Ekspresi
+- **Pengecekan Kode:** `infix_to_postfix()` benar termasuk right-associativity `^`. `evaluate_postfix()` dan `calculate()` benar. Semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Browser History
+- **Pengecekan Kode:** `BrowserHistory` menggunakan dua stack. `visit()`, `back()`, `forward()`, dan `current_page()` benar. Semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 5: 100**
+
+---
+
+## Hasil Evaluasi Modul 6: Queue
+
+> ❌ **Semua file Modul 6 kosong** saat evaluasi dilakukan (per April 2026). File `Tugas6.1`, `Tugas6.2`, dan `Tugas6.3` ada di repository namun berisi hanya baris kosong tanpa kode apapun.
+
+### 1. Tugas 1: Implementasi Priority Queue
+- **Hasil Testing:** **TIDAK ADA KODE** ❌ (0%)
+
+### 2. Tugas 2: Implementasi Deque + Palindrome
+- **Hasil Testing:** **TIDAK ADA KODE** ❌ (0%)
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Hasil Testing:** **TIDAK ADA KODE** ❌ (0%)
+
+**NILAI MODUL 6: 0** *(semua file kosong)*
+
+---
+
+### **NILAI RATA-RATA SEMENTARA: 83 🌟**
+
+| Modul | Nilai |
+|-------|-------|
+| Modul 1 | 100 |
+| Modul 2 | 100 |
+| Modul 3 | 100 |
+| Modul 4 | 100 |
+| Modul 5 | 100 |
+| Modul 6 | 0 |
+| **Rata-rata** | **83** |

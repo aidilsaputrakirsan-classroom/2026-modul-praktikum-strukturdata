@@ -102,6 +102,61 @@
 **NILAI MODUL 4: 100**
 
 ---
-### **NILAI RATA-RATA SEMENTARA: 100 🌟**
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution.*
+## Hasil Evaluasi Modul 5: Stack
+
+### 1. Tugas 1: Pengembangan Stack dengan Method Baru
+- **Pengecekan Kode:**
+  - `get_min()` dan `get_max()` menggunakan `min(self.items)` / `max(self.items)` — benar.
+  - `clear()`, `to_list()`, `copy()`, dan `reverse()` semuanya terimplementasi dan lulus test.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Konversi dan Evaluasi Ekspresi
+- **Pengecekan Kode:**
+  - Fungsi `infix_to_postfix()`, `evaluate_postfix()`, dan `calculate()` seluruhnya `pass` — tidak diimplementasikan.
+  - Semua 16 test case menghasilkan `None`.
+- **Hasil Testing:** **GAGAL** ❌ (0%) — tidak diimplementasikan
+
+### 3. Tugas 3: Aplikasi Browser History
+- **Pengecekan Kode:**
+  - `BrowserHistory` dengan dua stack berjalan benar. `visit()`, `back()`, `forward()`, `can_go_back()`, `can_go_forward()` semua sesuai spesifikasi.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 5: 67** *(T1:100 + T2:0 + T3:100) / 3 ≈ 67*
+
+---
+
+## Hasil Evaluasi Modul 6: Queue
+
+### 1. Tugas 1: Implementasi Priority Queue
+- **Pengecekan Kode:**
+  - List of tuples terurut descending. Enqueue insertion sort, FIFO untuk prioritas sama terjaga.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Implementasi Deque + Palindrome
+- **Pengecekan Kode:**
+  - Deque dengan operasi front/rear benar. Palindrome checker lulus semua 7 test case.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Pengecekan Kode:**
+  - Simulasi 3 teller, 20 customers — semua terlayani. Statistik waktu tunggu & servis terhitung benar.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 6: 100**
+
+---
+
+### **NILAI RATA-RATA SEMENTARA: 94 🌟**
+
+| Modul | Nilai |
+|-------|-------|
+| Modul 1 | 100 |
+| Modul 2 | 100 |
+| Modul 3 | 100 |
+| Modul 4 | 100 |
+| Modul 5 | 67 |
+| Modul 6 | 100 |
+| **Rata-rata** | **94** |
+
+*Catatan: Modul 5 Tugas 2 (Konversi Infix→Postfix) tidak diimplementasikan.*

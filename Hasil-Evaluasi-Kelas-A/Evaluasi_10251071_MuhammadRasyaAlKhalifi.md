@@ -33,11 +33,19 @@
 
 ## Hasil Evaluasi Modul 2: Array
 
-- **Pengecekan Kode:**
-  - Folder `minggu2` atau `Minggu2` tidak ditemukan pada repositori GitHub mahasiswa. Tidak ada submission (pengumpulan tugas) untuk Modul 2.
-- **Hasil Testing Codelab:** **FAILED** ❌ (0%)
+### 1. Tugas 1: Pengembangan MyArray
+- **Pengecekan Kode:** `insert_front`, `delete_front`, `find_min`, `find_max`, `count`, `reverse` diimplementasikan dengan benar. Semua test lulus.
+- **Hasil Testing Codelab:** **PASSED** ✅ (100%)
 
-**NILAI MODUL 2: 0**
+### 2. Tugas 2: Aplikasi Array - Statistik Data
+- **Pengecekan Kode:** `sum`, `average`, `range`, `find_second_largest`, `remove_duplicates` semua benar. Semua test lulus.
+- **Hasil Testing Codelab:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Matrix - Operasi Dasar
+- **Pengecekan Kode:** `add_matrices`, `transpose`, `scalar_multiply`, `is_symmetric`, `get_diagonal` semua benar. Semua test lulus.
+- **Hasil Testing Codelab:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 2: 100**
 
 ---
 
@@ -82,6 +90,50 @@
 **NILAI MODUL 4: 100**
 
 ---
-### **NILAI RATA-RATA SEMENTARA: 75.00 ⚠️**
+## Hasil Evaluasi Modul 5: Stack
 
-*Penilaian ini adalah nilai sementara untuk Modul 1 hingga Modul 4, dievaluasi secara statis berdasarkan instruksi/flowchart dan divalidasi melalui unit test execution. Harap perhatikan nilai nol akibat absensi pengumpulan tugas Modul 2.*
+### 1. Tugas 1: Pengembangan Stack dengan Method Baru
+- **Pengecekan Kode:** Semua method (`get_min`, `get_max`, `clear`, `to_list`, `copy`, `reverse`) diimplementasikan dengan benar. Semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Konversi dan Evaluasi Ekspresi
+- **Pengecekan Kode:** `infix_to_postfix()` benar termasuk right-associativity `^`. `evaluate_postfix()` dan `calculate()` benar. Semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Aplikasi Browser History
+- **Pengecekan Kode:** `BrowserHistory` menggunakan dua stack. `visit()`, `back()`, `forward()`, dan `current_page()` benar. Semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 5: 100**
+
+---
+
+## Hasil Evaluasi Modul 6: Queue
+
+### 1. Tugas 1: Implementasi Priority Queue
+- **Pengecekan Kode:** `PriorityQueue` benar, urutan prioritas terjaga. Semua test lulus.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Implementasi Deque + Palindrome
+- **Pengecekan Kode:** `Deque` benar. Namun `is_palindrome()` tidak mengembalikan nilai apapun (return `None`) — fungsi melakukan pengecekan namun tidak ada `return True/False`. Akibatnya semua pemanggilan `is_palindrome()` mengembalikan `None`.
+- **Hasil Testing:** **FAILED** ❌ — `is_palindrome()` selalu return `None` (50%)
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Pengecekan Kode:** 20 customers, 3 tellers, avg wait 0.30 menit — statistik benar.
+- **Hasil Testing:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 6: 83** *(T1:100 + T2:50 + T3:100) / 3 ≈ 83*
+
+---
+
+### **NILAI RATA-RATA: 97 🌟**
+
+| Modul | Nilai |
+|-------|-------|
+| Modul 1 | 100 |
+| Modul 2 | 100 |
+| Modul 3 | 100 |
+| Modul 4 | 100 |
+| Modul 5 | 100 |
+| Modul 6 | 83 |
+| **Rata-rata** | **97** |
