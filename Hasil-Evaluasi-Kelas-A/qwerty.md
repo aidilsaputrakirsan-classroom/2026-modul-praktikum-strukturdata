@@ -252,3 +252,156 @@ Elemen apa yang tersisa di dalam queue?
 
 *Alasan:* _______________________________________________
 
+---
+
+# BAGIAN II: ESSAY (60 poin)
+
+---
+
+## Soal 1 (10 poin) — Big-O & Analisis Kode
+
+Perhatikan tiga fungsi berikut:
+
+**Fungsi A:**
+```python
+def fungsi_a(n):
+    return n * (n + 1) // 2
+```
+
+**Fungsi B:**
+```python
+def fungsi_b(arr):
+    for i in range(len(arr)):
+        for j in range(i + 1, len(arr)):
+            if arr[i] > arr[j]:
+                arr[i], arr[j] = arr[j], arr[i]
+```
+
+**Fungsi C:**
+```python
+def fungsi_c(n):
+    i = 1
+    while i < n:
+        i = i * 2
+```
+
+**Kerjakan:**
+- a. Tentukan kompleksitas Big-O masing-masing fungsi (A, B, C)
+- b. Jelaskan alasan untuk setiap jawaban
+- c. Urutkan ketiga fungsi dari yang paling efisien ke yang paling lambat
+- d. Jika `n = 1.000`, estimasikan jumlah operasi untuk masing-masing fungsi
+
+---
+
+## Soal 2 (10 poin) — Operasi Array
+
+Diberikan array: `data = [15, 42, 8, 27, 63, 31]` (6 elemen, index 0–5)
+
+**Kerjakan:**
+- a. Lakukan **insert nilai 20 di index ke-2**. Gambarkan kondisi array sebelum dan sesudah, serta jelaskan langkah-langkahnya!
+- b. Setelah insert, lakukan **delete elemen di index ke-4**. Gambarkan kondisi sebelum dan sesudah!
+- c. Berikan kompleksitas Big-O untuk masing-masing operasi di atas beserta alasannya
+
+---
+
+## Soal 3 (10 poin) — Linked List
+
+Diberikan Double Linked List:
+
+```
+NULL ← [10] ⇄ [30] ⇄ [50] ⇄ [70] → NULL
+       HEAD                   TAIL
+```
+
+**Kerjakan:**
+- a. Gambarkan langkah-langkah insert node **[20]** di antara node **[10]** dan **[30]**. Tunjukkan perubahan pointer prev dan next!
+- b. Gambarkan langkah-langkah delete node **[50]**. Tunjukkan perubahan pointer prev dan next!
+- c. Gambarkan hasil akhir list setelah kedua operasi
+- d. Mengapa delete node **[70]** (node terakhir) pada DLL dengan TAIL lebih efisien dibanding pada Single LL? Jelaskan!
+
+---
+
+## Soal 4 (10 poin) — Stack: Balanced Parentheses & Infix ke Postfix
+
+**Bagian A — Balanced Parentheses:**
+
+Cek apakah ekspresi berikut balanced menggunakan stack:
+
+**Ekspresi:** `[(A + B) * {C - (D / E)}]`
+
+| Langkah | Karakter | Aksi | Isi Stack | Status |
+|---------|----------|------|-----------|--------|
+| 1 | | | | |
+| ... | | | | |
+
+Kesimpulan: Apakah ekspresi tersebut balanced?
+
+---
+
+**Bagian B — Konversi Infix ke Postfix:**
+
+Konversikan ekspresi: `A * B + C * D - E`
+
+| Operator | Prioritas |
+|----------|-----------|
+| + , - | 1 |
+| * , / | 2 |
+
+| Langkah | Karakter | Aksi | Stack | Output |
+|---------|----------|------|-------|--------|
+| 1 | | | | |
+| ... | | | | |
+
+Tuliskan hasil ekspresi postfix!
+
+---
+
+## Soal 5 (10 poin) — Circular Queue
+
+Diberikan Circular Queue kapasitas **6** (index 0–5). Kondisi awal: `front = 0, rear = -1, size = 0`.
+
+**Kerjakan:**
+- a. Trace operasi berikut lengkap dengan tabel:
+
+```
+1. enqueue(5)      6. dequeue()
+2. enqueue(10)     7. enqueue(25)
+3. enqueue(15)     8. enqueue(30)
+4. enqueue(20)     9. enqueue(35)
+5. dequeue()      10. dequeue()
+```
+
+| No | Operasi | front | rear | size | Isi Queue (index 0–5) |
+|----|---------|-------|------|------|-----------------------|
+| 0 | (awal) | 0 | -1 | 0 | [ _, _, _, _, _, _ ] |
+| 1 | enqueue(5) | | | | |
+| ... | | | | | |
+
+- b. Setelah operasi ke-10, apakah masih bisa dilakukan `enqueue(40)`? Jelaskan dengan menghitung rear baru menggunakan formula!
+- c. Apa perbedaan kondisi **Queue Penuh** dan **Queue Kosong** pada Circular Queue?
+
+---
+
+## Soal 6 (10 poin) — Studi Kasus Pemilihan Struktur Data
+
+Sebuah startup sedang membangun aplikasi **musik streaming**. Berikut adalah fitur-fitur yang harus diimplementasikan:
+
+| Fitur | Deskripsi |
+|-------|-----------|
+| **F1** | Riwayat lagu yang baru diputar — bisa kembali ke lagu sebelumnya (Back) |
+| **F2** | Antrean lagu berikutnya — lagu diputar sesuai urutan ditambahkan |
+| **F3** | Playlist favorit — bisa navigasi next dan previous, serta mode repeat |
+| **F4** | Notifikasi konser artis — pengguna premium tampil lebih dulu dari pengguna biasa |
+| **F5** | Log aktivitas pengguna — hanya 100 aktivitas terakhir yang disimpan |
+
+**Kerjakan:**
+- a. Untuk setiap fitur (F1–F5), rekomendasikan **satu struktur data** yang paling tepat
+- b. Jelaskan alasan pemilihan untuk masing-masing fitur
+- c. Untuk fitur F3, jelaskan secara detail mengapa struktur data yang kamu pilih lebih unggul dibanding alternatif lainnya!
+
+---
+
+*Setelah selesai mengerjakan secara individu, kumpulkan dan diskusikan jawaban bersama kelompokmu.*  
+*Kunci jawaban dan pembahasan akan dibagikan setelah sesi diskusi kelompok selesai.*
+
+---
