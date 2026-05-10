@@ -18,7 +18,7 @@
 | 8 | **Alejandro Aprillio Bayu Aji** | 10251021 | `alejandroaprillio` | 100 | 100 | 100 | 80 | 0 | 0 | ![Score](https://img.shields.io/badge/Score-63.33-orange) | [Lihat Laporan](Evaluasi_10251021_AlejandroAprillioBayuAji.md) |
 | 9 | **Shiva Andriyana** | 10251024 | `anawithcode` | 100 | 100 | 100 | 100 | 100 | 100 | ![Score](https://img.shields.io/badge/Score-100-success) | [Lihat Laporan](Evaluasi_10251024_ShivaAndriyana_anawithcode.md) |
 | 10 | **Kurnia Latifiansyah** | 10251027 | `kurniala` | 100 | 100 | 100 | 100 | 100 | 67 | ![Score](https://img.shields.io/badge/Score-94.50-success) | [Lihat Laporan](Evaluasi_10251027_KurniaLatifiansyah_kurniala.md) |
-| 11 | **Vedomzz** | 10251030 | `Vedomzz` | 100 | 100 | 100 | 90 | 97 | 100 | ![Score](https://img.shields.io/badge/Score-97.83-success) | [Lihat Laporan](Evaluasi_10251030_Vedomzz.md) |
+| 11 | **Sultan Zahid** | 10251084 | `Vedomzz` | 100 | 100 | 100 | 90 | 97 | 100 | ![Score](https://img.shields.io/badge/Score-97.83-success) | [Lihat Laporan](Evaluasi_10251084_SultanZahid_Vedomzz.md) |
 | 12 | **Muhammad Ilham Nur Fauzi** | 10251033 | `MlhamNF` | 100 | 100 | 100 | 0 | 100 | 0 | ![Score](https://img.shields.io/badge/Score-66.67-orange) | [Lihat Laporan](Evaluasi_10251033_MuhammadIlhamNurFauzi.md) |
 | 13 | **Marine Fajar Sprinkler Taranda** | 10251036 | `MarineTaranda` | 100 | 100 | 90 | 70 | 0 | 0 | ![Score](https://img.shields.io/badge/Score-60-orange) | [Lihat Laporan](Evaluasi_10251036_MarineFajarSprinklerTaranda.md) |
 | 14 | **Muhammad Khoiry Rijal** | 10251039 | `strukturdata-b-10251039` | 100 | 0 | 100 | 100 | 0 | 0 | ![Score](https://img.shields.io/badge/Score-50-orange) | [Lihat Laporan](Evaluasi_10251039_MuhammadKhoiryRijal.md) |
@@ -31,7 +31,7 @@
 | 21 | **Muhammad Hanif Murtadho** | 10251063 | `liandizgo-design` | 100 | 100 | 100 | 100 | 100 | 100 | ![Score](https://img.shields.io/badge/Score-100-success) | [Lihat Laporan](Evaluasi_10251063_MuhammadHanifMurtadho_liandizgo-design.md) |
 | 22 | **Noel Randi Pakpahan** | 10251066 | `noelrandi7` | 100 | 100 | 100 | 50 | 100 | 100 | ![Score](https://img.shields.io/badge/Score-91.67-success) | [Lihat Laporan](Evaluasi_10251066_NoelRandiPakpahan_noelrandi7.md) |
 | 23 | **Albin Gian Aztafaiq** | 10251069 | `Binngian` | 100 | 100 | 90 | 80 | 100 | 0 | ![Score](https://img.shields.io/badge/Score-78.33-yellowgreen) | [Lihat Laporan](Evaluasi_10251069_AlbinGianAztafaiq.md) |
-| 24 | **Reihan Agil Wijaya** | 10251072 | `reihan-agil-wijaya` | 0 | 100 | 100 | 100 | 100 | 67 | ![Score](https://img.shields.io/badge/Score-77.83-yellowgreen) | [Lihat Laporan](Evaluasi_10251072_ReihanAgilWijaya_reihan-agil-wijaya.md) |
+| 24 | **Reihan Agil Wijaya** | 10251072 | `reihan-agil-wijaya` | 67 | 100 | 100 | 100 | 100 | 67 | ![Score](https://img.shields.io/badge/Score-89.00-yellowgreen) | [Lihat Laporan](Evaluasi_10251072_ReihanAgilWijaya_reihan-agil-wijaya.md) |
 | 25 | **Katon Hillal Alwan Saputra** | 10251075 | `KatonHillal` | 100 | 0 | 0 | 0 | 0 | 0 | ![Score](https://img.shields.io/badge/Score-16.67-red) | [Lihat Laporan](Evaluasi_10251075_KatonHillalAlwanSaputra.md) |
 | 26 | **Naafi' Annisa Nugrahantiningdyah** | 10251078 | `naafiannisa` | 100 | 100 | 100 | 100 | 100 | 67 | ![Score](https://img.shields.io/badge/Score-94.50-success) | [Lihat Laporan](Evaluasi_10251078_NaafiAnnisaNugrahantiningdyah_naafiannisa.md) |
 | 27 | **Fernando** | 10251081 | `strukturdata-b-10251081-blip` | 100 | 100 | 70 | 50 | 0 | 100 | ![Score](https://img.shields.io/badge/Score-70-orange) | [Lihat Laporan](Evaluasi_10251081_Fernando.md) |
@@ -52,7 +52,7 @@
 1. **Muhammad Farid Kusuma Admaja (10251006):** Dua akun GitHub dengan NIM sama. Akun utama (`FaridKusuma-10251006`) kosong — evaluasi menggunakan `Ridz010`. M5 T2: bug right-associativity `^` (90). M6 T2: `is_palindrome()` return `None` (50).
 2. **Taufiq Erik Herliansyah (10251009):** M4=0 (tidak ada submission). M6=0 (folder `minggu6` isi duplikat file M5).
 4. **Enjelin Hartini (10251015):** M1=0 (SyntaxError/IndentationError di semua tugas).
-5. **Reihan Agil Wijaya (10251072):** M1=0 (AssertionError pada ADT Counter).
+5. **Reihan Agil Wijaya (10251072):** M1 T1=0 (AssertionError: `__str__` lowercase 'c' vs expected 'C'). T2 & T3 benar → M1=67.
 6. **Heldawati ilham (10251042):** M1=0, M2=0 (berbagai runtime error). M3 & M4 sempurna (100).
 7. **Ahdyar Ramadhan (10251051):** M3=0, M4=0 (tidak ada submission).
 8. **Shafwat Azzah H. L. (10251057):** Folder berisi nama file dengan karakter titik di akhir (`Shafwat Azzah H. L.`) yang tidak dapat di-checkout di Windows — semua modul dievaluasi via `git show`. M1–M6 semua lulus (100).

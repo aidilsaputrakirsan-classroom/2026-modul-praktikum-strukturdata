@@ -3,8 +3,8 @@
 ---
 
 ## 👤 Data Mahasiswa
-- **Nama:** Vedomzz (Nama Mahasiswa Tidak Dicantumkan Jelas - Asumsi dari Username)
-- **NIM:** 10251030
+- **Nama:** Sultan Zahid
+- **NIM:** 10251084
 - **Kelas:** Struktur Data B
 - **GitHub Username:** `strukturdata-b-Vedomzz`
 

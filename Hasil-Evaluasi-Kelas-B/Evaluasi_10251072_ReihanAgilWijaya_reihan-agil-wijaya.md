@@ -12,11 +12,19 @@
 
 ## 🥇 Hasil Evaluasi Modul 1: Pengantar Struktur Data
 
-- **Pengecekan Kode:**
-  - Evaluasi unit test Terminal Modul 1 terputus di **Tugas 1 (ADT Counter)**. Eksekusi tes memicu pesan *AssertionError: GAGAL: \_\_str\_\_*, yang mengindikasikan bahwa fungsi format output objek Counter `__str__` belum sesuai luaran yang dimandatkan.
+### 1. Tugas 1: Pengembangan ADT Counter
+- **Pengecekan Kode:** `__str__` mengembalikan `f"counter: {self._value}"` (huruf kecil) sedangkan test mengharapkan `"Counter: 10"` (huruf kapital) — AssertionError pada baris 98.
 - **Hasil Testing Terminal:** **FAILED** ❌ (0%)
 
-**✨ NILAI MODUL 1: 0 ✨**
+### 2. Tugas 2: Pengembangan ADT Stack - Aplikasi Reverse String
+- **Pengecekan Kode:** Push/pop LIFO untuk reverse string benar. Semua test lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Kompleksitas Lanjutan
+- **Pengecekan Kode:** Profiling eksekusi triple nested loop, recursive halving, dan find_max berjalan dengan output waktu yang benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 1: 67 ✨** *((0+100+100)/3)*
 
 ---
 
@@ -112,6 +120,6 @@
 **✨ NILAI MODUL 6: 67 ✨** *((100+100+0)/3)*
 
 ---
-### **🏆 NILAI RATA-RATA (Modul 1-6): 77.83 🏆**
+### **🏆 NILAI RATA-RATA (Modul 1-6): 89.00 🏆**
 
 *Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*
