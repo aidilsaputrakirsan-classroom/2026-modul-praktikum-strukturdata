@@ -123,6 +123,37 @@
 **✨ NILAI MODUL 6: 100 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA (Modul 1-6): 100.00 🏆**
+## 🔢 Hasil Evaluasi Modul 7: Review & Studi Kasus (Persiapan UTS)
+
+### 1. Tugas 1: Soal Teori (PDF)
+- **Pengecekan Kode:** File PDF `Tugas1_10231001_Achmad-Bayhaqi.pdf` (dan `.md`) ada — soal teori UTS dijawab.
+- **Hasil:** **DIKUMPULKAN** ✅ (100%)
+
+### 2. Tugas 2: Sistem Manajemen Perpustakaan
+- **Pengecekan Kode:** Implementasi `Library` lengkap — Linked List untuk daftar buku, Stack history, Queue antrian populer, Priority Queue pengembalian. Semua 8 test lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 7: 100 ✨**
+
+---
+
+## 🔢 Hasil Evaluasi Modul 9: Tree & Binary Tree
+
+### 1. Tugas 1: Pengembangan BinaryTree Class
+- **Pengecekan Kode:** `count_leaves()`, `count_internal()`, `is_full()`, `mirror()`, `__str__()` semua benar. Mirror & edge case tree kosong lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Expression Tree
+- **Pengecekan Kode:** Build dari postfix, evaluate, traversal infix/prefix/postfix benar untuk `(4+5)*(6-2)=36`, `(10+2)/(4-1)=4`.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Kompleksitas Tree
+- **Pengecekan Kode:** Tabel height balanced vs skewed + waktu search lengkap. Eksekusi tanpa error.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 9: 100 ✨**
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-7, 9): 100.00 🏆**
 
 *Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

@@ -123,6 +123,36 @@
 **✨ NILAI MODUL 6: 67 ✨** *((100+100+0)/3)*
 
 ---
-### **🏆 NILAI RATA-RATA (Modul 1-6): 94.50 🏆**
+## 🔢 Hasil Evaluasi Modul 7: Review & Studi Kasus (Persiapan UTS)
+
+### 1. Tugas 1: Soal Teori (PDF)
+- **Pengecekan:** PDF `Tugas7_10251078_...pdf` ada di `Minggu 7/`.
+- **Hasil:** **DIKUMPULKAN** ✅ (100%)
+
+### 2. Tugas 2: Sistem Manajemen Perpustakaan
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 7: 100 ✨**
+
+---
+
+## 🔢 Hasil Evaluasi Modul 9: Tree & Binary Tree
+
+### Catatan: Semua 3 file tugas TANPA ekstensi `.py` → penalti -15 per tugas.
+
+### 1. Tugas 1: BinaryTree Class
+- **Hasil Testing Terminal:** **PASSED** ✅ (100% → **85** setelah penalti)
+
+### 2. Tugas 2: Expression Tree
+- **Hasil Testing Terminal:** **PASSED** ✅ (100% → **85**)
+
+### 3. Tugas 3: Analisis Kompleksitas Tree
+- **Pengecekan Kode:** Tabel kompleksitas + rekomendasi B-Tree/AVL/Red-Black ditampilkan. Tidak ada `RecursionError` (memang menggunakan `sys.setrecursionlimit` atau iteratif).
+- **Hasil Testing Terminal:** **PASSED** ✅ (100% → **85**)
+
+**✨ NILAI MODUL 9: 85 ✨**
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-7, 9): 94.00 🏆**
 
 *Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

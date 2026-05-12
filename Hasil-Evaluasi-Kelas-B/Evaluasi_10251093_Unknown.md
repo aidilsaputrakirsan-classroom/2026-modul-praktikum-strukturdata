@@ -119,6 +119,25 @@
 **✨ NILAI MODUL 6: 67 ✨** *((100+100+0)/3)*
 
 ---
-### **🏆 NILAI RATA-RATA (Modul 1-6): 72.33 🏆**
+## 🔢 Hasil Evaluasi Modul 7: Review & Studi Kasus (Persiapan UTS)
+
+### Semua Tugas
+- **Pengecekan:** Tidak ada folder minggu 7 di repo.
+- **Hasil:** **TIDAK DIKUMPULKAN** ❌ (0%)
+
+**✨ NILAI MODUL 7: 0 ✨**
+
+---
+
+## 🔢 Hasil Evaluasi Modul 9: Tree & Binary Tree
+
+### Semua Tugas
+- **Pengecekan Kode:** Folder `minggu 9/` berisi file `prak 1`, `prak 2`, `prak 3` (tanpa ekstensi `.py`), dan kontennya adalah **PRAKTIKUM 9.1/9.2/9.3 — bukan TUGAS 9.1/9.2/9.3**. Konten salah & ekstensi hilang.
+- **Hasil:** **KONTEN SALAH** ❌ (0%)
+
+**✨ NILAI MODUL 9: 0 ✨**
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-7, 9): 54.25 🏆**
 
 *Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

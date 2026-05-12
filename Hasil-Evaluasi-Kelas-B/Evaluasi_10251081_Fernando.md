@@ -125,6 +125,25 @@
 **✨ NILAI MODUL 6: 100 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA (Modul 1-6): 70.00 🏆**
+## 🔢 Hasil Evaluasi Modul 7: Review & Studi Kasus (Persiapan UTS)
+
+### Semua Tugas
+- **Pengecekan:** Tidak ada folder Minggu 7 / week 7 di repo (terakhir submit minggu 6).
+- **Hasil:** **TIDAK DIKUMPULKAN** ❌ (0%)
+
+**✨ NILAI MODUL 7: 0 ✨**
+
+---
+
+## 🔢 Hasil Evaluasi Modul 9: Tree & Binary Tree
+
+### Semua Tugas
+- **Pengecekan:** Tidak ada folder Minggu 9.
+- **Hasil:** **TIDAK DIKUMPULKAN** ❌ (0%)
+
+**✨ NILAI MODUL 9: 0 ✨**
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-7, 9): 52.50 🏆**
 
 *Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

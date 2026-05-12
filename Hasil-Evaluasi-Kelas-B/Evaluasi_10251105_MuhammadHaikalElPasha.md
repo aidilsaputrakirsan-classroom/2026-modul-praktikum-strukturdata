@@ -117,6 +117,31 @@
 **✨ NILAI MODUL 6: 0 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA (Modul 1-6): 81.10 🏆**
+## 🔢 Hasil Evaluasi Modul 7: Review & Studi Kasus (Persiapan UTS)
+
+### Semua Tugas
+- **Pengecekan Kode:** Folder `Minggu 7/` hanya berisi `Prak7.1.py` (PRAKTIKUM Browser Tabs) dan `Prak7.2.py` (PRAKTIKUM Task Scheduler) — bukan TUGAS 7.2 Sistem Perpustakaan. Tidak ada PDF jawaban teori.
+- **Hasil:** **TIDAK DIKUMPULKAN** ❌ (0%)
+
+**✨ NILAI MODUL 7: 0 ✨**
+
+---
+
+## 🔢 Hasil Evaluasi Modul 9: Tree & Binary Tree
+
+### 1. Tugas 1: BinaryTree Class
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Expression Tree
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Kompleksitas Tree
+- **Pengecekan Kode:** `height()` rekursif tanpa `sys.setrecursionlimit` → `RecursionError` pada skewed tree.
+- **Hasil Testing Terminal:** **FAILED** ❌ (0%)
+
+**✨ NILAI MODUL 9: 67 ✨**
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-7, 9): 69.25 🏆**
 
 *Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

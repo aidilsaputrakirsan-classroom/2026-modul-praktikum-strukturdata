@@ -120,6 +120,37 @@
 **✨ NILAI MODUL 6: 83 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA (Modul 1-6): 91.83 🏆**
+## 🔢 Hasil Evaluasi Modul 7: Review & Studi Kasus (Persiapan UTS)
+
+### 1. Tugas 1: Soal Teori (PDF)
+- **Pengecekan Kode:** PDF `Tugas7_10251006_...pdf` ada di `tugas/week-7/`.
+- **Hasil:** **DIKUMPULKAN** ✅ (100%)
+
+### 2. Tugas 2: Sistem Manajemen Perpustakaan
+- **Pengecekan Kode:** `Library` lengkap, semua 8 test lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 7: 100 ✨**
+
+---
+
+## 🔢 Hasil Evaluasi Modul 9: Tree & Binary Tree
+
+### 1. Tugas 1: Pengembangan BinaryTree Class
+- **Pengecekan Kode:** Semua method benar, mirror & edge case lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Expression Tree
+- **Pengecekan Kode:** Evaluate & traversal benar untuk semua test.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Kompleksitas Tree
+- **Pengecekan Kode:** Fungsi `height()` rekursif tanpa `sys.setrecursionlimit` → `RecursionError: maximum recursion depth exceeded` saat n=1000 skewed tree. Eksekusi crash sebelum mencetak hasil.
+- **Hasil Testing Terminal:** **FAILED** ❌ (0%)
+
+**✨ NILAI MODUL 9: 67 ✨**
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-7, 9): 92.13 🏆**
 
 *Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

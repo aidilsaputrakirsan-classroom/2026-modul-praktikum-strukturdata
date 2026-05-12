@@ -123,6 +123,33 @@
 **✨ NILAI MODUL 6: 100 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA (Modul 1-6): 91.67 🏆**
+## 🔢 Hasil Evaluasi Modul 7: Review & Studi Kasus (Persiapan UTS)
+
+### Semua Tugas
+- **Pengecekan:** Folder `Minggu ke-7/Tugas/` hanya berisi placeholder `saw` (bukan file Python/PDF). Folder `Praktikum/` berisi praktikum saja.
+- **Hasil:** **TIDAK DIKUMPULKAN** ❌ (0%)
+
+**✨ NILAI MODUL 7: 0 ✨**
+
+---
+
+## 🔢 Hasil Evaluasi Modul 9: Tree & Binary Tree
+
+### Catatan: File M9 ditemukan **di folder `Minggu 8/Tugas/` (salah lokasi)** dengan nama `Code1/2/3_Tugas9_10251108_Kevin Maulana Pratama.py`.
+
+### 1. Tugas 1: BinaryTree Class
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Expression Tree
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Kompleksitas Tree
+- **Pengecekan Kode:** `SyntaxError: unterminated triple-quoted string literal` di baris 106 → file tidak dapat dijalankan.
+- **Hasil Testing Terminal:** **FAILED** ❌ (0%)
+
+**✨ NILAI MODUL 9: 67 ✨**
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-7, 9): 77.13 🏆**
 
 *Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

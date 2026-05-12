@@ -126,6 +126,29 @@
 **✨ NILAI MODUL 6: 0 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA (Modul 1-6): 62.50 🏆**
+## 🔢 Hasil Evaluasi Modul 7: Review & Studi Kasus (Persiapan UTS)
+
+### 1. Tugas 1: Soal Teori (PDF)
+- **Pengecekan Kode:** PDF `TUGAS1_10251009_...pdf` ada di folder `minggu 7/` (folder dievaluasi via `git show` karena ada spasi di nama).
+- **Hasil:** **DIKUMPULKAN** ✅ (100%)
+
+### 2. Tugas 2: Sistem Manajemen Perpustakaan
+- **Pengecekan Kode:** `Library` lengkap (linked list, stack, queue, priority queue). Semua 8 test lulus via `git show ... | python`.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 7: 100 ✨**
+
+---
+
+## 🔢 Hasil Evaluasi Modul 9: Tree & Binary Tree
+
+### 1-3. Semua Tugas
+- **Pengecekan Kode:** Tidak ada folder `minggu 9` / `Minggu9`. File `Tugas1/2/3_10251009_...py` di root repo adalah tugas terstruktur lama (ADT Counter, Reverse String, Analisis Kompleksitas — di-commit Maret 2026 sebelum modul 9), bukan submission BinaryTree/Expression Tree.
+- **Hasil:** **TIDAK DIKUMPULKAN** ❌ (0%)
+
+**✨ NILAI MODUL 9: 0 ✨**
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-7, 9): 62.50 🏆**
 
 *Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

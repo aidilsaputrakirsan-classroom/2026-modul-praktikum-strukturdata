@@ -114,6 +114,36 @@
 **✨ NILAI MODUL 6: 0 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA (Modul 1-6): 78.33 🏆**
+## 🔢 Hasil Evaluasi Modul 7: Review & Studi Kasus (Persiapan UTS)
+
+### 1. Tugas 1: Soal Teori (PDF)
+- **Pengecekan:** PDF `tugas1_10251069_Albin Gian Aztafaiq.pdf` ada di `Minggu 7/`.
+- **Hasil:** **DIKUMPULKAN** ✅ (100%)
+
+### 2. Tugas 2: Sistem Manajemen Perpustakaan
+- **Pengecekan Kode:** Implementasi lengkap (Linked List, Stack, Queue, Priority Queue). Mahasiswa membuat test format sendiri (tidak pakai template "✓ Test N PASSED"), tapi semua operasi (add, borrow, return, queue, history, search, stats) berjalan tanpa error & output benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 7: 100 ✨**
+
+---
+
+## 🔢 Hasil Evaluasi Modul 9: Tree & Binary Tree
+
+### 1. Tugas 1: BinaryTree Class
+- **Pengecekan Kode:** Output tree visual ditampilkan, "TEST SELESAI TANPA ERROR".
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Expression Tree
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Kompleksitas Tree
+- **Pengecekan Kode:** Tabel height + waktu search lengkap, eksekusi tanpa error.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 9: 100 ✨**
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-7, 9): 83.75 🏆**
 
 *Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

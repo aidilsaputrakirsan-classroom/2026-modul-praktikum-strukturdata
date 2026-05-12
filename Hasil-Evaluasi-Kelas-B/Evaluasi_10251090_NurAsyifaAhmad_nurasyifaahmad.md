@@ -123,6 +123,35 @@
 **✨ NILAI MODUL 6: 100 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA (Modul 1-6): 100.00 🏆**
+## 🔢 Hasil Evaluasi Modul 7: Review & Studi Kasus (Persiapan UTS)
+
+### 1. Tugas 1: Soal Teori (PDF)
+- **Pengecekan:** PDF `Tugas7_10251090_Nur_asyifa_ahmad.pdf` ada di `minggu 7/`.
+- **Hasil:** **DIKUMPULKAN** ✅ (100%)
+
+### 2. Tugas 2: Sistem Manajemen Perpustakaan
+- **Pengecekan Kode:** File `Tugas7_..py` berisi kode **PRAKTIKUM 7.1: Browser dengan Tabs** (Tab/BrowserHistory), bukan TUGAS 7.2 Sistem Manajemen Perpustakaan. Konten salah.
+- **Hasil:** **KONTEN SALAH** ❌ (0%)
+
+**✨ NILAI MODUL 7: 50 ✨**
+
+---
+
+## 🔢 Hasil Evaluasi Modul 9: Tree & Binary Tree
+
+### 1. Tugas 1: BinaryTree Class
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Expression Tree
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Kompleksitas Tree
+- **Pengecekan Kode:** Tabel kompleksitas + kesimpulan ditampilkan tanpa error.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**✨ NILAI MODUL 9: 100 ✨**
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-7, 9): 93.75 🏆**
 
 *Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

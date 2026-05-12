@@ -90,6 +90,28 @@
 
 
 ---
-### **🏆 NILAI RATA-RATA (Modul 1-6): 50.00 🏆**
+## 🔢 Hasil Evaluasi Modul 7: Review & Studi Kasus (Persiapan UTS)
+
+### 1. Tugas 1: Soal Teori (PDF)
+- **Pengecekan:** PDF `Tugas7.1_10251039_Muhammad Khoiry Rijal.pdf` ada (via git show, folder `minggu 7/` tidak dapat di-checkout).
+- **Hasil:** **DIKUMPULKAN** ✅ (100%)
+
+### 2. Tugas 2: Sistem Manajemen Perpustakaan
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%) — via `git show ... | python`.
+
+**✨ NILAI MODUL 7: 100 ✨**
+
+---
+
+## 🔢 Hasil Evaluasi Modul 9: Tree & Binary Tree
+
+### Semua Tugas
+- **Pengecekan:** Tidak ada folder Minggu 9 / week 9 di repo.
+- **Hasil:** **TIDAK DIKUMPULKAN** ❌ (0%)
+
+**✨ NILAI MODUL 9: 0 ✨**
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-7, 9): 50.00 🏆**
 
 *Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

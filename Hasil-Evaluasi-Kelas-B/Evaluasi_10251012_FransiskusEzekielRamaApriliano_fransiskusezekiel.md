@@ -120,6 +120,29 @@
 **✨ NILAI MODUL 6: 100 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA (Modul 1-6): 100.00 🏆**
+## 🔢 Hasil Evaluasi Modul 7: Review & Studi Kasus (Persiapan UTS)
+
+### 1. Tugas 1: Soal Teori (PDF)
+- **Pengecekan Kode:** Tidak ada PDF jawaban teori di folder `Minggu7/`.
+- **Hasil:** **TIDAK DIKUMPULKAN** ❌ (0%)
+
+### 2. Tugas 2: Sistem Manajemen Perpustakaan
+- **Pengecekan Kode:** Folder `Minggu7/` hanya berisi `Pratikum1.py` (Browser dengan Tabs) dan `Pratikum2.py` (Task Scheduler) — keduanya file praktikum, bukan tugas terstruktur Sistem Manajemen Perpustakaan.
+- **Hasil:** **TIDAK DIKUMPULKAN** ❌ (0%)
+
+**✨ NILAI MODUL 7: 0 ✨**
+
+---
+
+## 🔢 Hasil Evaluasi Modul 9: Tree & Binary Tree
+
+### 1-3. Semua Tugas
+- **Pengecekan Kode:** Tidak ada folder `Minggu9`/`minggu9` di repo.
+- **Hasil:** **TIDAK DIKUMPULKAN** ❌ (0%)
+
+**✨ NILAI MODUL 9: 0 ✨**
+
+---
+### **🏆 NILAI RATA-RATA (Modul 1-7, 9): 75.00 🏆**
 
 *Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*
