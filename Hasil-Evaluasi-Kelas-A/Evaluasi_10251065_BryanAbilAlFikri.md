@@ -114,13 +114,65 @@
 
 ## Hasil Evaluasi Modul 6: Queue
 
-> ⏳ **Belum ada submission Modul 6** saat evaluasi dilakukan (per April 2026). Nilai akan diperbarui jika mahasiswa mengumpulkan.
+### 1. Tugas 1: Priority Queue
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
 
-**NILAI MODUL 6: -** *(belum dikumpulkan)*
+### 2. Tugas 2: Deque dan Palindrome
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Simulasi Antrian Bank
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 6: 100**
 
 ---
 
-### **NILAI RATA-RATA SEMENTARA: 100 🌟**
+## Hasil Evaluasi Modul 7: Review & Studi Kasus (Persiapan UTS)
+
+### 1. Tugas 1: Soal Teori (PDF)
+- **Pengecekan:** PDF `Tugas7_10251065_Bryan Abil Al-Fikri.pdf` ada di folder Minggu 7.
+- **Hasil:** **DIKUMPULKAN** ✅ (100%)
+
+### 2. Tugas 2: Sistem Manajemen Perpustakaan
+- **Pengecekan Kode:** Semua 8 test case lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 7: 100**
+
+---
+
+## Hasil Evaluasi Modul 9: Tree & Binary Tree
+
+### 1. Tugas 1: BinaryTree Class
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Expression Tree
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Kompleksitas Tree
+- **Pengecekan Kode:** `height()` rekursif tanpa `sys.setrecursionlimit` → `RecursionError` pada skewed tree.
+- **Hasil Testing Terminal:** **FAILED** ❌ (0%)
+
+**NILAI MODUL 9: 67**
+
+---
+
+## Hasil Evaluasi Modul 10: Binary Search Tree (BST)
+
+### 1. Tugas 1: Pengembangan BST Class
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Sistem Phonebook dengan BST
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Performa BST
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 10: 100**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9, 10): 95.88**
 
 | Modul | Nilai |
 |-------|-------|
@@ -129,5 +181,10 @@
 | Modul 3 | 100 |
 | Modul 4 | 100 |
 | Modul 5 | 100 |
-| Modul 6 | - |
-| **Rata-rata (M1-M5)** | **100** |
+| Modul 6 | 100 |
+| Modul 7 | 100 |
+| Modul 9 | 67 |
+| Modul 10 | 100 |
+| **Rata-rata** | **96.33** |
+
+*Catatan: M6 dikumpulkan terlambat (setelah evaluasi pertama), sudah dievaluasi.*

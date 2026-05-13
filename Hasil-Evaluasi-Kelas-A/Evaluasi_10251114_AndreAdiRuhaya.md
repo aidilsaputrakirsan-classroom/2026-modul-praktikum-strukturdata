@@ -129,14 +129,64 @@
 
 ---
 
-### **NILAI RATA-RATA SEMENTARA: 82 🌟**
+## Hasil Evaluasi Modul 7: Review & Studi Kasus (Persiapan UTS)
 
-| Modul | Nilai |
-|-------|-------|
-| Modul 1 | 100 |
-| Modul 2 | 96 |
-| Modul 3 | 90 |
-| Modul 4 | 70 |
-| Modul 5 | 100 |
-| Modul 6 | 33 |
-| **Rata-rata** | **82** |
+### 1. Tugas 1: Soal Teori (PDF)
+- **Pengecekan:** Tidak ada file PDF di folder minggu7.
+- **Hasil:** **TIDAK DIKUMPULKAN** ❌ (0%)
+
+### 2. Tugas 2: Sistem Manajemen Perpustakaan
+- **Pengecekan Kode:** File berisi definisi class saja tanpa blok test/main — tidak ada kode yang dieksekusi saat dijalankan. Output kosong, tidak ada assert yang diuji.
+- **Hasil Testing Terminal:** **TIDAK ADA TEST** ❌ (0%)
+
+**NILAI MODUL 7: 0** *((0+0)/2)*
+
+---
+
+## Hasil Evaluasi Modul 9: Tree & Binary Tree
+
+### 1. Tugas 1: BinaryTree Class
+- **Pengecekan Kode:** File berisi definisi class tanpa test execution — output kosong.
+- **Hasil Testing Terminal:** **TIDAK ADA TEST** ❌ (0%)
+
+### 2. Tugas 2: Expression Tree
+- **Pengecekan Kode:** File berisi definisi class tanpa test execution — output kosong.
+- **Hasil Testing Terminal:** **TIDAK ADA TEST** ❌ (0%)
+
+### 3. Tugas 3: Analisis Kompleksitas Tree
+- **Pengecekan Kode:** `height()` rekursif tanpa `sys.setrecursionlimit` → `RecursionError` pada skewed tree.
+- **Hasil Testing Terminal:** **FAILED** ❌ (0%)
+
+**NILAI MODUL 9: 0**
+
+---
+
+## Hasil Evaluasi Modul 10: Binary Search Tree (BST)
+
+### 1. Tugas 1: Pengembangan BST Class
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Sistem Phonebook dengan BST
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Performa BST
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 10: 100**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9, 10): 61.13**
+
+| Modul | Nilai | Keterangan |
+|-------|-------|------------|
+| Modul 1 | 100 | |
+| Modul 2 | 96 | |
+| Modul 3 | 90 | |
+| Modul 4 | 70 | |
+| Modul 5 | 100 | |
+| Modul 6 | 33 | T2/T3 tidak dikumpulkan |
+| Modul 7 | 0 | T1 tidak ada PDF, T2 tidak ada kode test |
+| Modul 9 | 0 | T1/T2 class-only (no test), T3 RecursionError |
+| Modul 10 | 100 | |
+| **Rata-rata** | **65.44** | |

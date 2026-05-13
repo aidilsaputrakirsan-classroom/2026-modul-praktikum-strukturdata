@@ -102,7 +102,52 @@
 
 ---
 
-### **NILAI RATA-RATA: 69**
+## Hasil Evaluasi Modul 7: Review & Studi Kasus (Persiapan UTS)
+
+### 1. Tugas 1: Soal Teori (PDF)
+- **Pengecekan:** PDF `Tugas7.1_10251092_Razi.pdf` ada di folder minggu7.
+- **Hasil:** **DIKUMPULKAN** ✅ (100%)
+
+### 2. Tugas 2: Sistem Manajemen Perpustakaan
+- **Pengecekan Kode:** Semua 8 test case lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 7: 100**
+
+---
+
+## Hasil Evaluasi Modul 9: Tree & Binary Tree
+
+### 1. Tugas 1: BinaryTree Class
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Expression Tree
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Kompleksitas Tree
+- **Pengecekan Kode:** `height()` rekursif tanpa `sys.setrecursionlimit` → `RecursionError` pada skewed tree.
+- **Hasil Testing Terminal:** **FAILED** ❌ (0%)
+
+**NILAI MODUL 9: 67**
+
+---
+
+## Hasil Evaluasi Modul 10: Binary Search Tree (BST)
+
+### 1. Tugas 1: Pengembangan BST Class
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Sistem Phonebook dengan BST
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Performa BST
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 10: 100**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9, 10): 72.88**
 
 | Modul | Nilai | Keterangan |
 |-------|-------|------------|
@@ -112,4 +157,7 @@
 | Modul 4 | 33 | T1/T2 salah file (profil mahasiswa, bukan DLL) |
 | Modul 5 | 100 | |
 | Modul 6 | 83 | |
-| **Rata-rata** | **69** | |
+| Modul 7 | 100 | |
+| Modul 9 | 67 | |
+| Modul 10 | 100 | |
+| **Rata-rata** | **75.89** | |

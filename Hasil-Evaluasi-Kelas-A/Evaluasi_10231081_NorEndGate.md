@@ -158,7 +158,53 @@
 
 ---
 
-### **NILAI RATA-RATA SEMENTARA: 94 🌟**
+## Hasil Evaluasi Modul 7: Review & Studi Kasus (Persiapan UTS)
+
+### 1. Tugas 1: Soal Teori (PDF)
+- **Pengecekan:** File `Tugas7_10231081_Rendy.py` dikumpulkan sebagai **file Python** (bukan PDF). Jawaban pilihan ganda dan essai ditulis dalam format `jawaban_pg = {1: "b", ...}` di dalam .py.
+- **Hasil:** **TIDAK VALID** ❌ (0%) — tugas teori harus berupa PDF
+
+### 2. Tugas 2: Sistem Manajemen Perpustakaan
+- **Pengecekan Kode:** Header `TUGAS 7.2: Sistem Manajemen Perpustakaan` sesuai. Semua 8 test case lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 7: 50** *((0+100)/2)*
+
+---
+
+## Hasil Evaluasi Modul 9: Tree & Binary Tree
+
+### 1. Tugas 1: BinaryTree Class
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Expression Tree
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Kompleksitas Tree
+- **Pengecekan Kode:** Menggunakan pendekatan **iteratif** (stack manual) untuk fungsi `height()` — tidak bergantung pada rekursi sehingga menghindari `RecursionError`. Berhasil menghitung height untuk skewed tree n=10000 (height=9999).
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 9: 100**
+
+---
+
+## Hasil Evaluasi Modul 10: Binary Search Tree (BST)
+
+### 1. Tugas 1: Pengembangan BST Class
+- **Pengecekan:** File `minggu10_10231081_Rendy.py` ditemukan di root repo namun berukuran **0 bytes** (file kosong).
+- **Hasil Testing Terminal:** **TIDAK ADA KONTEN** ❌ (0%)
+
+### 2. Tugas 2: Sistem Phonebook dengan BST
+- **Hasil Testing Terminal:** **TIDAK ADA KONTEN** ❌ (0%)
+
+### 3. Tugas 3: Analisis Performa BST
+- **Hasil Testing Terminal:** **TIDAK ADA KONTEN** ❌ (0%)
+
+**NILAI MODUL 10: 0** *(file kosong)*
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9, 10): 79.67**
 
 | Modul | Nilai |
 |-------|-------|
@@ -168,6 +214,9 @@
 | Modul 4 | 100 |
 | Modul 5 | 67 |
 | Modul 6 | 100 |
-| **Rata-rata** | **94** |
+| Modul 7 | 50 |
+| Modul 9 | 100 |
+| Modul 10 | 0 |
+| **Rata-rata** | **79.67** |
 
-*Catatan: Modul 5 Tugas 2 (Konversi Infix→Postfix) tidak diimplementasikan sama sekali.*
+*Catatan: Modul 5 T2 tidak diimplementasikan. Modul 7 T1 dikumpulkan sebagai .py bukan PDF. Modul 10 file kosong (0 bytes).*

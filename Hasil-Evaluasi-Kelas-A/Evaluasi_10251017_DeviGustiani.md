@@ -136,7 +136,53 @@
 
 ---
 
-### **NILAI RATA-RATA SEMENTARA: 95 🌟**
+## Hasil Evaluasi Modul 7: Review & Studi Kasus (Persiapan UTS)
+
+### 1. Tugas 1: Soal Teori (PDF)
+- **Pengecekan:** PDF `Tugas 7.1_10251017_Devi Gustiani (1).pdf` ada di folder Minggu 7.
+- **Hasil:** **DIKUMPULKAN** ✅ (100%)
+
+### 2. Tugas 2: Sistem Manajemen Perpustakaan
+- **Pengecekan Kode:** Implementasi hanya mencakup 4 dari 8 test case (Test 1–4: add books, register users, borrow books, borrow queue). Test 5–8 (return book, user history, search, statistics) tidak diimplementasikan.
+- **Hasil Testing Terminal:** **PASSED SEBAGIAN** ⚠️ (50% — 4/8 test)
+
+**NILAI MODUL 7: 75** *((100+50)/2)*
+
+---
+
+## Hasil Evaluasi Modul 9: Tree & Binary Tree
+
+### 1. Tugas 1: BinaryTree Class
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Expression Tree
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Kompleksitas Tree
+- **Pengecekan Kode:** `SyntaxError: invalid character '≈' (U+2248)` pada baris 21 — file tidak dapat dijalankan.
+- **Hasil Testing Terminal:** **FAILED** ❌ (0%)
+
+**NILAI MODUL 9: 67**
+
+---
+
+## Hasil Evaluasi Modul 10: Binary Search Tree (BST)
+
+### 1. Tugas 1: Pengembangan BST Class
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Sistem Phonebook dengan BST
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Performa BST
+- **Pengecekan Kode:** Analisis hanya mencakup hingga n=10000 (tidak ada n=50000 seperti template). Data height comparison dan search timing sudah benar namun kurang lengkap.
+- **Hasil Testing Terminal:** **PASSED** ✅ (90%) — analisis benar namun hanya hingga n=10000
+
+**NILAI MODUL 10: 97** *((100+100+90)/3 ≈ 97)*
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9, 10): 87.67**
 
 | Modul | Nilai |
 |-------|-------|
@@ -146,4 +192,9 @@
 | Modul 4 | 100 |
 | Modul 5 | 85 |
 | Modul 6 | 85 |
-| **Rata-rata** | **92** |
+| Modul 7 | 75 |
+| Modul 9 | 67 |
+| Modul 10 | 97 |
+| **Rata-rata** | **87.67** |
+
+*Catatan: M5/M6 file tanpa ekstensi `.py` (-15 per tugas). M7 T2 hanya 4/8 test case diimplementasikan. M9 T3 SyntaxError karakter unicode. M10 T3 hanya hingga n=10000.*

@@ -130,7 +130,47 @@
 
 ---
 
-### **NILAI RATA-RATA SEMENTARA: 100 🌟**
+## Hasil Evaluasi Modul 7: Review & Studi Kasus (Persiapan UTS)
+
+### 1. Tugas 1: Soal Teori (PDF)
+- **Pengecekan:** Tidak ada PDF di folder minggu7. File `tugas1_10251044_Muh. Asrul Syam.py` berisi implementasi Sistem Manajemen Perpustakaan (bukan soal teori PDF).
+- **Hasil:** **TIDAK DIKUMPULKAN** ❌ (0%)
+
+### 2. Tugas 2: Sistem Manajemen Perpustakaan
+- **Pengecekan Kode:** File `tugas1` berisi Library management. Semua 8 test case lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 7: 50** *((0+100)/2)*
+
+---
+
+## Hasil Evaluasi Modul 9: Tree & Binary Tree
+
+### 1. Tugas 1: BinaryTree Class
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Expression Tree
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Kompleksitas Tree
+- **Pengecekan Kode:** `height()` rekursif tanpa `sys.setrecursionlimit` → `RecursionError` pada skewed tree.
+- **Hasil Testing Terminal:** **FAILED** ❌ (0%)
+
+**NILAI MODUL 9: 67**
+
+---
+
+## Hasil Evaluasi Modul 10: Binary Search Tree (BST)
+
+### Semua Tugas
+- **Pengecekan:** Tidak ditemukan folder Modul 10 di repositori `strukturdata-a-Asrul-6`.
+- **Hasil:** **TIDAK DIKUMPULKAN** ❌ (0%)
+
+**NILAI MODUL 10: 0**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9, 10): 79.67**
 
 | Modul | Nilai |
 |-------|-------|
@@ -140,4 +180,9 @@
 | Modul 4 | 100 |
 | Modul 5 | 100 |
 | Modul 6 | 100 |
-| **Rata-rata** | **100** |
+| Modul 7 | 50 |
+| Modul 9 | 67 |
+| Modul 10 | 0 |
+| **Rata-rata** | **79.67** |
+
+*Catatan: M7 T1 tidak dikumpulkan (tidak ada PDF). File tugas7 berisi T2 dengan nama "tugas1". M10 tidak dikumpulkan.*

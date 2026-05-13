@@ -136,14 +136,55 @@
 
 ---
 
-### **NILAI RATA-RATA SEMENTARA: 97 🌟**
+## Hasil Evaluasi Modul 7: Review & Studi Kasus (Persiapan UTS)
+
+### Semua Tugas
+- **Pengecekan:** Folder `minggu 7/` hanya berisi `Praktikum1_10251005_RifatAdlyjuliandra.py` dan `Praktikum2_10251005_RifatAdlyjuliandra.py` — tidak ada file tugas (PDF maupun .py untuk T7.2).
+- **Hasil:** **TIDAK DIKUMPULKAN** ❌ (0%)
+
+**NILAI MODUL 7: 0**
+
+---
+
+## Hasil Evaluasi Modul 9: Tree & Binary Tree
+
+### 1. Tugas 1: BinaryTree Class
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Expression Tree
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Kompleksitas Tree
+- **Pengecekan Kode:** `height()` rekursif tanpa `sys.setrecursionlimit` → `RecursionError` pada skewed tree.
+- **Hasil Testing Terminal:** **FAILED** ❌ (0%)
+
+**NILAI MODUL 9: 67**
+
+---
+
+## Hasil Evaluasi Modul 10: Binary Search Tree (BST)
+
+### Semua Tugas
+- **Pengecekan:** Tidak ditemukan folder atau file Modul 10 di repositori.
+- **Hasil:** **TIDAK DIKUMPULKAN** ❌ (0%)
+
+**NILAI MODUL 10: 0**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9, 10): 69.67**
 
 | Modul | Nilai |
 |-------|-------|
 | Modul 1 | 100 |
 | Modul 2 | 100 |
-| Modul 3 | 100 |
-| Modul 4 | 60 |
+| Modul 3 | 60 |
+| Modul 4 | 100 |
 | Modul 5 | 100 |
 | Modul 6 | 100 |
-| **Rata-rata** | **93** |
+| Modul 7 | 0 |
+| Modul 9 | 67 |
+| Modul 10 | 0 |
+| **Rata-rata** | **69.67** |
+
+*Catatan: Modul 3 T2 terdapat bug pengurutan polynomial. Modul 7 tidak dikumpulkan.*

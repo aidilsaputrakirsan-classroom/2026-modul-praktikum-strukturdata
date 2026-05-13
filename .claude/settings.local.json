@@ -245,7 +245,10 @@
       "Bash(head -5 \"c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-strukturdata/strukturdata-a-submissions/strukturdata-a-RifatSuthaAbdillah/Praktikum & Tugas 4/Tugas4.3_10251107_Rifat Sutha Abdillah.py\")",
       "Bash(timeout 10 python -c \"import sys; sys.stdout.reconfigure\\(encoding=''utf-8''\\); exec\\(open\\(''Tugas3.1_10251107_Rifat Sutha Abdillah.py'', encoding=''utf-8''\\).read\\(\\)\\)\")",
       "Bash(timeout 10 python -c \"import sys; sys.stdout.reconfigure\\(encoding=''utf-8''\\); exec\\(open\\(''Tugas3.2_10251107_Rifat Sutha Abdillah.py'', encoding=''utf-8''\\).read\\(\\)\\)\")",
-      "Bash(timeout 10 python -c \"import sys; sys.stdout.reconfigure\\(encoding=''utf-8''\\); exec\\(open\\(''Tugas4.1_10251107_Rifat Sutha Abdillah.py'', encoding=''utf-8''\\).read\\(\\)\\)\")"
+      "Bash(timeout 10 python -c \"import sys; sys.stdout.reconfigure\\(encoding=''utf-8''\\); exec\\(open\\(''Tugas4.1_10251107_Rifat Sutha Abdillah.py'', encoding=''utf-8''\\).read\\(\\)\\)\")",
+      "Bash(PYTHONIOENCODING=utf-8 python \"strukturdata-a-Asuci-Maharani/Modul-10/Tugas1-10251011-A.SuciMaharani.P.py\")",
+      "Bash(PYTHONIOENCODING=utf-8 python \"strukturdata-a-Asuci-Maharani/Modul-10/Tugas2-10251011-A.SuciMaharani.P.py\")",
+      "Bash(PYTHONIOENCODING=utf-8 python \"strukturdata-a-devigustiani/Minggu 10/Tugas 10.3.py\")"
     ]
   }
 }

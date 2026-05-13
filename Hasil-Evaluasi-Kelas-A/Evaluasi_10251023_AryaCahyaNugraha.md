@@ -128,7 +128,52 @@
 
 ---
 
-### **NILAI RATA-RATA: 91 🌟**
+## Hasil Evaluasi Modul 7: Review & Studi Kasus (Persiapan UTS)
+
+### 1. Tugas 1: Soal Teori (PDF)
+- **Pengecekan:** Tidak ada PDF di folder minggu 7. File `Tugas Terstruktur 1_10251023_Arya Cahya Nugraha.py` berisi jawaban teori (Pilihan Ganda) dalam format .py.
+- **Hasil:** **TIDAK VALID** ❌ (0%) — tugas teori harus berupa PDF
+
+### 2. Tugas 2: Sistem Manajemen Perpustakaan
+- **Pengecekan Kode:** `Tugas Terstruktur 2` berisi implementasi Library. Semua test lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 7: 50** *((0+100)/2)*
+
+---
+
+## Hasil Evaluasi Modul 9: Tree & Binary Tree
+
+### 1. Tugas 1: BinaryTree Class
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Expression Tree
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Kompleksitas Tree
+- **Pengecekan Kode:** `height()` rekursif tanpa `sys.setrecursionlimit` → `RecursionError` pada skewed tree.
+- **Hasil Testing Terminal:** **FAILED** ❌ (0%)
+
+**NILAI MODUL 9: 67**
+
+---
+
+## Hasil Evaluasi Modul 10: Binary Search Tree (BST)
+
+### 1. Tugas 1: Pengembangan BST Class
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Sistem Phonebook dengan BST
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Performa BST
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 10: 100**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9, 10): 82.5**
 
 | Modul | Nilai |
 |-------|-------|
@@ -138,4 +183,9 @@
 | Modul 4 | 83 |
 | Modul 5 | 100 |
 | Modul 6 | 100 |
-| **Rata-rata** | **91** |
+| Modul 7 | 50 |
+| Modul 9 | 67 |
+| Modul 10 | 100 |
+| **Rata-rata** | **84.44** |
+
+*Catatan: M7 T1 dikumpulkan sebagai .py bukan PDF.*

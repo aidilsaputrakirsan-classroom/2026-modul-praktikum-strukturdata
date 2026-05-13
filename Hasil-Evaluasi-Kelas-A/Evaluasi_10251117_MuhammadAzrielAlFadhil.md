@@ -129,14 +129,64 @@
 
 ---
 
-### **NILAI RATA-RATA SEMENTARA: 86 🌟**
+## Hasil Evaluasi Modul 7: Review & Studi Kasus (Persiapan UTS)
 
-| Modul | Nilai |
-|-------|-------|
-| Modul 1 | 100 |
-| Modul 2 | 100 |
-| Modul 3 | 95 |
-| Modul 4 | 85 |
-| Modul 5 | 100 |
-| Modul 6 | 33 |
-| **Rata-rata** | **86** |
+### 1. Tugas 1: Soal Teori (PDF)
+- **Pengecekan:** Tidak ada file PDF di folder minggu7.
+- **Hasil:** **TIDAK DIKUMPULKAN** ❌ (0%)
+
+### 2. Tugas 2: Sistem Manajemen Perpustakaan
+- **Pengecekan Kode:** Semua 8 test case lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 7: 50** *((0+100)/2)*
+
+---
+
+## Hasil Evaluasi Modul 9: Tree & Binary Tree
+
+### 1. Tugas 1: BinaryTree Class
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Expression Tree
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Kompleksitas Tree
+- **Pengecekan Kode:** Menggunakan `sys.setrecursionlimit` sehingga `height()` pada skewed tree n=10000 berhasil dieksekusi tanpa RecursionError. Nama file menggunakan koma (`tugas9,3_...`) sebagai pemisah namun tetap valid dieksekusi.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 9: 100**
+
+---
+
+## Hasil Evaluasi Modul 10: Binary Search Tree (BST)
+
+### 1. Tugas 1: Pengembangan BST Class
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Sistem Phonebook dengan BST
+- **Pengecekan Kode:** File menggunakan `input()` di akhir (menyebabkan `EOFError` saat dijalankan non-interaktif, namun diakali dengan piping). Hanya mengimplementasikan 3 test (Size, Search, Delete) vs 7 test standar template. Test prefix search tidak ada. Semua 3 test yang ada lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (70%) — 3/7 test standar diimplementasikan
+
+### 3. Tugas 3: Analisis Performa BST
+- **Pengecekan Kode:** File menggunakan `input()` di akhir namun tetap bisa dijalankan dengan piping. Analisis BST (height comparison Random/Sorted/Balanced dan timing search) lengkap hingga n=50000.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 10: 90** *((100+70+100)/3 ≈ 90)*
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9, 10): 83.67**
+
+| Modul | Nilai | Keterangan |
+|-------|-------|------------|
+| Modul 1 | 100 | |
+| Modul 2 | 100 | |
+| Modul 3 | 95 | |
+| Modul 4 | 85 | |
+| Modul 5 | 100 | |
+| Modul 6 | 33 | T2/T3 tidak dikumpulkan |
+| Modul 7 | 50 | T1 tidak ada PDF |
+| Modul 9 | 100 | |
+| Modul 10 | 90 | T2 hanya 3 dari 7 test standar |
+| **Rata-rata** | **83.67** | |
