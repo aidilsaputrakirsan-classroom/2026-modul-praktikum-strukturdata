@@ -248,7 +248,27 @@
       "Bash(timeout 10 python -c \"import sys; sys.stdout.reconfigure\\(encoding=''utf-8''\\); exec\\(open\\(''Tugas4.1_10251107_Rifat Sutha Abdillah.py'', encoding=''utf-8''\\).read\\(\\)\\)\")",
       "Bash(PYTHONIOENCODING=utf-8 python \"strukturdata-a-Asuci-Maharani/Modul-10/Tugas1-10251011-A.SuciMaharani.P.py\")",
       "Bash(PYTHONIOENCODING=utf-8 python \"strukturdata-a-Asuci-Maharani/Modul-10/Tugas2-10251011-A.SuciMaharani.P.py\")",
-      "Bash(PYTHONIOENCODING=utf-8 python \"strukturdata-a-devigustiani/Minggu 10/Tugas 10.3.py\")"
+      "Bash(PYTHONIOENCODING=utf-8 python \"strukturdata-a-devigustiani/Minggu 10/Tugas 10.3.py\")",
+      "Bash(find c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-strukturdata/strukturdata-b-submissions/strukturdata-b-enjelinhartini -iname *tugas*10*)",
+      "Bash(python c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-strukturdata/strukturdata-b-submissions/strukturdata-b-AchmadLyraa/minggu-10/Tugas1_10231001_Achmad-Bayhaqi.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-strukturdata/strukturdata-b-submissions/strukturdata-b-AchmadLyraa/minggu-10/Tugas1_10231001_Achmad-Bayhaqi.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-strukturdata/strukturdata-b-submissions/strukturdata-b-firnifziah/modul10/tugas1.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python 'c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-strukturdata/strukturdata-b-submissions/strukturdata-b-Faiz-codepy/Tugas/Minggu 10/Tugas1_10251018_Muh.FaizubaidillahH.py')",
+      "Bash(PYTHONIOENCODING=utf-8 python c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-strukturdata/strukturdata-b-submissions/strukturdata-b-anawithcode/minggu10/tugas1_10251024_ShivaAndriyana.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-strukturdata/strukturdata-b-submissions/strukturdata-b-anawithcode/minggu10/tugas2_10251024_ShivaAndriyana.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-strukturdata/strukturdata-b-submissions/strukturdata-b-kurniala/minggu10/Tugas1_10251027_KurniaLatifiansyah.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-strukturdata/strukturdata-b-submissions/strukturdata-b-kurniala/minggu10/Tugas2_10251027_KurniaLatifiansyah.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-strukturdata/strukturdata-b-submissions/strukturdata-b-MlhamNF/tugas/week-10/code1.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-strukturdata/strukturdata-b-submissions/strukturdata-b-MlhamNF/tugas/week-10/code2.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python __TRACKED_VAR__/Tugas10.1_10251054_RizkyMuhammadAdha.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-strukturdata/strukturdata-b-submissions/strukturdata-b-Rizi-54/Minggu10/Tugas10.2_10251054_RizkyMuhammadAdha.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python 'c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-strukturdata/strukturdata-b-submissions/strukturdata-b-Nastai1n-bit/minggu 10/tugas10.1_10251060_Nastain Masyal Sadani.py')",
+      "Bash(PYTHONIOENCODING=utf-8 python 'c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-strukturdata/strukturdata-b-submissions/strukturdata-b-liandizgo-design/STRUKTUR DATA_10251063_Muhammad Hanif Murtadho/TUGAS/minggu10/Tugas1_10251063_Muhammad Hanif Murtadho.py')",
+      "Bash(PYTHONIOENCODING=utf-8 python 'c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-strukturdata/strukturdata-b-submissions/strukturdata-b-reihan-agil-wijaya/minggu 10/Tugas1_10251072_ReihanAgilWijaya.py')",
+      "Bash(PYTHONIOENCODING=utf-8 python 'c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-strukturdata/strukturdata-b-submissions/strukturdata-b-Raihanp-dya/Minggu 10/Tugas_10_1_10251099.py')",
+      "Bash(PYTHONIOENCODING=utf-8 python 'c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-strukturdata/strukturdata-b-submissions/strukturdata-b-10251105-haikal/Minggu 10/Tugas_10_1_10251105.py')",
+      "Bash(PYTHONIOENCODING=utf-8 python 'c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-strukturdata/strukturdata-b-submissions/strukturdata-b-JonatanBagusKristiawan/Minggu 10/tugas 10.2_10251115_Jonatan .py')",
+      "Bash(PYTHONIOENCODING=utf-8 python c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-strukturdata/strukturdata-b-submissions/strukturdata-b-enjelinhartini/Tugas10/Tugas10.1_10251015_EnjelinHartini.py)"
     ]
   }
 }

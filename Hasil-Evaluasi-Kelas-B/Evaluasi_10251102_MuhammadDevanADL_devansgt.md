@@ -119,6 +119,36 @@
 **✨ NILAI MODUL 9: 0 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA (Modul 1-7, 9): 12.50 🏆**
+## Hasil Evaluasi Modul 10: Binary Search Tree (BST)
+
+### 1. Tugas 1: Pengembangan BST Class
+- **Pengecekan Kode:** Tidak ada folder/file Modul 10 di repo.
+- **Hasil Testing Terminal:** **TIDAK DIKUMPULKAN** ❌ (0%)
+
+### 2. Tugas 2: Sistem Phonebook dengan BST
+- **Pengecekan Kode:** Tidak ada folder/file Modul 10 di repo.
+- **Hasil Testing Terminal:** **TIDAK DIKUMPULKAN** ❌ (0%)
+
+### 3. Tugas 3: Analisis Performa BST
+- **Pengecekan Kode:** Tidak ada folder/file Modul 10 di repo.
+- **Hasil Testing Terminal:** **TIDAK DIKUMPULKAN** ❌ (0%)
+
+**NILAI MODUL 10: 0**
+
+---
+### **NILAI RATA-RATA (Modul 1-7, 9, 10): 11.11**
+
+| Modul | Nilai |
+|-------|-------|
+| Modul 1 | 100 |
+| Modul 2 | 0 |
+| Modul 3 | 0 |
+| Modul 4 | 0 |
+| Modul 5 | 0 |
+| Modul 6 | 0 |
+| Modul 7 | 0 |
+| Modul 9 | 0 |
+| Modul 10 | 0 |
+| **Rata-rata** | **11.11** |
 
 *Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

@@ -155,6 +155,36 @@
 **✨ NILAI MODUL 9: 67 ✨**
 
 ---
-### **🏆 NILAI RATA-RATA (Modul 1-7, 9): 89.63 🏆**
+## Hasil Evaluasi Modul 10: Binary Search Tree (BST)
+
+### 1. Tugas 1: Pengembangan BST Class
+- **Pengecekan Kode:** Semua test lulus. File menggunakan nama dengan trailing space sebelum .py (dapat dieksekusi).
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Sistem Phonebook dengan BST
+- **Pengecekan Kode:** Semua test lulus.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis Performa BST
+- **Pengecekan Kode:** Sorted BST height n-1 benar. Analisis lengkap n=50000.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 10: 100**
+
+---
+### **NILAI RATA-RATA (Modul 1-7, 9, 10): 90.78**
+
+| Modul | Nilai |
+|-------|-------|
+| Modul 1 | 100 |
+| Modul 2 | 100 |
+| Modul 3 | 100 |
+| Modul 4 | 80 |
+| Modul 5 | 85 |
+| Modul 6 | 85 |
+| Modul 7 | 100 |
+| Modul 9 | 67 |
+| Modul 10 | 100 |
+| **Rata-rata** | **90.78** |
 
 *Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*
