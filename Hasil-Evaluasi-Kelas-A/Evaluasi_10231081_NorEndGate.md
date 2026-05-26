@@ -190,17 +190,21 @@
 
 ## Hasil Evaluasi Modul 10: Binary Search Tree (BST)
 
+> **Koreksi evaluasi:** sebelumnya keliru dinilai 0 karena `minggu10_10231081_Rendy.py` salah dikenali sebagai file kosong, padahal itu adalah **folder** yang berisi 6 file lengkap (3 Praktikum + 3 Tugas Terstruktur). Submission asli tanggal 3 Mei 2026.
+
 ### 1. Tugas 1: Pengembangan BST Class
-- **Pengecekan:** File `minggu10_10231081_Rendy.py` ditemukan di root repo namun berukuran **0 bytes** (file kosong).
-- **Hasil Testing Terminal:** **TIDAK ADA KONTEN** ❌ (0%)
+- **Pengecekan Kode:** `BST` class lengkap dengan `insert`, `search`, `delete`, traversal (preorder, inorder, postorder, level-order), `height`, `count_leaves`, `successor`, `predecessor`. Semua test PASSED.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
 
 ### 2. Tugas 2: Sistem Phonebook dengan BST
-- **Hasil Testing Terminal:** **TIDAK ADA KONTEN** ❌ (0%)
+- **Pengecekan Kode:** Phonebook dengan add, search, update, delete, prefix search berfungsi benar. Semua 7 test PASSED.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
 
 ### 3. Tugas 3: Analisis Performa BST
-- **Hasil Testing Terminal:** **TIDAK ADA KONTEN** ❌ (0%)
+- **Pengecekan Kode:** Perbandingan Random BST vs Balanced BST untuk n=1000-50000 lengkap dengan tabel timing.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
 
-**NILAI MODUL 10: 0** *(file kosong)*
+**NILAI MODUL 10: 100**
 
 ---
 
@@ -240,7 +244,7 @@
 
 ---
 
-### **NILAI RATA-RATA (Modul 1-7, 9, 10, 11, 12): 83.36**
+### **NILAI RATA-RATA (Modul 1-7, 9, 10, 11, 12): 92.45**
 
 | Modul | Nilai |
 |-------|-------|
@@ -252,9 +256,9 @@
 | Modul 6 | 100 |
 | Modul 7 | 50 |
 | Modul 9 | 100 |
-| Modul 10 | 0 |
+| Modul 10 | 100 |
 | Modul 11 | 100 |
 | Modul 12 | 100 |
-| **Rata-rata** | **83.36** |
+| **Rata-rata** | **92.45** |
 
-*Catatan: Modul 5 T2 tidak diimplementasikan. Modul 7 T1 dikumpulkan sebagai .py bukan PDF. Modul 10 file kosong (0 bytes).*
+*Catatan: Modul 5 T2 tidak diimplementasikan. Modul 7 T1 dikumpulkan sebagai .py bukan PDF. Modul 10 sebenarnya lengkap dan PASSED (koreksi dari evaluasi awal yang keliru menganggap folder sebagai file kosong).*

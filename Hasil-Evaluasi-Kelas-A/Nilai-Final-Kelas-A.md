@@ -14,7 +14,7 @@
 
 | No | NIM | Nama | Praktikum (30%) | Kuis (10%) | UTS (25%) | UAS (25%) | Hadir (10%) | Nilai Sementara | Huruf | Detail |
 |---:|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
-| 1 | 10231081 | **Rendy Rifandi Kurnia** | 83 | 66 | 80 | - | 38 | **74** | **B** | [Lihat](Evaluasi_10231081_NorEndGate.md) |
+| 1 | 10231081 | **Rendy Rifandi Kurnia** | 92 | 66 | 80 | - | 38 | **77** | **AB** | [Lihat](Evaluasi_10231081_NorEndGate.md) |
 | 2 | 10251002 | **Dina Gracella Apnel Lengkong** | 94 | 52 | 30 | - | 100 | **68** | **B** | [Lihat](Evaluasi_10251002_DinaGracellaApnelLengkong.md) |
 | 3 | 10251005 | **Rifat AdlyJuliandra** | 66 | 49 | 46 | - | 100 | **62** | **BC** | [Lihat](Evaluasi_10251005_rifatadlyjuliandra.md) |
 | 4 | 10251008 | **Nadya Az-Zahra** | 73 | 37 | 54 | - | 100 | **66** | **BC** | [Lihat](Evaluasi_10251008_NadyaAzZahra.md) |
@@ -36,7 +36,7 @@
 | 20 | 10251056 | **Syahrina Aliyyu Tunggadewi** | 99 | 63 | 47 | - | 96 | **76** | **AB** | [Lihat](Evaluasi_10251056_SyahrinaAliyyuTunggadewi.md) |
 | 21 | 10251059 | **Taufiiqul Akmal** | 91 | 74 | 43 | - | 83 | **72** | **B** | [Lihat](Evaluasi_10251059_TaufiiqulAkmal.md) |
 | 22 | 10251062 | **Ananda Eurico Rhiva Rifqia Salim** | 94 | 45 | 49 | - | 92 | **72** | **B** | [Lihat](Evaluasi_10251062_AnandaEurico.md) |
-| 23 | 10251065 | **Bryan Abil Al-Fikri** | 88 | 36 | 64 | - | 92 | **74** | **B** | [Lihat](Evaluasi_10251065_BryanAbilAlFikri.md) |
+| 23 | 10251065 | **Bryan Abil Al-Fikri** | 97 | 36 | 64 | - | 92 | **77** | **AB** | [Lihat](Evaluasi_10251065_BryanAbilAlFikri.md) |
 | 24 | 10251068 | **Muhammad Fajri Ikhsan** | 85 | 35 | 37 | - | 100 | **64** | **BC** | [Lihat](Evaluasi_10251068_MuhammadFajriIkhsan.md) |
 | 25 | 10251071 | **MUHAMMAD RASYA AL KHALIFI** | 95 | 44 | 41 | - | 83 | **69** | **B** | [Lihat](Evaluasi_10251071_MuhammadRasyaAlKhalifi.md) |
 | 26 | 10251074 | **Muhammad Rizqi Akbar** | 79 | 47 | 54 | - | 83 | **67** | **B** | [Lihat](Evaluasi_10251074_MuhammadRizqiAkbar.md) |
@@ -44,7 +44,7 @@
 | 28 | 10251080 | **Julian Zaky Saputra** | 82 | 68 | 76 | - | 100 | **80** | **AB** | [Lihat](Evaluasi_10251080_JulianZakySaputra.md) |
 | 29 | 10251083 | **Mosses Restu Nugroho** | 97 | 75 | 84 | - | 100 | **90** | **A** | [Lihat](Evaluasi_10251083_MossesRestuNugroho.md) |
 | 30 | 10251086 | **Muhammad Rizqi Hdayah** | 88 | 71 | 69 | - | 100 | **81** | **AB** | [Lihat](Evaluasi_10251075_MuhammadRizqiHidayah.md) |
-| 31 | 10251089 | **Muhammad Ryan Eka Putra** | 83 | 59 | 62 | - | 92 | **74** | **B** | [Lihat](Evaluasi_10251089_Ryan.md) |
+| 31 | 10251089 | **Muhammad Ryan Eka Putra** | 92 | 59 | 62 | - | 92 | **78** | **AB** | [Lihat](Evaluasi_10251089_Ryan.md) |
 | 32 | 10251092 | **Razi Abdullah** | 80 | - | 35 | - | 83 | **55** | **C** | [Lihat](Evaluasi_Unknown_snowyy26.md) |
 | 33 | 10251095 | **Nur Hayyu Nurdin** | 95 | 69 | 79 | - | 96 | **86** | **A** | [Lihat](Evaluasi_10251095_NurHayyuNurdin.md) |
 | 34 | 10251098 | **PANJI DWI REYJAYA** | - | - | - | - | 0 | **0** | **E** | - |

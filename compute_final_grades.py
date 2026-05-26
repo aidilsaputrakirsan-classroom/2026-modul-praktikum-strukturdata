@@ -163,7 +163,7 @@ def parse_excel():
 # Praktikum scores per NIM (dari README evaluasi). NIM yang tidak ada di sini
 # berarti tidak ada data evaluasi praktikum (akan ditampilkan '-').
 PRAKTIKUM_A = {
-    10231081: 83.36,
+    10231081: 92.45,  # Koreksi: M10 sebelumnya keliru dinilai 0 (folder dianggap file kosong); M10=100
     10251002: 94.00,
     10251005: 66.09,
     10251008: 73.45,
@@ -184,7 +184,7 @@ PRAKTIKUM_A = {
     10251056: 99.09,
     10251059: 90.91,
     10251062: 94.00,
-    10251065: 87.91,
+    10251065: 97.00,  # Update: M12 push 24 Mei 11:48, semua test PASSED
     10251068: 84.55,
     10251071: 95.45,
     10251074: 78.82,
@@ -192,7 +192,7 @@ PRAKTIKUM_A = {
     10251077: 90.55,
     10251080: 81.82,
     10251083: 97.00,
-    10251089: 83.36,
+    10251089: 92.45,  # Update: M12 push 24 Mei 13:01, semua test PASSED
     10251092: 80.27,
     10251095: 95.45,
     10251104: 95.18,

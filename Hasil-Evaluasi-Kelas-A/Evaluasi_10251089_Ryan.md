@@ -195,15 +195,25 @@
 
 ## Hasil Evaluasi Modul 12: Algoritma Searching
 
-### Semua Tugas
-- **Pengecekan:** Tidak ditemukan folder atau file Modul 12 di repositori.
-- **Hasil:** **TIDAK DIKUMPULKAN** ❌ (0%)
+> **Catatan:** M12 di-push tanggal 24 Mei 2026 (beberapa jam setelah evaluasi awal). Setelah pull ulang dari repo, M12 lengkap dan semua test PASSED.
 
-**NILAI MODUL 12: 0**
+### 1. Tugas 1: Binary Search Lanjutan
+- **Pengecekan Kode:** Semua fungsi lulus 5 test case.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Hash Table - Open Addressing
+- **Pengecekan Kode:** Linear probing + tombstone, resize & rehash bekerja.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Sistem Kamus Digital
+- **Pengecekan Kode:** Bidirectional dictionary dengan multiple translations dan prefix search benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 12: 100**
 
 ---
 
-### **NILAI RATA-RATA (Modul 1-7, 9, 10, 11, 12): 83.36**
+### **NILAI RATA-RATA (Modul 1-7, 9, 10, 11, 12): 92.45**
 
 | Modul | Nilai |
 |-------|-------|
@@ -217,7 +227,7 @@
 | Modul 9 | 67 |
 | Modul 10 | 100 |
 | Modul 11 | 100 |
-| Modul 12 | 0 |
-| **Rata-rata** | **83.36** |
+| Modul 12 | 100 |
+| **Rata-rata** | **92.45** |
 
-*Catatan: M7 T1 tidak dikumpulkan (file berisi Library management bukan PDF teori). Modul 12 tidak dikumpulkan.*
+*Catatan: M7 T1 tidak dikumpulkan (file berisi Library management bukan PDF teori). M12 di-push 24 Mei 2026, dievaluasi pada pull ulang — semua test PASSED.*

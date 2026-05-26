@@ -8,7 +8,7 @@
 
 | No | Nama Lengkap | NIM | GitHub Username | M1 | M2 | M3 | M4 | M5 | M6 | M7 | M9 | M10 | M11 | M12 | Nilai Rata-rata | Detail Evaluasi |
 |---:|:---|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
-| 1 | **Rendy** | 10231081 | `NorEndGate` | 100 | 100 | 100 | 100 | 67 | 100 | 50 | 100 | 0 | 100 | 100 | ![Score](https://img.shields.io/badge/Score-83.36-yellowgreen) | [Lihat Laporan](Evaluasi_10231081_NorEndGate.md) |
+| 1 | **Rendy** | 10231081 | `NorEndGate` | 100 | 100 | 100 | 100 | 67 | 100 | 50 | 100 | 100 | 100 | 100 | ![Score](https://img.shields.io/badge/Score-92.45-success) | [Lihat Laporan](Evaluasi_10231081_NorEndGate.md) |
 | 2 | **Dina Gracella Apnel Lengkong** | 10251002 | `10251002` | 100 | 100 | 100 | 100 | 67 | 100 | 100 | 67 | 100 | 100 | 100 | ![Score](https://img.shields.io/badge/Score-94.00-success) | [Lihat Laporan](Evaluasi_10251002_DinaGracellaApnelLengkong.md) |
 | 3 | **Rifat Adlyjuliandra** | 10251005 | `rifatadlyjuliandra` | 100 | 100 | 60 | 100 | 100 | 100 | 0 | 67 | 0 | 100 | 0 | ![Score](https://img.shields.io/badge/Score-66.09-orange) | [Lihat Laporan](Evaluasi_10251005_rifatadlyjuliandra.md) |
 | 4 | **Nadya Az-Zahra** | 10251008 | `nadyaazzahra` | 100 | 100 | 67 | 67 | 97 | 77 | 100 | 100 | 100 | 0 | 0 | ![Score](https://img.shields.io/badge/Score-73.45-yellowgreen) | [Lihat Laporan](Evaluasi_10251008_NadyaAzZahra.md) |
@@ -29,7 +29,7 @@
 | 19 | **Syahrina Aliyyu Tunggadewi** | 10251056 | `SyahrinaAliyyuTunggadewi` | 100 | 100 | 100 | 90 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | ![Score](https://img.shields.io/badge/Score-99.09-success) | [Lihat Laporan](Evaluasi_10251056_SyahrinaAliyyuTunggadewi.md) |
 | 20 | **Taufiiqul Akmal** | 10251059 | `10251059-coder` | 100 | 100 | 100 | 100 | 100 | 0 | 100 | 100 | 100 | 100 | 100 | ![Score](https://img.shields.io/badge/Score-90.91-success) | [Lihat Laporan](Evaluasi_10251059_TaufiiqulAkmal.md) |
 | 21 | **Ananda Eurico Rhiva Rifqia Salim** | 10251062 | `AnandaEurico` | 100 | 100 | 100 | 80 | 100 | 87 | 100 | 67 | 100 | 100 | 100 | ![Score](https://img.shields.io/badge/Score-94.00-success) | [Lihat Laporan](Evaluasi_10251062_AnandaEurico.md) |
-| 22 | **Bryan Abil Al-Fikri** | 10251065 | `Bryan1065` | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 67 | 100 | 100 | 0 | ![Score](https://img.shields.io/badge/Score-87.91-yellowgreen) | [Lihat Laporan](Evaluasi_10251065_BryanAbilAlFikri.md) |
+| 22 | **Bryan Abil Al-Fikri** | 10251065 | `Bryan1065` | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 67 | 100 | 100 | 100 | ![Score](https://img.shields.io/badge/Score-97.00-success) | [Lihat Laporan](Evaluasi_10251065_BryanAbilAlFikri.md) |
 | 23 | **Muhammad Fajri Ikhsan** | 10251068 | `Fajri-ITK` | 100 | 100 | 100 | 100 | 93 | 70 | 100 | 67 | 100 | 100 | 0 | ![Score](https://img.shields.io/badge/Score-84.55-yellowgreen) | [Lihat Laporan](Evaluasi_10251068_MuhammadFajriIkhsan.md) |
 | 24 | **Muhammad Rasya Al Khalifi** | 10251071 | `MuhRasyaAlKhalifi` | 100 | 100 | 100 | 100 | 100 | 83 | 100 | 67 | 100 | 100 | 100 | ![Score](https://img.shields.io/badge/Score-95.45-success) | [Lihat Laporan](Evaluasi_10251071_MuhammadRasyaAlKhalifi.md) |
 | 25 | **Muhammad Rizqi Akbar** | 10251074 | `MuhammadRizqiAkbar33` | 100 | 100 | 100 | 100 | 100 | 67 | 100 | 100 | 100 | 0 | 0 | ![Score](https://img.shields.io/badge/Score-78.82-yellowgreen) | [Lihat Laporan](Evaluasi_10251074_MuhammadRizqiAkbar.md) |
@@ -37,7 +37,7 @@
 | 27 | **Risna Andriani** | 10251077 | `RisnaAndriani-10251077` | 96 | 100 | 100 | 100 | 100 | 100 | 100 | 67 | 100 | 33 | 100 | ![Score](https://img.shields.io/badge/Score-90.55-success) | [Lihat Laporan](Evaluasi_10251077_RisnaAndriani.md) |
 | 28 | **Julian Zaky Saputra** | 10251080 | `Julian-Zaky-Saputra` | 100 | 100 | 100 | 100 | 100 | 83 | 50 | 67 | 100 | 100 | 0 | ![Score](https://img.shields.io/badge/Score-81.82-yellowgreen) | [Lihat Laporan](Evaluasi_10251080_JulianZakySaputra.md) |
 | 29 | **Mosses Restu Nugroho** | 10251083 | `MossesRestuN` | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 67 | 100 | 100 | 100 | ![Score](https://img.shields.io/badge/Score-97.00-success) | [Lihat Laporan](Evaluasi_10251083_MossesRestuNugroho.md) |
-| 30 | **Muhammad Ryan Eka Putra** | 10251089 | `10251089-Ryan` | 100 | 100 | 100 | 100 | 100 | 100 | 50 | 67 | 100 | 100 | 0 | ![Score](https://img.shields.io/badge/Score-83.36-yellowgreen) | [Lihat Laporan](Evaluasi_10251089_Ryan.md) |
+| 30 | **Muhammad Ryan Eka Putra** | 10251089 | `10251089-Ryan` | 100 | 100 | 100 | 100 | 100 | 100 | 50 | 67 | 100 | 100 | 100 | ![Score](https://img.shields.io/badge/Score-92.45-success) | [Lihat Laporan](Evaluasi_10251089_Ryan.md) |
 | 31 | **Razi Abdullah** | 10251092 | `snowyy26` | 50 | 50 | 100 | 33 | 100 | 83 | 100 | 67 | 100 | 100 | 100 | ![Score](https://img.shields.io/badge/Score-80.27-yellowgreen) | [Lihat Laporan](Evaluasi_Unknown_snowyy26.md) |
 | 32 | **Nur Hayyu Nurdin** | 10251095 | `NurHayyu-10251095` | 100 | 100 | 100 | 100 | 100 | 83 | 100 | 67 | 100 | 100 | 100 | ![Score](https://img.shields.io/badge/Score-95.45-success) | [Lihat Laporan](Evaluasi_10251095_NurHayyuNurdin.md) |
 | 33 | **Chelsea Angelika Velayati** | 10251104 | `Chelsea-10251104` | 100 | 100 | 90 | 90 | 100 | 100 | 100 | 67 | 100 | 100 | 100 | ![Score](https://img.shields.io/badge/Score-95.18-success) | [Lihat Laporan](Evaluasi_10251104_ChelseaAngelikaVelayati.md) |
@@ -61,7 +61,7 @@ Beberapa mahasiswa mendapatkan nilai khusus dikarenakan alasan berikut:
 9. **Noel Natalian Somba (10251053) & Bryan Abil Al-Fikri (10251065):** Mengumpulkan Modul 6 setelah tenggat awal evaluasi. M6 dievaluasi dan bernilai 100.
 10. **Andre Adi Ruhaya (10251114):** M7 T1 tidak ada PDF, M7 T2 hanya berisi class tanpa kode test (M7=0). M9 T1/T2 class-only tanpa test execution, T3 RecursionError (M9=0).
 11. **Modul 9 T3 RecursionError:** Mayoritas mahasiswa menggunakan implementasi `height()` rekursif murni dari template tanpa `sys.setrecursionlimit` — gagal pada skewed tree n=10000. Mahasiswa yang berhasil: Rendy, Nadya, Dhevrant, Syahrina, Taufiiqul, Rizqi Akbar, Farel, Azriel (menggunakan iterative/setrecursionlimit).
-12. **Rendy (10231081):** Modul 10 file dikumpulkan kosong (0 bytes) — M10=0.
+12. **Rendy (10231081):** Modul 10 lengkap dan semua test PASSED (M10=100). *[Koreksi evaluasi: sebelumnya keliru dinilai 0 karena folder `minggu10_*.py` salah dikenali sebagai file kosong; submission asli tanggal 3 Mei 2026]*.
 13. **Rifat Adlyjuliandra (10251005) & Muh. Asrul Syam (10251044):** Tidak ada folder/file Modul 10 di repo — M10=0.
 14. **A. Suci Maharani P (10251011):** M10 T1 `AttributeError: _find_min_node` tidak terdefinisi (5/7 test lulus, T1=60%). M10 T2 `NameError: result` — typo `esult = []` sehingga T2=0%. M10 T3 lulus (100%). M10=53.
 15. **Devi Gustiani (10251017):** M10 T3 analisis performa hanya sampai n=10000, tidak menyertakan n=50000 — T3=90%. M10=97.
@@ -76,7 +76,9 @@ Beberapa mahasiswa mendapatkan nilai khusus dikarenakan alasan berikut:
 24. **Muhammad Zennin Feriatta Dzakwan (10251050):** M11 T1/T2/T3 ketiganya berisi kode Praktikum 11.1/11.2/11.3 (bukan Tugas Terstruktur 11.1/11.2/11.3) — M11=0. M12 lengkap dan benar — M12=100.
 25. **Noel Natalian Somba (10251053):** Tidak ada folder Modul 11 maupun Modul 12 — M11=0, M12=0.
 26. **Devi Gustiani (10251017):** M11 & M12 semua file menggunakan ekstensi `.py` dengan benar (mahasiswa sudah memperbaiki format yang sebelumnya salah di Modul 5/6/7) — M11=100, M12=100.
-27. **Bryan Abil Al-Fikri (10251065), Muhammad Fajri Ikhsan (10251068), Julian Zaky Saputra (10251080), Muhammad Ryan Eka Putra (10251089):** Tidak ada folder Modul 12 di repo — M12=0.
+27. **Muhammad Fajri Ikhsan (10251068), Julian Zaky Saputra (10251080):** Tidak ada folder Modul 12 di repo — M12=0.
+27a. **Bryan Abil Al-Fikri (10251065):** M12 di-push tanggal 24 Mei 2026 (beberapa jam setelah evaluasi awal). Setelah pull ulang, M12 lengkap dan semua test PASSED — M12=100.
+27b. **Muhammad Ryan Eka Putra (10251089):** M12 di-push tanggal 24 Mei 2026 (beberapa jam setelah evaluasi awal). Setelah pull ulang, M12 lengkap dan semua test PASSED — M12=100.
 28. **Muhammad Rizqi Akbar (10251074):** Tidak ada folder Modul 11 maupun Modul 12 (commit terakhir di Modul 10 tanggal 9 Mei 2026) — M11=0, M12=0.
 29. **Muhammad Rizqi Hidayah (10251075):** Folder `Minggu 1 /` dan `Minggu 4 /` mengandung trailing space (invalid pada Windows) sehingga `git checkout` gagal. File Modul 11 & 12 diambil via `git show HEAD:"path"` — semua test PASSED. Tetap menggunakan NIM 10251086 (berbeda dari NIM terdaftar 10251075).
 30. **Risna Andriani (10251077):** M11 hanya mengumpulkan Tugas 1 (tidak ada file Tugas 2 dan Tugas 3) — T2=0, T3=0, M11=33. M12 lengkap dan benar — M12=100.
