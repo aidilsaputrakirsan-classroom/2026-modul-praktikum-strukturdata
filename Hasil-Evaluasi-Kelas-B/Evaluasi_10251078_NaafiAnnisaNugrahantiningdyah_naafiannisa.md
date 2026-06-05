@@ -206,7 +206,25 @@
 **NILAI MODUL 12: 85** *(T1:85 + T2:85 + T3:85) / 3 = 85*
 
 ---
-### **NILAI RATA-RATA (Modul 1-7, 9, 10, 11, 12): 92.00**
+## Hasil Evaluasi Modul 13: Sorting Dasar
+
+### 1. Tugas 1: Sorting dengan Custom Comparator
+- **Pengecekan Kode:** `bubble_sort_custom`, `selection_sort_custom`, `insertion_sort_custom` dengan parameter `key` & `reverse` benar. *(file tanpa ekstensi `.py` — penalti -15)*
+- **Hasil Testing Terminal:** **PASSED** ✅ (85% — penalti tanpa `.py`)
+
+### 2. Tugas 2: Sistem Ranking Mahasiswa
+- **Pengecekan Kode:** `RankingSystem` (`sort_by_nama`, `sort_by_nilai_akhir`, `sort_by_grade_then_nama`, `get_top_n`, `grade_distribution`) benar. *(file tanpa ekstensi `.py` — penalti -15)*
+- **Hasil Testing Terminal:** **PASSED** ✅ (85% — penalti tanpa `.py`)
+
+### 3. Tugas 3: Analisis dan Visualisasi Sorting
+- **Pengecekan Kode:** Trace verbose, uji stabilitas, tabel observasi & 5 jawaban analisis lengkap. *(file tanpa ekstensi `.py` — penalti -15)*
+- **Hasil Testing Terminal:** **PASSED** ✅ (85% — penalti tanpa `.py`)
+
+**NILAI MODUL 13: 85**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-13): 91.42**
 
 | Modul | Nilai |
 |-------|-------|
@@ -221,7 +239,8 @@
 | Modul 10 | 85 |
 | Modul 11 | 90 |
 | Modul 12 | 85 |
-| **Rata-rata** | **92.00** |
+| Modul 13 | 85 |
+| **Rata-rata** | **91.42** |
 
 *Catatan: Konsisten dengan M9 & M10 — banyak file Tugas dikumpulkan tanpa ekstensi `.py` (-15 per tugas).*
 

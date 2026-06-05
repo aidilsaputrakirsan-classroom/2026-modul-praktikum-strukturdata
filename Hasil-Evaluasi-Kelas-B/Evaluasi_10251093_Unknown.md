@@ -175,7 +175,15 @@
 **NILAI MODUL 12: 0**
 
 ---
-### **NILAI RATA-RATA (Modul 1-7, 9, 10, 11, 12): 39.45**
+## Hasil Evaluasi Modul 13: Sorting Dasar
+
+- **Catatan:** Tidak ada folder/file Modul 13 di repositori.
+
+**NILAI MODUL 13: 0**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-13): 36.17**
 
 | Modul | Nilai |
 |-------|-------|
@@ -190,7 +198,8 @@
 | Modul 10 | 0 |
 | Modul 11 | 0 |
 | Modul 12 | 0 |
-| **Rata-rata** | **39.45** |
+| Modul 13 | 0 |
+| **Rata-rata** | **36.17** |
 
 *Catatan: Modul 7, 9, 10, 11, 12 tidak dikumpulkan.*
 

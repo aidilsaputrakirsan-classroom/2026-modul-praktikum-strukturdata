@@ -206,7 +206,25 @@
 **NILAI MODUL 12: 100**
 
 ---
-### **NILAI RATA-RATA (Modul 1-7, 9, 10, 11, 12): 78.82**
+## Hasil Evaluasi Modul 13: Sorting Dasar
+
+### 1. Tugas 1: Sorting dengan Custom Comparator
+- **Pengecekan Kode:** `bubble_sort_custom`, `selection_sort_custom`, `insertion_sort_custom` dengan parameter `key` & `reverse` benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Sistem Ranking Mahasiswa
+- **Pengecekan Kode:** `RankingSystem` (`sort_by_nama`, `sort_by_nilai_akhir`, `sort_by_grade_then_nama`, `get_top_n`, `grade_distribution`) benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis dan Visualisasi Sorting
+- **Pengecekan Kode:** File **Tugas 13.3 tidak dikumpulkan** (hanya Tugas 13.1 & 13.2).
+- **Hasil Testing Terminal:** **FAILED** ❌ (0%)
+
+**NILAI MODUL 13: 67**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-13): 77.83**
 
 | Modul | Nilai |
 |-------|-------|
@@ -221,7 +239,8 @@
 | Modul 10 | 0 |
 | Modul 11 | 0 |
 | Modul 12 | 100 |
-| **Rata-rata** | **78.82** |
+| Modul 13 | 67 |
+| **Rata-rata** | **77.83** |
 
 *Catatan: Modul 11 hanya berisi placeholder kosong. M12 dievaluasi via `git show`.*
 

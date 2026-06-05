@@ -200,7 +200,25 @@
 
 ---
 
-### **NILAI RATA-RATA (Modul 1-7, 9, 10, 11, 12): 66.09**
+## Hasil Evaluasi Modul 13: Sorting Dasar
+
+### 1. Tugas 1: Sorting dengan Custom Comparator
+- **Pengecekan Kode:** `bubble_sort_custom`, `selection_sort_custom`, `insertion_sort_custom` dengan parameter `key` & `reverse` benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 2. Tugas 2: Sistem Ranking Mahasiswa
+- **Pengecekan Kode:** `RankingSystem` (`sort_by_nama`, `sort_by_nilai_akhir`, `sort_by_grade_then_nama`, `get_top_n`, `grade_distribution`) benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Analisis dan Visualisasi Sorting
+- **Pengecekan Kode:** `SyntaxError` (line 216): tabel markdown jawaban ditulis sebagai kode mentah, di luar string/komentar.
+- **Hasil Testing Terminal:** **FAILED** ❌ (0%)
+
+**NILAI MODUL 13: 67**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-13): 66.17**
 
 | Modul | Nilai |
 |-------|-------|
@@ -215,6 +233,7 @@
 | Modul 10 | 0 |
 | Modul 11 | 100 |
 | Modul 12 | 0 |
-| **Rata-rata** | **66.09** |
+| Modul 13 | 67 |
+| **Rata-rata** | **66.17** |
 
 *Catatan: Modul 3 T2 terdapat bug pengurutan polynomial. Modul 7 tidak dikumpulkan. Modul 10 & Modul 12 tidak dikumpulkan.*

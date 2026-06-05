@@ -186,7 +186,15 @@
 **NILAI MODUL 12: 100**
 
 ---
-### **NILAI RATA-RATA (Modul 1-7, 9, 10, 11, 12): 66.09**
+## Hasil Evaluasi Modul 13: Sorting Dasar
+
+- **Catatan:** Hanya mengumpulkan file **Praktikum** (`code13.1/2/3` berisi kode Praktikum 13.x), tidak ada Tugas Terstruktur 13.
+
+**NILAI MODUL 13: 0**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-13): 60.58**
 
 | Modul | Nilai |
 |-------|-------|
@@ -201,7 +209,8 @@
 | Modul 10 | 0 |
 | Modul 11 | 100 |
 | Modul 12 | 100 |
-| **Rata-rata** | **66.09** |
+| Modul 13 | 0 |
+| **Rata-rata** | **60.58** |
 
 *Catatan: M11 & M12 dievaluasi via `git show` karena folder bermasalah pada Windows.*
 

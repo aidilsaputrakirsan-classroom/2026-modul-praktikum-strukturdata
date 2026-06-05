@@ -201,7 +201,15 @@
 
 ---
 
-### **NILAI RATA-RATA (Modul 1-7, 9, 10, 11, 12): 78.18**
+## Hasil Evaluasi Modul 13: Sorting Dasar
+
+- **Catatan:** Hanya mengumpulkan file **Praktikum** (`Tugas Praktikum 13.1/2/3` berisi kode Praktikum 13.1/2/3), **tidak ada Tugas Terstruktur** 13.1/13.2/13.3.
+
+**NILAI MODUL 13: 0**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-13): 71.67**
 
 | Modul | Nilai |
 |-------|-------|
@@ -216,6 +224,7 @@
 | Modul 10 | 100 |
 | Modul 11 | 100 |
 | Modul 12 | 0 |
-| **Rata-rata** | **78.18** |
+| Modul 13 | 0 |
+| **Rata-rata** | **71.67** |
 
 *Catatan: M7 T1 dikumpulkan sebagai .py bukan PDF. Modul 12 tidak dikumpulkan.*

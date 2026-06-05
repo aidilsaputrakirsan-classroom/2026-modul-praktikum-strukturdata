@@ -171,7 +171,15 @@
 **NILAI MODUL 12: 0**
 
 ---
-### **NILAI RATA-RATA (Modul 1-7, 9, 10, 11, 12): 43.64**
+## Hasil Evaluasi Modul 13: Sorting Dasar
+
+- **Catatan:** Tidak ada folder/file Modul 13 di repositori.
+
+**NILAI MODUL 13: 0**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-13): 40.00**
 
 | Modul | Nilai |
 |-------|-------|
@@ -186,7 +194,8 @@
 | Modul 10 | 0 |
 | Modul 11 | 100 |
 | Modul 12 | 0 |
-| **Rata-rata** | **43.64** |
+| Modul 13 | 0 |
+| **Rata-rata** | **40.00** |
 
 *Catatan: M11 dievaluasi via `git show` karena clone gagal di Windows. Modul 12 tidak dikumpulkan.*
 

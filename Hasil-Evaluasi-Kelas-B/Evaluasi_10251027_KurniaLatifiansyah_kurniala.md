@@ -197,7 +197,15 @@
 **NILAI MODUL 12: 100**
 
 ---
-### **NILAI RATA-RATA (Modul 1-7, 9, 10, 11, 12): 97.00**
+## Hasil Evaluasi Modul 13: Sorting Dasar
+
+- **Catatan:** Hanya mengumpulkan file **Praktikum** (`Praktikum_kode1/2/3`), tidak ada Tugas Terstruktur 13.
+
+**NILAI MODUL 13: 0**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-13): 88.92**
 
 | Modul | Nilai |
 |-------|-------|
@@ -212,6 +220,7 @@
 | Modul 10 | 100 |
 | Modul 11 | 100 |
 | Modul 12 | 100 |
-| **Rata-rata** | **97.00** |
+| Modul 13 | 0 |
+| **Rata-rata** | **88.92** |
 
 *Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

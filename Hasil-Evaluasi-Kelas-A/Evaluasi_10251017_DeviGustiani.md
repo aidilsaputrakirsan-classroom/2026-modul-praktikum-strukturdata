@@ -218,7 +218,15 @@
 
 ---
 
-### **NILAI RATA-RATA (Modul 1-7, 9, 10, 11, 12): 89.91**
+## Hasil Evaluasi Modul 13: Sorting Dasar
+
+- **Catatan:** Tidak ada folder/file Modul 13 di repositori (commit terakhir hanya sampai Modul 12).
+
+**NILAI MODUL 13: 0**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-13): 82.42**
 
 | Modul | Nilai |
 |-------|-------|
@@ -233,6 +241,7 @@
 | Modul 10 | 97 |
 | Modul 11 | 100 |
 | Modul 12 | 100 |
-| **Rata-rata** | **89.91** |
+| Modul 13 | 0 |
+| **Rata-rata** | **82.42** |
 
 *Catatan: M5/M6 file tanpa ekstensi `.py` (-15 per tugas). M7 T2 hanya 4/8 test case diimplementasikan. M9 T3 SyntaxError karakter unicode. M10 T3 hanya hingga n=10000. **M11 & M12 sudah menggunakan ekstensi `.py` dengan benar** — mahasiswa memperbaiki format yang sebelumnya bermasalah.*
