@@ -179,7 +179,25 @@
 
 ---
 
-### **NILAI RATA-RATA (Modul 1-7, 9-13): 40.00**
+## Hasil Evaluasi Modul 14: Sorting Lanjutan
+
+### 1. Tugas 1: Perbandingan Sorting Dasar vs Lanjutan
+- **Pengecekan Kode:** Implementasi `merge_sort`, `quick_sort_inplace`, dan `heap_sort` benar; benchmark berjalan serta tabel observasi & 5 jawaban analisis terisi lengkap.
+- **Hasil Testing Terminal:** **PASSED** (100%)
+
+### 2. Tugas 2: Sorting pada Data Kompleks
+- **Pengecekan Kode:** `merge_sort_by_key`, `quick_sort_by_key`, dan `multi_key_sort` benar (stabil & mendukung reverse/multi-key).
+- **Hasil Testing Terminal:** **PASSED** (100%)
+
+### 3. Tugas 3: Counting Sort dan Hybrid Sort
+- **Pengecekan Kode:** `counting_sort` (stable) & `hybrid_sort` (Quick+Insertion) benar.
+- **Hasil Testing Terminal:** **PASSED** (100%)
+
+**NILAI MODUL 14: 100**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-14): 44.62**
 
 | Modul | Nilai |
 |-------|-------|
@@ -195,7 +213,8 @@
 | Modul 11 | 100 |
 | Modul 12 | 0 |
 | Modul 13 | 0 |
-| **Rata-rata** | **40.00** |
+| Modul 14 | 100 |
+| **Rata-rata** | **44.62** |
 
 *Catatan: M11 dievaluasi via `git show` karena clone gagal di Windows. Modul 12 tidak dikumpulkan.*
 

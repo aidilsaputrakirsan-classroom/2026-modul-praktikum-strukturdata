@@ -223,7 +223,15 @@
 
 ---
 
-### **NILAI RATA-RATA (Modul 1-7, 9-13): 95.83**
+## Hasil Evaluasi Modul 14: Sorting Lanjutan
+
+- Ketiga file Tugas di folder Modul 14 **bukan tugas Sorting Lanjutan**: Tugas 1 & 2 berisi konten Modul 15 (Trie & Tensor) dan gagal saat dijalankan (`AssertionError`); Tugas 3 hanya template placeholder ("Analisis Penerapan", identitas kosong). Tidak ada Tugas Terstruktur 14 yang valid.
+
+**NILAI MODUL 14: 0**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-14): 88.46**
 
 | Modul | Nilai |
 |-------|-------|
@@ -239,6 +247,7 @@
 | Modul 11 | 100 |
 | Modul 12 | 100 |
 | Modul 13 | 100 |
-| **Rata-rata** | **95.83** |
+| Modul 14 | 0 |
+| **Rata-rata** | **88.46** |
 
 *Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*

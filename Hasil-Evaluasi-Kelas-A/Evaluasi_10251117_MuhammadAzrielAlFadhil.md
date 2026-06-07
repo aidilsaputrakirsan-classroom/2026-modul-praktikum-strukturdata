@@ -230,7 +230,25 @@
 
 ---
 
-### **NILAI RATA-RATA (Modul 1-7, 9-13): 87.75**
+## Hasil Evaluasi Modul 14: Sorting Lanjutan
+
+### 1. Tugas 1: Perbandingan Sorting Dasar vs Lanjutan
+- **Pengecekan Kode:** Implementasi `merge_sort`, `quick_sort_inplace`, `heap_sort` & benchmark berjalan benar, namun blok BAGIAN A (tabel observasi) dan BAGIAN B (5 pertanyaan analisis) tidak diisi.
+- **Hasil Testing Terminal:** **PASSED** (kode berjalan, analisis kosong) - **T1=50**
+
+### 2. Tugas 2: Sorting pada Data Kompleks
+- **Pengecekan Kode:** `merge_sort_by_key`, `quick_sort_by_key`, `multi_key_sort` benar.
+- **Hasil Testing Terminal:** **PASSED** (100%)
+
+### 3. Tugas 3: Counting Sort dan Hybrid Sort
+- **Pengecekan Kode:** `counting_sort` & `hybrid_sort` benar.
+- **Hasil Testing Terminal:** **PASSED** (100%)
+
+**NILAI MODUL 14: 83**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-14): 87.38**
 
 | Modul | Nilai | Keterangan |
 |-------|-------|------------|
@@ -246,4 +264,5 @@
 | Modul 11 | 100 | |
 | Modul 12 | 100 | |
 | Modul 13 | 100 |
-| **Rata-rata** | **87.75** | |
+| Modul 14 | 83 |
+| **Rata-rata** | **87.38** | |

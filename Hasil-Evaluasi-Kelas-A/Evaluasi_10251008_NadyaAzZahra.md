@@ -223,7 +223,15 @@
 
 ---
 
-### **NILAI RATA-RATA (Modul 1-7, 9-13): 72.92**
+## Hasil Evaluasi Modul 14: Sorting Lanjutan
+
+- Tidak ada Tugas Terstruktur Modul 14 (hanya placeholder Praktikum).
+
+**NILAI MODUL 14: 0**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-14): 67.31**
 
 | Modul | Nilai |
 |-------|-------|
@@ -239,6 +247,7 @@
 | Modul 11 | 0 |
 | Modul 12 | 0 |
 | Modul 13 | 67 |
-| **Rata-rata** | **72.92** |
+| Modul 14 | 0 |
+| **Rata-rata** | **67.31** |
 
 *Catatan: Modul 11 hanya mengumpulkan Praktikum tanpa Tugas Terstruktur. Modul 12 tidak dikumpulkan sama sekali.*

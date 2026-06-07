@@ -218,7 +218,15 @@
 
 ---
 
-### **NILAI RATA-RATA (Modul 1-7, 9-13): 82.25**
+## Hasil Evaluasi Modul 14: Sorting Lanjutan
+
+- Hanya mengumpulkan file Praktikum 14.1/2/3 (Implementasi Merge/Quick/Heap Sort), tidak ada Tugas Terstruktur 14.
+
+**NILAI MODUL 14: 0**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-14): 75.92**
 
 | Modul | Nilai | Keterangan |
 |-------|-------|------------|
@@ -234,4 +242,5 @@
 | Modul 11 | 100 | |
 | Modul 12 | 100 | |
 | Modul 13 | 100 |
-| **Rata-rata** | **82.25** | |
+| Modul 14 | 0 |
+| **Rata-rata** | **75.92** | |

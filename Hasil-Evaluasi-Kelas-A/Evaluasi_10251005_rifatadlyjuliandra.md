@@ -218,7 +218,15 @@
 
 ---
 
-### **NILAI RATA-RATA (Modul 1-7, 9-13): 66.17**
+## Hasil Evaluasi Modul 14: Sorting Lanjutan
+
+- Tidak ada folder/file Modul 14 di repositori.
+
+**NILAI MODUL 14: 0**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-14): 61.08**
 
 | Modul | Nilai |
 |-------|-------|
@@ -234,6 +242,7 @@
 | Modul 11 | 100 |
 | Modul 12 | 0 |
 | Modul 13 | 67 |
-| **Rata-rata** | **66.17** |
+| Modul 14 | 0 |
+| **Rata-rata** | **61.08** |
 
 *Catatan: Modul 3 T2 terdapat bug pengurutan polynomial. Modul 7 tidak dikumpulkan. Modul 10 & Modul 12 tidak dikumpulkan.*

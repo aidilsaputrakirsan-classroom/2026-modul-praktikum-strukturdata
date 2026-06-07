@@ -224,7 +224,15 @@
 
 ---
 
-### **NILAI RATA-RATA (Modul 1-7, 9-13): 82.00**
+## Hasil Evaluasi Modul 14: Sorting Lanjutan
+
+- Tidak ada folder/file Modul 14 di repositori.
+
+**NILAI MODUL 14: 0**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-14): 75.69**
 
 | Modul | Nilai |
 |-------|-------|
@@ -240,6 +248,7 @@
 | Modul 11 | 100 |
 | Modul 12 | 67 |
 | Modul 13 | 100 |
-| **Rata-rata** | **82.00** |
+| Modul 14 | 0 |
+| **Rata-rata** | **75.69** |
 
 *Catatan: M7 T1 tidak dikumpulkan (tidak ada PDF). File tugas7 berisi T2 dengan nama "tugas1". M10 tidak dikumpulkan. M12 T3 IndentationError.*

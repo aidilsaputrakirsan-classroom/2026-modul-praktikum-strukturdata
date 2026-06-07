@@ -228,7 +228,15 @@
 
 ---
 
-### **NILAI RATA-RATA (Modul 1-7, 9-13): 95.58**
+## Hasil Evaluasi Modul 14: Sorting Lanjutan
+
+- Ketiga file Tugas (`Tugas1/2/3`) dikumpulkan dalam keadaan **kosong** (0 baris / placeholder).
+
+**NILAI MODUL 14: 0**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-14): 88.23**
 
 | Modul | Nilai |
 |-------|-------|
@@ -244,4 +252,5 @@
 | Modul 11 | 100 |
 | Modul 12 | 100 |
 | Modul 13 | 100 |
-| **Rata-rata** | **95.58** |
+| Modul 14 | 0 |
+| **Rata-rata** | **88.23** |

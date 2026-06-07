@@ -229,7 +229,15 @@
 
 ---
 
-### **NILAI RATA-RATA (Modul 1-7, 9-13): 94.50**
+## Hasil Evaluasi Modul 14: Sorting Lanjutan
+
+- Tidak ada folder/file Modul 14 di repositori.
+
+**NILAI MODUL 14: 0**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-14): 87.23**
 
 | Modul | Nilai |
 |-------|-------|
@@ -245,4 +253,5 @@
 | Modul 11 | 100 |
 | Modul 12 | 100 |
 | Modul 13 | 100 |
-| **Rata-rata** | **94.50** |
+| Modul 14 | 0 |
+| **Rata-rata** | **87.23** |

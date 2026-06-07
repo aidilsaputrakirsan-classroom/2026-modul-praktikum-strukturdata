@@ -194,7 +194,15 @@
 
 ---
 
-### **NILAI RATA-RATA (Modul 1-7, 9-13): 60.58**
+## Hasil Evaluasi Modul 14: Sorting Lanjutan
+
+- Tidak ada folder/file Tugas Terstruktur Modul 14 di repositori.
+
+**NILAI MODUL 14: 0**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-14): 55.92**
 
 | Modul | Nilai |
 |-------|-------|
@@ -210,7 +218,8 @@
 | Modul 11 | 100 |
 | Modul 12 | 100 |
 | Modul 13 | 0 |
-| **Rata-rata** | **60.58** |
+| Modul 14 | 0 |
+| **Rata-rata** | **55.92** |
 
 *Catatan: M11 & M12 dievaluasi via `git show` karena folder bermasalah pada Windows.*
 

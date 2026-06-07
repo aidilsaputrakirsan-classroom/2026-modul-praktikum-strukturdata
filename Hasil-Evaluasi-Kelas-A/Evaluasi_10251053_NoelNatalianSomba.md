@@ -210,7 +210,25 @@
 
 ---
 
-### **NILAI RATA-RATA (Modul 1-7, 9-13): 76.42**
+## Hasil Evaluasi Modul 14: Sorting Lanjutan
+
+### 1. Tugas 1: Perbandingan Sorting Dasar vs Lanjutan
+- **Pengecekan Kode:** `quick_sort_inplace` rekursif murni -> `RecursionError: maximum recursion depth exceeded` saat benchmark n besar (program gagal selesai).
+- **Hasil Testing Terminal:** **FAILED** - **T1=0**
+
+### 2. Tugas 2: Sorting pada Data Kompleks
+- **Pengecekan Kode:** `multi_key_sort` salah urutan; `AssertionError` pada Test 4 (hasil `[('A','Fitri'),('A','Dina'),('A','Budi'),...]`).
+- **Hasil Testing Terminal:** **FAILED** - **T2=0**
+
+### 3. Tugas 3: Counting Sort dan Hybrid Sort
+- **Pengecekan Kode:** `counting_sort` & `hybrid_sort` benar.
+- **Hasil Testing Terminal:** **PASSED** (100%)
+
+**NILAI MODUL 14: 33**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-14): 73.08**
 
 | Modul | Nilai |
 |-------|-------|
@@ -226,6 +244,7 @@
 | Modul 11 | 0 |
 | Modul 12 | 0 |
 | Modul 13 | 100 |
-| **Rata-rata** | **76.42** |
+| Modul 14 | 33 |
+| **Rata-rata** | **73.08** |
 
 *Catatan: M6 dikumpulkan terlambat (setelah evaluasi pertama), sudah dievaluasi. M7 T1 tidak dikumpulkan (file tugas berisi Library bukan PDF teori). M11 & M12 tidak dikumpulkan sama sekali.*

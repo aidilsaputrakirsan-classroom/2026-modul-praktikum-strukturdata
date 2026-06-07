@@ -17,43 +17,43 @@
 | 1 | 10231001 | **Achmad Bayhaqi** | 97 | 58 | 82 | - | 73 | **84** | **AB** | [Lihat](Evaluasi_10231001_AchmadBayhaqi.md) |
 | 2 | 10231038 | **Firni Fauziah Ramadhini** | 90 | 64 | 51 | - | 100 | **75** | **B** | [Lihat](Evaluasi_10231038_FirniFauziahRamadhini_firnifziah.md) |
 | 3 | 10251003 | **ARI WIJAYANTO** | - | - | 0 | - | 0 | **0** | **E** | - |
-| 4 | 10251006 | **Muhammad Farid Kusuma Admaja** | 86 | 90 | 70 | - | 95 | **83** | **AB** | [Lihat](Evaluasi_10251006_MuhammadFaridKusumaAdmaja_Ridz010.md) |
-| 5 | 10251009 | **Taufiq Erik Herliansyah** | 42 | 48 | 24 | - | 68 | **40** | **E** | [Lihat](Evaluasi_10251009_TaufiqErikHerliansyah.md) |
-| 6 | 10251012 | **Fransiskus Ezekiel Rama Apriliano** | 67 | 48 | 65 | - | 100 | **68** | **B** | [Lihat](Evaluasi_10251012_FransiskusEzekielRamaApriliano_fransiskusezekiel.md) |
-| 7 | 10251015 | **Enjelin Hartini** | 72 | 44 | 44 | - | 100 | **63** | **BC** | [Lihat](Evaluasi_10251015_EnjelinHartini_enjelinhartini.md) |
-| 8 | 10251018 | **MUH. FAIZUBAIDILLAH H** | 87 | 92 | 74 | - | 100 | **85** | **AB** | [Lihat](Evaluasi_10251018_MuhFaizubaidillahH.md) |
-| 9 | 10251021 | **Alejandro Aprillio Bayu Aji** | 40 | - | 36 | - | 68 | **37** | **E** | [Lihat](Evaluasi_10251021_AlejandroAprillioBayuAji.md) |
-| 10 | 10251024 | **Shiva Andriyana** | 92 | 57 | 74 | - | 91 | **81** | **AB** | [Lihat](Evaluasi_10251024_ShivaAndriyana_anawithcode.md) |
-| 11 | 10251027 | **Kurnia Latifiansyah** | 89 | 77 | 65 | - | 100 | **81** | **AB** | [Lihat](Evaluasi_10251027_KurniaLatifiansyah_kurniala.md) |
+| 4 | 10251006 | **Muhammad Farid Kusuma Admaja** | 87 | 90 | 70 | - | 95 | **83** | **AB** | [Lihat](Evaluasi_10251006_MuhammadFaridKusumaAdmaja_Ridz010.md) |
+| 5 | 10251009 | **Taufiq Erik Herliansyah** | 38 | 48 | 24 | - | 68 | **39** | **E** | [Lihat](Evaluasi_10251009_TaufiqErikHerliansyah.md) |
+| 6 | 10251012 | **Fransiskus Ezekiel Rama Apriliano** | 69 | 48 | 65 | - | 100 | **69** | **B** | [Lihat](Evaluasi_10251012_FransiskusEzekielRamaApriliano_fransiskusezekiel.md) |
+| 7 | 10251015 | **Enjelin Hartini** | 74 | 44 | 44 | - | 100 | **64** | **BC** | [Lihat](Evaluasi_10251015_EnjelinHartini_enjelinhartini.md) |
+| 8 | 10251018 | **MUH. FAIZUBAIDILLAH H** | 88 | 92 | 74 | - | 100 | **86** | **AB** | [Lihat](Evaluasi_10251018_MuhFaizubaidillahH.md) |
+| 9 | 10251021 | **Alejandro Aprillio Bayu Aji** | 45 | - | 36 | - | 68 | **39** | **E** | [Lihat](Evaluasi_10251021_AlejandroAprillioBayuAji.md) |
+| 10 | 10251024 | **Shiva Andriyana** | 85 | 57 | 74 | - | 91 | **78** | **AB** | [Lihat](Evaluasi_10251024_ShivaAndriyana_anawithcode.md) |
+| 11 | 10251027 | **Kurnia Latifiansyah** | 82 | 77 | 65 | - | 100 | **78** | **AB** | [Lihat](Evaluasi_10251027_KurniaLatifiansyah_kurniala.md) |
 | 12 | 10251030 | **Anisa Dwi Wulandari** | - | - | 0 | - | 0 | **0** | **E** | - |
-| 13 | 10251033 | **Muhammad Ilham Nur Fauzi** | 68 | 86 | 80 | - | 91 | **77** | **AB** | [Lihat](Evaluasi_10251033_MuhammadIlhamNurFauzi.md) |
-| 14 | 10251036 | **Marine Fajar Sprinkler Taranda** | 61 | 51 | 57 | - | 100 | **63** | **BC** | [Lihat](Evaluasi_10251036_MarineFajarSprinklerTaranda.md) |
-| 15 | 10251039 | **Muhammad Khoiry Rijal** | 33 | 63 | 65 | - | 91 | **56** | **C** | [Lihat](Evaluasi_10251039_MuhammadKhoiryRijal.md) |
-| 16 | 10251042 | **Heldawati Ilham** | 39 | 54 | 58 | - | 95 | **55** | **C** | [Lihat](Evaluasi_10251042_Heldawatiilham_heldaa127.md) |
+| 13 | 10251033 | **Muhammad Ilham Nur Fauzi** | 71 | 86 | 80 | - | 91 | **78** | **AB** | [Lihat](Evaluasi_10251033_MuhammadIlhamNurFauzi.md) |
+| 14 | 10251036 | **Marine Fajar Sprinkler Taranda** | 56 | 51 | 57 | - | 100 | **62** | **BC** | [Lihat](Evaluasi_10251036_MarineFajarSprinklerTaranda.md) |
+| 15 | 10251039 | **Muhammad Khoiry Rijal** | 31 | 63 | 65 | - | 91 | **54** | **C** | [Lihat](Evaluasi_10251039_MuhammadKhoiryRijal.md) |
+| 16 | 10251042 | **Heldawati Ilham** | 36 | 54 | 58 | - | 95 | **54** | **C** | [Lihat](Evaluasi_10251042_Heldawatiilham_heldaa127.md) |
 | 17 | 10251045 | **IRFAN KURNIAWAN** | - | 38 | 45 | - | 55 | **27** | **E** | - |
-| 18 | 10251048 | **Dewi 'Husna Butsainah Nuhsabila** | 89 | 55 | 65 | - | 95 | **77** | **AB** | [Lihat](Evaluasi_10251048_DewiHusna.md) |
-| 19 | 10251051 | **Ahdyar Ramadhan** | 17 | 64 | 34 | - | 64 | **35** | **E** | [Lihat](Evaluasi_10251051_AhdyarRamadhan.md) |
-| 20 | 10251054 | **Rizky Muhammad Adha** | 71 | 14 | 65 | - | 82 | **63** | **BC** | [Lihat](Evaluasi_10251054_RizkyMuhammadAdha.md) |
-| 21 | 10251057 | **SHAFWAT AZZAH HIRFAZANISA LATIMOJONG** | 78 | 59 | 59 | - | 86 | **70** | **B** | [Lihat](Evaluasi_10251057_ShafwatAzzah_fasya25.md) |
-| 22 | 10251060 | **Nastain Masyal Sadani** | 94 | 47 | 83 | - | 91 | **84** | **AB** | [Lihat](Evaluasi_10251060_NastainMasyalSadani.md) |
-| 23 | 10251063 | **Muhammad Hanif Murtadho** | 89 | 80 | 69 | - | 73 | **79** | **AB** | [Lihat](Evaluasi_10251063_MuhammadHanifMurtadho_liandizgo-design.md) |
-| 24 | 10251066 | **Noel Randi Pakpahan** | 76 | 48 | 65 | - | 82 | **70** | **B** | [Lihat](Evaluasi_10251066_NoelRandiPakpahan_noelrandi7.md) |
-| 25 | 10251069 | **ALBIN GIAN AZTAFAIQ** | 56 | - | 39 | - | 82 | **46** | **D** | [Lihat](Evaluasi_10251069_AlbinGianAztafaiq.md) |
+| 18 | 10251048 | **Dewi 'Husna Butsainah Nuhsabila** | 90 | 55 | 65 | - | 95 | **78** | **AB** | [Lihat](Evaluasi_10251048_DewiHusna.md) |
+| 19 | 10251051 | **Ahdyar Ramadhan** | 15 | 64 | 34 | - | 64 | **35** | **E** | [Lihat](Evaluasi_10251051_AhdyarRamadhan.md) |
+| 20 | 10251054 | **Rizky Muhammad Adha** | 66 | 14 | 65 | - | 82 | **61** | **BC** | [Lihat](Evaluasi_10251054_RizkyMuhammadAdha.md) |
+| 21 | 10251057 | **SHAFWAT AZZAH HIRFAZANISA LATIMOJONG** | 80 | 59 | 59 | - | 86 | **71** | **B** | [Lihat](Evaluasi_10251057_ShafwatAzzah_fasya25.md) |
+| 22 | 10251060 | **Nastain Masyal Sadani** | 95 | 47 | 83 | - | 91 | **84** | **AB** | [Lihat](Evaluasi_10251060_NastainMasyalSadani.md) |
+| 23 | 10251063 | **Muhammad Hanif Murtadho** | 90 | 80 | 69 | - | 73 | **79** | **AB** | [Lihat](Evaluasi_10251063_MuhammadHanifMurtadho_liandizgo-design.md) |
+| 24 | 10251066 | **Noel Randi Pakpahan** | 78 | 48 | 65 | - | 82 | **70** | **B** | [Lihat](Evaluasi_10251066_NoelRandiPakpahan_noelrandi7.md) |
+| 25 | 10251069 | **ALBIN GIAN AZTAFAIQ** | 52 | - | 39 | - | 82 | **45** | **D** | [Lihat](Evaluasi_10251069_AlbinGianAztafaiq.md) |
 | 26 | 10251072 | **Reihan Agil Wijaya** | 92 | 62 | 77 | - | 100 | **84** | **AB** | [Lihat](Evaluasi_10251072_ReihanAgilWijaya_reihan-agil-wijaya.md) |
-| 27 | 10251075 | **Katon Hillal Alwan Saputra** | 17 | 42 | 65 | - | 73 | **44** | **D** | [Lihat](Evaluasi_10251075_KatonHillalAlwanSaputra.md) |
-| 28 | 10251078 | **Naafi' Annisa Nugrahantiningdyah** | 91 | 68 | 80 | - | 100 | **86** | **AB** | [Lihat](Evaluasi_10251078_NaafiAnnisaNugrahantiningdyah_naafiannisa.md) |
-| 29 | 10251081 | **FERNANDO FREDERIK LOWING** | 35 | 10 | 65 | - | 64 | **45** | **D** | [Lihat](Evaluasi_10251081_Fernando.md) |
-| 30 | 10251084 | **Sultan Zahid** | 75 | 60 | 76 | - | 82 | **74** | **B** | [Lihat](Evaluasi_10251084_SultanZahid_Vedomzz.md) |
-| 31 | 10251087 | **Muhammad Nabil Fadhilla** | 60 | 93 | 63 | - | 91 | **69** | **B** | [Lihat](Evaluasi_10251087_MuhammadNabilFadhilla_nabilfdl.md) |
-| 32 | 10251090 | **Nur Asyifa Ahmad** | 96 | 60 | 86 | - | 100 | **88** | **A** | [Lihat](Evaluasi_10251090_NurAsyifaAhmad_nurasyifaahmad.md) |
-| 33 | 10251093 | **Bagas Abdullah** | 36 | 41 | 51 | - | 41 | **42** | **D** | [Lihat](Evaluasi_10251093_Unknown.md) |
+| 27 | 10251075 | **Katon Hillal Alwan Saputra** | 21 | 42 | 65 | - | 73 | **45** | **D** | [Lihat](Evaluasi_10251075_KatonHillalAlwanSaputra.md) |
+| 28 | 10251078 | **Naafi' Annisa Nugrahantiningdyah** | 92 | 68 | 80 | - | 100 | **86** | **AB** | [Lihat](Evaluasi_10251078_NaafiAnnisaNugrahantiningdyah_naafiannisa.md) |
+| 29 | 10251081 | **FERNANDO FREDERIK LOWING** | 32 | 10 | 65 | - | 64 | **44** | **D** | [Lihat](Evaluasi_10251081_Fernando.md) |
+| 30 | 10251084 | **Sultan Zahid** | 70 | 60 | 76 | - | 82 | **72** | **B** | [Lihat](Evaluasi_10251084_SultanZahid_Vedomzz.md) |
+| 31 | 10251087 | **Muhammad Nabil Fadhilla** | 55 | 93 | 63 | - | 91 | **68** | **B** | [Lihat](Evaluasi_10251087_MuhammadNabilFadhilla_nabilfdl.md) |
+| 32 | 10251090 | **Nur Asyifa Ahmad** | 88 | 60 | 86 | - | 100 | **85** | **AB** | [Lihat](Evaluasi_10251090_NurAsyifaAhmad_nurasyifaahmad.md) |
+| 33 | 10251093 | **Bagas Abdullah** | 33 | 41 | 51 | - | 41 | **41** | **D** | [Lihat](Evaluasi_10251093_Unknown.md) |
 | 34 | 10251096 | **Gilang Artha Wijaya** | - | - | 57 | - | 18 | **21** | **E** | - |
-| 35 | 10251099 | **Raihan Pramudya** | 89 | 76 | 72 | - | 100 | **83** | **AB** | [Lihat](Evaluasi_10251099_RaihanPramudya.md) |
-| 36 | 10251102 | **MUHAMMAD DEVAN ABBIYU DZAKI LAKSMANA** | 17 | - | 65 | - | 64 | **37** | **E** | [Lihat](Evaluasi_10251102_MuhammadDevanADL_devansgt.md) |
-| 37 | 10251105 | **Muhammad Haikal El Pasha** | 80 | 38 | 65 | - | 100 | **72** | **B** | [Lihat](Evaluasi_10251105_MuhammadHaikalElPasha.md) |
-| 38 | 10251108 | **KEVIN MAULANA PRATAMA** | 68 | 35 | 65 | - | 100 | **67** | **B** | [Lihat](Evaluasi_10251108_KevinMaulanaPratama.md) |
-| 39 | 10251112 | **Cindy Callista Beatrice Sigalingging** | 57 | 49 | 65 | - | 91 | **63** | **BC** | [Lihat](Evaluasi_10251112_CindyCallistaBS_galeryc-afk.md) |
-| 40 | 10251115 | **Jonatan Bagus Kristiawan** | 85 | 60 | 74 | - | 86 | **78** | **AB** | [Lihat](Evaluasi_10251115_JonatanBagusKristiawan.md) |
+| 35 | 10251099 | **Raihan Pramudya** | 82 | 76 | 72 | - | 100 | **80** | **AB** | [Lihat](Evaluasi_10251099_RaihanPramudya.md) |
+| 36 | 10251102 | **MUHAMMAD DEVAN ABBIYU DZAKI LAKSMANA** | 15 | - | 65 | - | 64 | **36** | **E** | [Lihat](Evaluasi_10251102_MuhammadDevanADL_devansgt.md) |
+| 37 | 10251105 | **Muhammad Haikal El Pasha** | 81 | 38 | 65 | - | 100 | **72** | **B** | [Lihat](Evaluasi_10251105_MuhammadHaikalElPasha.md) |
+| 38 | 10251108 | **KEVIN MAULANA PRATAMA** | 63 | 35 | 65 | - | 100 | **65** | **BC** | [Lihat](Evaluasi_10251108_KevinMaulanaPratama.md) |
+| 39 | 10251112 | **Cindy Callista Beatrice Sigalingging** | 60 | 49 | 65 | - | 91 | **64** | **BC** | [Lihat](Evaluasi_10251112_CindyCallistaBS_galeryc-afk.md) |
+| 40 | 10251115 | **Jonatan Bagus Kristiawan** | 86 | 60 | 74 | - | 86 | **79** | **AB** | [Lihat](Evaluasi_10251115_JonatanBagusKristiawan.md) |
 
 ---
 

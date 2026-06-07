@@ -231,7 +231,15 @@
 
 ---
 
-### **NILAI RATA-RATA (Modul 1-7, 9-13): 86.17**
+## Hasil Evaluasi Modul 14: Sorting Lanjutan
+
+- Tidak ada folder/file Modul 14 di repositori.
+
+**NILAI MODUL 14: 0**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-14): 79.54**
 
 | Modul | Nilai |
 |-------|-------|
@@ -247,6 +255,7 @@
 | Modul 11 | 0 |
 | Modul 12 | 100 |
 | Modul 13 | 100 |
-| **Rata-rata** | **86.17** |
+| Modul 14 | 0 |
+| **Rata-rata** | **79.54** |
 
 *Catatan: Modul 11 T1/T2/T3 semua file berisi kode Praktikum 11.1/11.2/11.3 (file salah) — M11=0.*

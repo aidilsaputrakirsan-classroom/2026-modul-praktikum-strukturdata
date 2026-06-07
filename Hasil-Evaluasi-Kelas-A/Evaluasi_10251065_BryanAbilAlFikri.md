@@ -218,7 +218,15 @@
 
 ---
 
-### **NILAI RATA-RATA (Modul 1-7, 9-13): 88.92**
+## Hasil Evaluasi Modul 14: Sorting Lanjutan
+
+- Tidak ada folder/file Modul 14 di repositori.
+
+**NILAI MODUL 14: 0**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-14): 82.08**
 
 | Modul | Nilai |
 |-------|-------|
@@ -234,6 +242,7 @@
 | Modul 11 | 100 |
 | Modul 12 | 100 |
 | Modul 13 | 0 |
-| **Rata-rata** | **88.92** |
+| Modul 14 | 0 |
+| **Rata-rata** | **82.08** |
 
 *Catatan: M6 dikumpulkan terlambat (setelah evaluasi pertama), sudah dievaluasi. M12 di-push 24 Mei 2026, dievaluasi pada pull ulang — semua test PASSED.*

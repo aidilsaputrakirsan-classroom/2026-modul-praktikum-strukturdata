@@ -212,7 +212,15 @@
 
 ---
 
-### **NILAI RATA-RATA (Modul 1-7, 9-13): 88.92**
+## Hasil Evaluasi Modul 14: Sorting Lanjutan
+
+- Tidak ada folder/file Tugas Terstruktur Modul 14 di repositori.
+
+**NILAI MODUL 14: 0**
+
+---
+
+### **NILAI RATA-RATA (Modul 1-7, 9-14): 82.08**
 
 | Modul | Nilai |
 |-------|-------|
@@ -228,6 +236,7 @@
 | Modul 11 | 100 |
 | Modul 12 | 100 |
 | Modul 13 | 0 |
-| **Rata-rata** | **88.92** |
+| Modul 14 | 0 |
+| **Rata-rata** | **82.08** |
 
 *Penilaian dievaluasi secara statis-manual berdasarkan kode program dan divalidasi melalui eksekusi unit test satu per satu.*
