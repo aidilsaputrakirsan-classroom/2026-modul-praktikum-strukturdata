@@ -1,7 +1,5 @@
 # Daftar Mahasiswa Remedial UAS Struktur Data
 
-> **Sumber nilai:** `PRESENSI PRAKTIKUM STRUKTUR DATA (1).xlsx` (kolom NILAI UAS).
->
 > **Kriteria:** mahasiswa dengan nilai **UAS < 66** berhak mengikuti remedial.
 >
 > **Cap nilai maksimal remedial: 65**

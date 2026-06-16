@@ -200,11 +200,21 @@
 
 ## Hasil Evaluasi Modul 12: Algoritma Searching
 
-### Semua Tugas
-- **Pengecekan:** Tidak ditemukan folder atau file Modul 12 di repositori.
-- **Hasil:** **TIDAK DIKUMPULKAN** ❌ (0%)
+### 1. Tugas 1: Binary Search Lanjutan
+- **Pengecekan Kode:** `lower_bound`, `upper_bound`, `count_occurrences`, `find_closest`, `search_rotated` benar (5 test case).
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
 
-**NILAI MODUL 12: 0**
+### 2. Tugas 2: Hash Table (Open Addressing)
+- **Pengecekan Kode:** `put`/`get`/`remove` dengan linear probing & load factor benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+### 3. Tugas 3: Kamus Digital
+- **Pengecekan Kode:** Implementasi kamus berbasis hash (add/search/handle multi-arti) benar.
+- **Hasil Testing Terminal:** **PASSED** ✅ (100%)
+
+**NILAI MODUL 12: 100**
+
+> _Koreksi 16 Jun: M12 sebelumnya tercatat 0 (folder `minggu12` tidak terdeteksi saat evaluasi awal). Submission ada sejak 4 Jun (6 file), ketiga tugas PASSED → dinilai ulang 100._
 
 ---
 
@@ -262,7 +272,7 @@
 
 ---
 
-### **NILAI RATA-RATA (Modul 1-7, 9-15): 88.64**
+### **NILAI RATA-RATA (Modul 1-7, 9-15): 95.79**
 
 | Modul | Nilai |
 |-------|-------|
@@ -276,10 +286,10 @@
 | Modul 9 | 67 |
 | Modul 10 | 100 |
 | Modul 11 | 100 |
-| Modul 12 | 0 |
+| Modul 12 | 100 |
 | Modul 13 | 100 |
 | Modul 14 | 100 |
 | Modul 15 | 100 |
-| **Rata-rata** | **88.64** |
+| **Rata-rata** | **95.79** |
 
-*Catatan: Modul 11 T3 file kosong (0 baris). Modul 12 tidak dikumpulkan.*
+*Catatan: Modul 11 T3 file kosong (0 baris). Modul 12 dinilai ulang 16 Jun (sebelumnya 0 karena folder tak terdeteksi) → 100.*

@@ -24,10 +24,14 @@ Catatan:
 - Kolom Huruf hanya menampilkan huruf (tanpa badge skor).
 """
 
+import os
 import openpyxl
 from pathlib import Path
 
-EXCEL_PATH = Path('PRESENSI PRAKTIKUM STRUKTUR DATA.xlsx')
+# File presensi memuat Kuis/UTS/Kehadiran. File ini sengaja TIDAK disimpan di
+# repo (privasi). Set lokasi via env var PRESENSI_XLSX saat menjalankan script,
+# contoh: PRESENSI_XLSX=/path/ke/presensi.xlsx python compute_final_grades.py
+EXCEL_PATH = Path(os.environ.get('PRESENSI_XLSX', 'PRESENSI PRAKTIKUM STRUKTUR DATA.xlsx'))
 
 BOBOT = {
     'praktikum': 0.30,
@@ -172,7 +176,7 @@ PRAKTIKUM_A = {  # rata-rata M1-7, 9-15 (14 modul); update M15 Trie/Tensor
     10251017: 84.93,
     10251020: 99.29,
     10251023: 90.00,  # koreksi feedback 13Jun
-    10251026: 88.64,  # koreksi feedback 13Jun
+    10251026: 95.79,  # koreksi 16Jun: M12 dinilai ulang 0->100 (folder minggu12 tak terdeteksi saat evaluasi awal)
     10251029: 90.57,
     10251032: 92.79,  # koreksi feedback 13Jun
     10251035: 97.43,
@@ -292,6 +296,22 @@ def compute_nilai_sementara(prak, kuis, uts, hadir):
     return total / bobot_terisi
 
 
+def compute_nilai_akhir(prak, kuis, uts, uas, hadir):
+    """Nilai akhir dengan formula penuh (termasuk UAS), skala 100.
+    Komponen kosong dihitung sebagai 0 (penalti). Return None jika SEMUA kosong.
+    """
+    if (prak is None and kuis is None and uts is None
+            and uas is None and hadir is None):
+        return None
+    p = prak or 0
+    k = kuis or 0
+    u = uts or 0
+    a = uas or 0
+    h = hadir or 0
+    return (p * BOBOT['praktikum'] + k * BOBOT['kuis'] + u * BOBOT['uts']
+            + a * BOBOT['uas'] + h * BOBOT['hadir'])
+
+
 def fmt(v, dec=0):
     """Format ke integer (dibulatkan) by default. Pakai dec > 0 untuk desimal."""
     if v is None:
@@ -378,6 +398,39 @@ UTS_FINAL_OVERRIDE = {
 }
 
 
+# Nilai UAS ASLI (dari presensi). Fernando (10251081) & Gilang (10251096) tidak
+# hadir UAS → 0. Mahasiswa nonaktif (Gusti/Panji/Fawwaz/Ari/Anisa) tidak ada nilai.
+UAS_ASLI_A = {
+    10231081: 36, 10251002: 51, 10251005: 41, 10251008: 43, 10251011: 54,
+    10251014: 54, 10251017: 48, 10251020: 41, 10251023: 45, 10251026: 81,
+    10251029: 40, 10251032: 41, 10251035: 56, 10251038: 48, 10251044: 56,
+    10251047: 51, 10251050: 44, 10251053: 34, 10251056: 43, 10251059: 43,
+    10251062: 55, 10251065: 35, 10251068: 27, 10251071: 55, 10251074: 54,
+    10251077: 62, 10251080: 59, 10251083: 70, 10251086: 82, 10251089: 55,
+    10251092: 29, 10251095: 81, 10251104: 45, 10251107: 38, 10251110: 38,
+    10251114: 60, 10251117: 52,
+}
+
+UAS_ASLI_B = {
+    10231001: 50, 10231038: 40, 10251006: 42, 10251009: 20, 10251012: 56,
+    10251015: 29, 10251018: 73, 10251021: 42, 10251024: 72, 10251027: 55,
+    10251033: 76, 10251036: 32, 10251039: 37, 10251042: 42, 10251045: 20,
+    10251048: 61, 10251051: 37, 10251054: 24, 10251057: 50, 10251060: 52,
+    10251063: 52, 10251066: 39, 10251069: 12, 10251072: 63, 10251075: 22,
+    10251078: 58, 10251081: 0, 10251084: 36, 10251087: 46, 10251090: 74,
+    10251093: 12, 10251096: 0, 10251099: 54, 10251102: 32, 10251105: 16,
+    10251108: 22, 10251112: 54, 10251115: 38,
+}
+
+# UAS FINAL setelah remedial UAS. Formula: UAS_final = MAX(UAS_asli, MIN(UAS_remedial, 65))
+# KOSONG sampai remedial UAS dinilai (deadline submit Jumat, 19 Juni 2026 14.00 WITA).
+# Isi hanya mhs yang skornya NAIK karena remedial; sisanya otomatis pakai UAS asli.
+UAS_FINAL_OVERRIDE = {
+    'A': {},
+    'B': {},
+}
+
+
 # Sort order: pakai urutan README evaluasi dulu, lalu mahasiswa "extra" dari
 # Excel (yang tidak ada di evaluasi) di-append di akhir.
 ORDER_A = [
@@ -420,7 +473,8 @@ def build_row_order(kelas, excel_data, order_list):
     return sorted(all_nims)
 
 
-def generate_markdown(kelas, praktikum_map, username_map, order_list, excel_data, output_path):
+def generate_markdown(kelas, praktikum_map, username_map, order_list, excel_data,
+                      uas_asli_map, output_path):
     full_order = build_row_order(kelas, excel_data, order_list)
     lines = []
     lines.append(f"# Nilai Final Praktikum Struktur Data (Kelas {kelas})")
@@ -433,9 +487,12 @@ def generate_markdown(kelas, praktikum_map, username_map, order_list, excel_data
                  "minggu yang **sudah berjalan** dianggap alpa (0); sel kosong pada minggu yang "
                  "**belum berjalan** di-skip. Skor = (sum / total minggu sudah berjalan) x 100.")
     lines.append("")
-    lines.append("> **Nilai Sementara:** dihitung dari komponen yang sudah ada (Praktikum + Kuis + "
-                 "UTS + Hadir), dinormalisasi ke skala 100 (asumsi UAS sebanding dengan rata-rata "
-                 "komponen yang ada). Akan dihitung ulang setelah UAS terisi.")
+    lines.append("> **UTS & UAS:** ditampilkan nilai **final** (setelah remedial bila ada). "
+                 "Formula remedial: `nilai_final = MAX(asli, MIN(remedial, 65))`.")
+    lines.append("")
+    lines.append("> **Catatan UAS:** kolom UAS = nilai **asli**. Remedial UAS (67 mhs) masih "
+                 "berjalan — deadline submit **Jumat, 19 Juni 2026 14.00 WITA**. Nilai mhs peserta "
+                 "remedial dapat naik (maks 65) dan **Nilai Akhir akan dihitung ulang** setelahnya.")
     lines.append("")
     lines.append("> **Konversi huruf** (batas bawah inklusif): A >= 86, AB 76-86, B 66-76, "
                  "BC 56-66, C 51-56, D 41-51, E < 41.")
@@ -445,12 +502,13 @@ def generate_markdown(kelas, praktikum_map, username_map, order_list, excel_data
     lines.append("## Rekapitulasi Nilai")
     lines.append("")
     lines.append("| No | NIM | Nama | Praktikum (30%) | Kuis (10%) | UTS (25%) | UAS (25%) | "
-                 "Hadir (10%) | Nilai Sementara | Huruf | Detail |")
+                 "Hadir (10%) | Nilai Akhir | Huruf | Detail |")
     lines.append("|---:|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|")
 
     overrides = ATTENDANCE_OVERRIDE.get(kelas, {})
     uts_overrides = UTS_FINAL_OVERRIDE.get(kelas, {})
     kuis_overrides = KUIS_OVERRIDE.get(kelas, {})
+    uas_overrides = UAS_FINAL_OVERRIDE.get(kelas, {})
     for idx, nim in enumerate(full_order, start=1):
         excel = excel_data.get(nim, {})
         nama_excel = excel.get('nama_excel', '?')
@@ -458,17 +516,18 @@ def generate_markdown(kelas, praktikum_map, username_map, order_list, excel_data
         prak = praktikum_map.get(nim)
         kuis = kuis_overrides.get(nim, excel.get('kuis'))
         uts = uts_overrides.get(nim, excel.get('uts'))
+        uas = uas_overrides.get(nim, uas_asli_map.get(nim))
         hadir = overrides.get(nim, excel.get('attendance'))
         username = username_map.get(nim, '')
 
-        nilai = compute_nilai_sementara(prak, kuis, uts, hadir)
+        nilai = compute_nilai_akhir(prak, kuis, uts, uas, hadir)
         grade = letter_grade(nilai)
 
         eval_file = find_evaluation_file(kelas, nim, username)
         detail = f"[Lihat]({eval_file})" if eval_file else "-"
 
         lines.append(
-            f"| {idx} | {nim} | **{nama}** | {fmt(prak)} | {fmt(kuis)} | {fmt(uts)} | - | "
+            f"| {idx} | {nim} | **{nama}** | {fmt(prak)} | {fmt(kuis)} | {fmt(uts)} | {fmt(uas)} | "
             f"{fmt(hadir)} | **{fmt(nilai)}** | **{grade}** | {detail} |"
         )
 
@@ -478,16 +537,13 @@ def generate_markdown(kelas, praktikum_map, username_map, order_list, excel_data
     lines.append("## Formula Perhitungan Final")
     lines.append("")
     lines.append("```")
-    lines.append("Nilai Final = Praktikum x 0.30 + Kuis x 0.10 + UTS x 0.25 + UAS x 0.25 + Kehadiran x 0.10")
+    lines.append("Nilai Akhir = Praktikum x 0.30 + Kuis x 0.10 + UTS x 0.25 + UAS x 0.25 + Kehadiran x 0.10")
     lines.append("```")
     lines.append("")
-    lines.append("Karena **UAS belum dilaksanakan**, kolom **Nilai Sementara** dihitung dengan normalisasi:")
+    lines.append("UTS & UAS memakai nilai final pasca-remedial: `nilai_final = MAX(asli, MIN(remedial, 65))`.")
     lines.append("")
-    lines.append("```")
-    lines.append("Nilai Sementara = (Praktikum x 0.30 + Kuis x 0.10 + UTS x 0.25 + Kehadiran x 0.10) / 0.75")
-    lines.append("```")
-    lines.append("")
-    lines.append("Setelah UAS terisi, formula final akan menggunakan rumus pertama tanpa normalisasi.")
+    lines.append("Remedial UAS masih berjalan (deadline 19 Juni 2026). Setelah dinilai, isi "
+                 "`UAS_FINAL_OVERRIDE` di `compute_final_grades.py` lalu jalankan ulang script.")
     lines.append("")
 
     output_path.write_text('\n'.join(lines), encoding='utf-8')
@@ -496,7 +552,7 @@ def generate_markdown(kelas, praktikum_map, username_map, order_list, excel_data
 
 if __name__ == "__main__":
     data = parse_excel()
-    generate_markdown('A', PRAKTIKUM_A, USERNAME_A, ORDER_A, data['A'],
+    generate_markdown('A', PRAKTIKUM_A, USERNAME_A, ORDER_A, data['A'], UAS_ASLI_A,
                       Path('Hasil-Evaluasi-Kelas-A/Nilai-Final-Kelas-A.md'))
-    generate_markdown('B', PRAKTIKUM_B, USERNAME_B, ORDER_B, data['B'],
+    generate_markdown('B', PRAKTIKUM_B, USERNAME_B, ORDER_B, data['B'], UAS_ASLI_B,
                       Path('Hasil-Evaluasi-Kelas-B/Nilai-Final-Kelas-B.md'))
