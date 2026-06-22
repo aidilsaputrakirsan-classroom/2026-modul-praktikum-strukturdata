@@ -51,6 +51,7 @@ GRADE_FLOOR = {
         10251026: 93,                  # Salsabila -> 93
         10251080: 80,                  # Julian Zaky -> 80
         10251011: 76, 10251017: 76,    # Suci & Devi -> minimal 76 (AB)
+        10251089: 76,                  # Ryan -> 76 (AB)
     },
     'B': {
         10251042: 51, 10251051: 51, 10251075: 51,   # D -> C (minimal lulus)
@@ -219,7 +220,7 @@ PRAKTIKUM_A = {  # rata-rata M1-7, 9-15 (14 modul); update M15 Trie/Tensor
     10251077: 80.71,  # koreksi feedback 13Jun
     10251080: 85.71,  # koreksi feedback 13Jun
     10251083: 97.64,
-    10251089: 86.93,  # koreksi feedback 13Jun
+    10251089: 94.07,  # koreksi 22Jun: M15 0->100 (file commit 13Jun Sabtu on-time, sebelumnya 'tak terbaca'); tugas PASSED
     10251092: 77.36,
     10251095: 96.43,
     10251104: 96.21,  # koreksi feedback 13Jun
@@ -465,6 +466,7 @@ UAS_FINAL_OVERRIDE = {
         10251087: 65, 10251099: 65, 10251102: 65, 10251105: 65, 10251108: 65,
         10251112: 65, 10251115: 65,
         10251036: 65, 10251063: 65, 10251009: 65,  # 22Jun: komplain valid, remedial submit tepat waktu & PASSED (folder typo "REMIDIAL"/path invalid → kelewat saat scan awal)
+        10251021: 65,  # 22Jun: Alejandro - remedial set C PASSED, commit 19Jun 03:27 (sblm deadline); kelewat krn file "..." invalid path blokir checkout
         # Heldawati (10251042) tidak naik (remedial 20 < asli 42) → tetap pakai asli.
     },
 }

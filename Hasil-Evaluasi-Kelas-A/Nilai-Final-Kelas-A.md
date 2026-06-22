@@ -48,7 +48,7 @@
 | 28 | 10251080 | **Julian Zaky Saputra** | 86 | 68 | 76 | 65 | 100 | **80** | **AB** | ⬆ kebijakan nilai; [Lihat](Evaluasi_10251080_JulianZakySaputra.md) |
 | 29 | 10251083 | **Mosses Restu Nugroho** | 98 | 75 | 84 | 70 | 100 | **86** | **A** | ⬆ kebijakan nilai; [Lihat](Evaluasi_10251083_MossesRestuNugroho.md) |
 | 30 | 10251086 | **Muhammad Rizqi Hdayah** | 90 | 71 | 69 | 82 | 100 | **82** | **AB** | [Lihat](Evaluasi_10251075_MuhammadRizqiHidayah.md) |
-| 31 | 10251089 | **Muhammad Ryan Eka Putra** | 87 | 59 | 62 | 65 | 92 | **73** | **B** | [Lihat](Evaluasi_10251089_Ryan.md) |
+| 31 | 10251089 | **Muhammad Ryan Eka Putra** | 94 | 59 | 62 | 65 | 92 | **76** | **AB** | ⬆ kebijakan nilai; [Lihat](Evaluasi_10251089_Ryan.md) |
 | 32 | 10251092 | **Razi Abdullah** | 77 | - | 65 | 29 | 83 | **55** | **C** | [Lihat](Evaluasi_Unknown_snowyy26.md) |
 | 33 | 10251095 | **Nur Hayyu Nurdin** | 96 | 69 | 79 | 81 | 96 | **86** | **A** | ⬆ kebijakan nilai; [Lihat](Evaluasi_10251095_NurHayyuNurdin.md) |
 | 34 | 10251098 | **PANJI DWI REYJAYA** | - | - | - | - | 0 | **0** | **E** | - |

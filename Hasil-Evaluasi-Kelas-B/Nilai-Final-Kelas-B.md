@@ -26,7 +26,7 @@
 | 6 | 10251012 | **Fransiskus Ezekiel Rama Apriliano** | 83 | 48 | 65 | 65 | 100 | **76** | **AB** | ⬆ kebijakan nilai; [Lihat](Evaluasi_10251012_FransiskusEzekielRamaApriliano_fransiskusezekiel.md) |
 | 7 | 10251015 | **Enjelin Hartini** | 76 | 44 | 44 | 65 | 100 | **65** | **BC** | [Lihat](Evaluasi_10251015_EnjelinHartini_enjelinhartini.md) |
 | 8 | 10251018 | **MUH. FAIZUBAIDILLAH H** | 89 | 92 | 74 | 73 | 100 | **86** | **A** | ⬆ kebijakan nilai; [Lihat](Evaluasi_10251018_MuhFaizubaidillahH.md) |
-| 9 | 10251021 | **Alejandro Aprillio Bayu Aji** | 56 | 70 | 65 | 42 | 68 | **57** | **BC** | [Lihat](Evaluasi_10251021_AlejandroAprillioBayuAji.md) |
+| 9 | 10251021 | **Alejandro Aprillio Bayu Aji** | 56 | 70 | 65 | 65 | 68 | **63** | **BC** | [Lihat](Evaluasi_10251021_AlejandroAprillioBayuAji.md) |
 | 10 | 10251024 | **Shiva Andriyana** | 86 | 57 | 74 | 72 | 91 | **77** | **AB** | [Lihat](Evaluasi_10251024_ShivaAndriyana_anawithcode.md) |
 | 11 | 10251027 | **Kurnia Latifiansyah** | 81 | 77 | 65 | 55 | 100 | **76** | **AB** | ⬆ kebijakan nilai; [Lihat](Evaluasi_10251027_KurniaLatifiansyah_kurniala.md) |
 | 12 | 10251030 | **Anisa Dwi Wulandari** | - | - | 0 | - | 0 | **0** | **E** | - |

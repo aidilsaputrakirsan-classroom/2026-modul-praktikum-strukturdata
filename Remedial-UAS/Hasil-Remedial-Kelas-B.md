@@ -52,7 +52,7 @@
 | 10251102 | **Muhammad Devan Abbiyu Dzaki Laksmana** | B | 25 | 25 | 30 | 20 | 100 | 65 | 32 | **65** | Lengkap — semua PASSED |
 | 10251112 | **Cindy Callista Beatrice Sigalingging** | B | 25 | 25 | 30 | 20 | 100 | 65 | 54 | **65** | Lengkap — semua PASSED |
 | 10251009 | **Taufiq Erik Herliansyah** | C | 25 | 25 | 30 | 20 | 100 | 65 | 20 | **65** | 3 soal PASSED. Awal kelewat: pull lokal abort (staged deletions) |
-| 10251021 | **Alejandro Aprillio Bayu Aji** | C | - | - | - | - | - | - | 42 | **42** | Belum submit remedial |
+| 10251021 | **Alejandro Aprillio Bayu Aji** | C | 25 | 25 | 30 | 20 | 100 | 65 | 42 | **65** | 3 soal PASSED (commit 19 Jun, sblm deadline). Awal kelewat: file `...` invalid path blokir checkout |
 | 10251039 | **Muhammad Khoiry Rijal** | C | 25 | 25 | 30 | 20 | 100 | 65 | 37 | **65** | Lengkap — semua PASSED |
 | 10251048 | **Dewi 'Husna Butsainah Nuhsabila** | C | 25 | 25 | 15 | 20 | 85 | 65 | 61 | **65** | S3 suspect-copy 0.91 vs Risna → -50% |
 | 10251057 | **Shafwat Azzah Hirfazanisa Latimojong** | C | - | - | - | - | - | - | 50 | **50** | Belum submit remedial |
@@ -69,9 +69,9 @@
 
 | Kategori | Jumlah |
 |----------|------:|
-| Submit & nilai naik | 25 |
+| Submit & nilai naik | 26 |
 | Submit tapi UAS asli >= remedial (asli dipakai) | 1 |
-| Belum submit (UAS asli tetap) | 8 |
+| Belum submit (UAS asli tetap) | 7 |
 | **Total terdaftar** | **34** |
 
-> _Update 22 Jun: +3 submission terverifikasi dari komplain (Marine 10251036, Hanif 10251063, Taufiq 10251009) yang awalnya kelewat karena typo folder / path invalid / pull abort._
+> _Update 22 Jun: +4 submission terverifikasi dari komplain (Marine 10251036, Hanif 10251063, Taufiq 10251009, Alejandro 10251021) yang awalnya kelewat karena typo folder / path invalid (file `...`/`<>`) / pull abort._
