@@ -193,7 +193,7 @@ PRAKTIKUM_A = {  # rata-rata M1-7, 9-15 (14 modul); update M15 Trie/Tensor
     10231081: 91.64,  # M14=83 (T1 blok analisis tidak diisi)
     10251002: 95.29,
     10251005: 56.71,  # M14=0 (tidak ada Modul 14)
-    10251008: 62.50,  # M14=0 (hanya praktikum)
+    10251008: 76.79,  # koreksi 22Jun: telat dipotong - M11/M12=50 (telat, commit 26Mei, -50%), M13=67 (tugas1 baru hari ini=0), M14=0 (semua commit hari ini), M15=100 (on-time 12Jun)
     10251011: 77.64,  # M14=33 (hanya T2)
     10251014: 89.93,
     10251017: 84.93,
@@ -233,7 +233,7 @@ PRAKTIKUM_B = {  # rata-rata M1-7, 9-15 (14 modul); update M15 Trie/Tensor
     10231001: 97.64,
     10231038: 91.14,
     10251006: 88.36,
-    10251009: 42.86,  # M14=0
+    10251009: 83.36,  # koreksi 22Jun: susulan M9-14 (sakit, konfirmasi kak Daffa) M9/11/12/13/14->100, M10->67; M4/M6 tetap 0
     10251012: 83.36,  # koreksi: M9 & M10 ada (folder Minggu9/Minggu10 tak terdeteksi) - M9=100, M10=67
     10251015: 76.21,
     10251018: 89.07,
@@ -464,6 +464,7 @@ UAS_FINAL_OVERRIDE = {
         10251066: 65, 10251069: 65, 10251075: 65, 10251078: 65, 10251084: 65,
         10251087: 65, 10251099: 65, 10251102: 65, 10251105: 65, 10251108: 65,
         10251112: 65, 10251115: 65,
+        10251036: 65, 10251063: 65, 10251009: 65,  # 22Jun: komplain valid, remedial submit tepat waktu & PASSED (folder typo "REMIDIAL"/path invalid → kelewat saat scan awal)
         # Heldawati (10251042) tidak naik (remedial 20 < asli 42) → tetap pakai asli.
     },
 }

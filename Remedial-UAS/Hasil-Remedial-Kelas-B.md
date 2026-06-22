@@ -42,16 +42,16 @@
 | 10251108 | **Kevin Maulana Pratama** | A | 25 | 25 | 30 | 20 | 100 | 65 | 22 | **65** | Lengkap — semua PASSED |
 | 10231038 | **Firni Fauziah Ramadhini** | B | 25 | 25 | 30 | 20 | 100 | 65 | 40 | **65** | Lengkap — semua PASSED |
 | 10251015 | **Enjelin Hartini** | B | 25 | 25 | 30 | 20 | 100 | 65 | 29 | **65** | Lengkap — semua PASSED |
-| 10251036 | **Marine Fajar Sprinkler Taranda** | B | - | - | - | - | - | - | 32 | **32** | Belum submit remedial |
+| 10251036 | **Marine Fajar Sprinkler Taranda** | B | 25 | 25 | 30 | 20 | 100 | 65 | 32 | **65** | Logika 3 soal PASSED. Awal kelewat: folder typo "REMIDIAL-UAS" + nama file `<...>` (path invalid Windows) + README ke-paste ke .py |
 | 10251045 | **Irfan Kurniawan** | B | - | - | - | - | - | - | 20 | **20** | Belum submit remedial |
 | 10251054 | **Rizky Muhammad Adha** | B | 25 | 25 | 30 | 20 | 100 | 65 | 24 | **65** | Lengkap — semua PASSED |
-| 10251063 | **Muhammad Hanif Murtadho** | B | - | - | - | - | - | - | 52 | **52** | Belum submit remedial |
+| 10251063 | **Muhammad Hanif Murtadho** | B | 25 | 25 | 30 | 20 | 100 | 65 | 52 | **65** | 3 soal PASSED (S1 lolos test wajib). Awal kelewat: folder typo "Remidial-UAS" |
 | 10251069 | **Albin Gian Aztafaiq** | B | 25 | 25 | 30 | 20 | 100 | 65 | 12 | **65** | Lengkap — semua PASSED |
 | 10251072 | **Reihan Agil Wijaya** | B | - | - | - | - | - | - | 63 | **63** | Belum submit remedial |
 | 10251087 | **Muhammad Nabil Fadhilla** | B | 25 | 25 | 30 | 20 | 100 | 65 | 46 | **65** | Lengkap — semua PASSED |
 | 10251102 | **Muhammad Devan Abbiyu Dzaki Laksmana** | B | 25 | 25 | 30 | 20 | 100 | 65 | 32 | **65** | Lengkap — semua PASSED |
 | 10251112 | **Cindy Callista Beatrice Sigalingging** | B | 25 | 25 | 30 | 20 | 100 | 65 | 54 | **65** | Lengkap — semua PASSED |
-| 10251009 | **Taufiq Erik Herliansyah** | C | - | - | - | - | - | - | 20 | **20** | Belum submit remedial |
+| 10251009 | **Taufiq Erik Herliansyah** | C | 25 | 25 | 30 | 20 | 100 | 65 | 20 | **65** | 3 soal PASSED. Awal kelewat: pull lokal abort (staged deletions) |
 | 10251021 | **Alejandro Aprillio Bayu Aji** | C | - | - | - | - | - | - | 42 | **42** | Belum submit remedial |
 | 10251039 | **Muhammad Khoiry Rijal** | C | 25 | 25 | 30 | 20 | 100 | 65 | 37 | **65** | Lengkap — semua PASSED |
 | 10251048 | **Dewi 'Husna Butsainah Nuhsabila** | C | 25 | 25 | 15 | 20 | 85 | 65 | 61 | **65** | S3 suspect-copy 0.91 vs Risna → -50% |
@@ -69,7 +69,9 @@
 
 | Kategori | Jumlah |
 |----------|------:|
-| Submit & nilai naik | 22 |
+| Submit & nilai naik | 25 |
 | Submit tapi UAS asli >= remedial (asli dipakai) | 1 |
-| Belum submit (UAS asli tetap) | 11 |
+| Belum submit (UAS asli tetap) | 8 |
 | **Total terdaftar** | **34** |
+
+> _Update 22 Jun: +3 submission terverifikasi dari komplain (Marine 10251036, Hanif 10251063, Taufiq 10251009) yang awalnya kelewat karena typo folder / path invalid / pull abort._

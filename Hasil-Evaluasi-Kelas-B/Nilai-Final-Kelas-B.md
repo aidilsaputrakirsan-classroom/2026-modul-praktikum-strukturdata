@@ -22,7 +22,7 @@
 | 2 | 10231038 | **Firni Fauziah Ramadhini** | 91 | 64 | 51 | 65 | 100 | **73** | **B** | [Lihat](Evaluasi_10231038_FirniFauziahRamadhini_firnifziah.md) |
 | 3 | 10251003 | **ARI WIJAYANTO** | - | - | 0 | - | 0 | **0** | **E** | - |
 | 4 | 10251006 | **Muhammad Farid Kusuma Admaja** | 88 | 90 | 70 | 65 | 95 | **82** | **AB** | ⬆ kebijakan nilai; [Lihat](Evaluasi_10251006_MuhammadFaridKusumaAdmaja_Ridz010.md) |
-| 5 | 10251009 | **Taufiq Erik Herliansyah** | 43 | 48 | 24 | 20 | 91 | **41** | **D** | ⬆ kebijakan nilai; [Lihat](Evaluasi_10251009_TaufiqErikHerliansyah.md) |
+| 5 | 10251009 | **Taufiq Erik Herliansyah** | 83 | 48 | 24 | 65 | 91 | **61** | **BC** | [Lihat](Evaluasi_10251009_TaufiqErikHerliansyah.md) |
 | 6 | 10251012 | **Fransiskus Ezekiel Rama Apriliano** | 83 | 48 | 65 | 65 | 100 | **76** | **AB** | ⬆ kebijakan nilai; [Lihat](Evaluasi_10251012_FransiskusEzekielRamaApriliano_fransiskusezekiel.md) |
 | 7 | 10251015 | **Enjelin Hartini** | 76 | 44 | 44 | 65 | 100 | **65** | **BC** | [Lihat](Evaluasi_10251015_EnjelinHartini_enjelinhartini.md) |
 | 8 | 10251018 | **MUH. FAIZUBAIDILLAH H** | 89 | 92 | 74 | 73 | 100 | **86** | **A** | ⬆ kebijakan nilai; [Lihat](Evaluasi_10251018_MuhFaizubaidillahH.md) |
@@ -31,7 +31,7 @@
 | 11 | 10251027 | **Kurnia Latifiansyah** | 81 | 77 | 65 | 55 | 100 | **76** | **AB** | ⬆ kebijakan nilai; [Lihat](Evaluasi_10251027_KurniaLatifiansyah_kurniala.md) |
 | 12 | 10251030 | **Anisa Dwi Wulandari** | - | - | 0 | - | 0 | **0** | **E** | - |
 | 13 | 10251033 | **Muhammad Ilham Nur Fauzi** | 73 | 86 | 80 | 76 | 91 | **82** | **AB** | ⬆ kebijakan nilai; [Lihat](Evaluasi_10251033_MuhammadIlhamNurFauzi.md) |
-| 14 | 10251036 | **Marine Fajar Sprinkler Taranda** | 59 | 51 | 65 | 32 | 100 | **57** | **BC** | [Lihat](Evaluasi_10251036_MarineFajarSprinklerTaranda.md) |
+| 14 | 10251036 | **Marine Fajar Sprinkler Taranda** | 59 | 51 | 65 | 65 | 100 | **65** | **BC** | [Lihat](Evaluasi_10251036_MarineFajarSprinklerTaranda.md) |
 | 15 | 10251039 | **Muhammad Khoiry Rijal** | 36 | 63 | 65 | 65 | 91 | **59** | **BC** | [Lihat](Evaluasi_10251039_MuhammadKhoiryRijal.md) |
 | 16 | 10251042 | **Heldawati Ilham** | 33 | 54 | 58 | 42 | 95 | **51** | **C** | ⬆ kebijakan nilai; [Lihat](Evaluasi_10251042_Heldawatiilham_heldaa127.md) |
 | 17 | 10251045 | **IRFAN KURNIAWAN** | - | 38 | 45 | 20 | 55 | **41** | **D** | ⬆ kebijakan nilai |
@@ -40,7 +40,7 @@
 | 20 | 10251054 | **Rizky Muhammad Adha** | 68 | 14 | 65 | 65 | 82 | **62** | **BC** | [Lihat](Evaluasi_10251054_RizkyMuhammadAdha.md) |
 | 21 | 10251057 | **SHAFWAT AZZAH HIRFAZANISA LATIMOJONG** | 88 | 59 | 59 | 50 | 86 | **68** | **B** | [Lihat](Evaluasi_10251057_ShafwatAzzah_fasya25.md) |
 | 22 | 10251060 | **Nastain Masyal Sadani** | 95 | 47 | 83 | 65 | 91 | **79** | **AB** | [Lihat](Evaluasi_10251060_NastainMasyalSadani.md) |
-| 23 | 10251063 | **Muhammad Hanif Murtadho** | 90 | 80 | 69 | 52 | 73 | **73** | **B** | [Lihat](Evaluasi_10251063_MuhammadHanifMurtadho_liandizgo-design.md) |
+| 23 | 10251063 | **Muhammad Hanif Murtadho** | 90 | 80 | 69 | 65 | 73 | **76** | **B** | [Lihat](Evaluasi_10251063_MuhammadHanifMurtadho_liandizgo-design.md) |
 | 24 | 10251066 | **Noel Randi Pakpahan** | 80 | 48 | 65 | 65 | 82 | **69** | **B** | [Lihat](Evaluasi_10251066_NoelRandiPakpahan_noelrandi7.md) |
 | 25 | 10251069 | **ALBIN GIAN AZTAFAIQ** | 55 | 70 | 39 | 65 | 82 | **58** | **BC** | [Lihat](Evaluasi_10251069_AlbinGianAztafaiq.md) |
 | 26 | 10251072 | **Reihan Agil Wijaya** | 93 | 62 | 77 | 63 | 100 | **82** | **AB** | ⬆ kebijakan nilai; [Lihat](Evaluasi_10251072_ReihanAgilWijaya_reihan-agil-wijaya.md) |

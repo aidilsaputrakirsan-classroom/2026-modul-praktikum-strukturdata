@@ -21,7 +21,7 @@
 | 1 | 10231081 | **Rendy Rifandi Kurnia** | 92 | 66 | 80 | 65 | 38 | **74** | **B** | [Lihat](Evaluasi_10231081_NorEndGate.md) |
 | 2 | 10251002 | **Dina Gracella Apnel Lengkong** | 95 | 52 | 65 | 65 | 100 | **76** | **AB** | [Lihat](Evaluasi_10251002_DinaGracellaApnelLengkong.md) |
 | 3 | 10251005 | **Rifat AdlyJuliandra** | 57 | 49 | 65 | 50 | 100 | **61** | **BC** | [Lihat](Evaluasi_10251005_rifatadlyjuliandra.md) |
-| 4 | 10251008 | **Nadya Az-Zahra** | 62 | 37 | 54 | 65 | 100 | **62** | **BC** | [Lihat](Evaluasi_10251008_NadyaAzZahra.md) |
+| 4 | 10251008 | **Nadya Az-Zahra** | 77 | 37 | 54 | 65 | 100 | **66** | **B** | [Lihat](Evaluasi_10251008_NadyaAzZahra.md) |
 | 5 | 10251011 | **A. Suci Maharani.P** | 78 | 63 | 62 | 65 | 100 | **76** | **AB** | ⬆ kebijakan nilai; [Lihat](Evaluasi_10251011_ASuciMaharani.md) |
 | 6 | 10251014 | **Zacky Ahmad Ardian** | 90 | 53 | 58 | 65 | 100 | **73** | **B** | [Lihat](Evaluasi_10251014_ZackyAhmadArdian.md) |
 | 7 | 10251017 | **Devi Gustiani** | 85 | 65 | 65 | 65 | 100 | **76** | **AB** | ⬆ kebijakan nilai; [Lihat](Evaluasi_10251017_DeviGustiani.md) |
