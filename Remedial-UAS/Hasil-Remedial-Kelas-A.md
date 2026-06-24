@@ -37,7 +37,7 @@
 | 10251062 | **Ananda Eurico Rhiva Rifqia Salim** | A | - | - | - | - | - | - | 55 | **55** | Belum submit remedial |
 | 10251071 | **Muhammad Rasya Al Khalifi** | A | 25 | 25 | 30 | -15 | 65 | 65 | 55 | **65** | Tanpa README → -15 |
 | 10251080 | **Julian Zaky Saputra** | A | 25 | 25 | 30 | 20 | 100 | 65 | 59 | **65** | Lengkap — semua PASSED |
-| 10251092 | **Razi Abdullah** | A | - | - | - | - | - | - | 29 | **29** | Belum submit remedial |
+| 10251092 | **Razi Abdullah** | A | 25 | 25 | 30 | 20 | 100 | 65 | 29 | **65** | 3 soal PASSED (commit 18 Jun, sblm deadline). Awal kelewat: typo folder "Remdial-UAS" |
 | 10251110 | **Farel Noviansyah** | A | 25 | 25 | 30 | 20 | 100 | 65 | 38 | **65** | Lengkap — semua PASSED |
 | 10251002 | **Dina Gracella Apnel Lengkong** | B | 25 | 25 | 30 | 20 | 100 | 65 | 51 | **65** | Lengkap — semua PASSED |
 | 10251011 | **A. Suci Maharani P** | B | 25 | 25 | 30 | 20 | 100 | 65 | 54 | **65** | Lengkap — semua PASSED |
@@ -68,7 +68,7 @@
 
 | Kategori | Jumlah |
 |----------|------:|
-| Submit & nilai naik | 28 |
+| Submit & nilai naik | 29 |
 | Submit tapi UAS asli >= remedial (asli dipakai) | 0 |
-| Belum submit (UAS asli tetap) | 5 |
+| Belum submit (UAS asli tetap) | 4 |
 | **Total terdaftar** | **33** |

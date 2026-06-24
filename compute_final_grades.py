@@ -52,6 +52,7 @@ GRADE_FLOOR = {
         10251080: 80,                  # Julian Zaky -> 80
         10251011: 76, 10251017: 76,    # Suci & Devi -> minimal 76 (AB)
         10251089: 76,                  # Ryan -> 76 (AB)
+        10251092: 67,                  # Razi -> 67 (B)
     },
     'B': {
         10251042: 51, 10251051: 51, 10251075: 51,   # D -> C (minimal lulus)
@@ -457,6 +458,7 @@ UAS_FINAL_OVERRIDE = {
         10251056: 65, 10251059: 65, 10251068: 65, 10251071: 65, 10251074: 65,
         10251077: 65, 10251080: 65, 10251089: 65, 10251104: 65, 10251107: 65,
         10251110: 65, 10251114: 65, 10251117: 65,
+        10251092: 65,  # 22Jun: Razi - remedial set A PASSED, commit 18Jun (sblm deadline); kelewat krn typo folder "Remdial-UAS"
         # Rifat Adly (10251005)->50: S3 sorted() & README minim. Dhevrant (10251020)->60: S1 error & S3 copy.
     },
     'B': {
